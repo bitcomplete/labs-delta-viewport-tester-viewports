@@ -1,1 +1,33 @@
-
+[
+    {
+        "id": "id:item:v2024.08.30:iphone-15",
+        "slug": "iphone-15",
+        "active": true,
+        "labels": {
+            "primary": "iPhone 15",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "iPhone 15",
+            "apple",
+            "mobile",
+            "phone"
+        ],
+        "attributes": {
+            "popularity": 6,
+            "icons": ["deviceMobile", "brandApple"],
+            "width": 394,
+            "height": 852
+        },
+        "properties": {
+            "screen": {
+                "width": 0,
+                "height": 0
+            },
+            "viewport": {
+                "width": 0,
+                "height": 0
+            }
+        }
+    },
+]
