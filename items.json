@@ -874,44 +874,6 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:galaxy-tab-s9-fe-",
-        "slug": "galaxy-tab-s9-fe-",
-        "active": true,
-        "labels": {
-            "primary": "Galaxy Tab S9 FE+",
-            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
-        },
-        "tags": [
-            "samsung",
-            "mobile",
-            "touch",
-            "Galaxy Tab S9 FE+",
-            "tablet"
-        ],
-        "attributes": {
-            "popularity": 45,
-            "icons": [
-                "deviceMobile",
-                "brandSamsung"
-            ],
-            "width": 412,
-            "height": 914
-        },
-        "properties": {
-            "screen": {
-                "width": 1600,
-                "height": 2560
-            },
-            "viewport": {
-                "width": 412,
-                "height": 914
-            },
-            "releaseDate": "2023-10-16",
-            "discontinuedDate": null,
-            "devicePixelRatio": null
-        }
-    },
-    {
         "id": "id:item:v2024.08.30:galaxy-tab-s8",
         "slug": "galaxy-tab-s8",
         "active": true,
