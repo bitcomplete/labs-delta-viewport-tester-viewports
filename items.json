@@ -8,16 +8,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "mobile",
+            "apple",
+            "tablet",
             "iPad (10th gen)",
-            "touch",
-            "tablet"
+            "touch"
         ],
         "attributes": {
             "popularity": 68,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 820,
@@ -46,16 +46,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "mobile",
-            "touch",
             "iPad (9th gen)",
-            "tablet"
+            "apple",
+            "tablet",
+            "touch"
         ],
         "attributes": {
             "popularity": 67,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 810,
@@ -84,16 +84,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "mobile",
-            "touch",
             "iPad (8th gen)",
-            "tablet"
+            "apple",
+            "tablet",
+            "touch"
         ],
         "attributes": {
             "popularity": 66,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 810,
@@ -122,16 +122,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "mobile",
+            "apple",
+            "tablet",
             "iPad (7th gen)",
-            "touch",
-            "tablet"
+            "touch"
         ],
         "attributes": {
             "popularity": 65,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 810,
@@ -160,16 +160,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "iPad (6th gen)",
             "mobile",
-            "touch",
-            "tablet"
+            "apple",
+            "tablet",
+            "touch"
         ],
         "attributes": {
             "popularity": 64,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 768,
@@ -198,16 +198,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "iPad (5th gen)",
             "mobile",
-            "touch",
-            "tablet"
+            "iPad (5th gen)",
+            "apple",
+            "tablet",
+            "touch"
         ],
         "attributes": {
             "popularity": 63,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 768,
@@ -236,16 +236,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "mobile",
             "iPad Pro 13\" (7th gen, 2024)",
-            "touch",
-            "tablet"
+            "mobile",
+            "apple",
+            "tablet",
+            "touch"
         ],
         "attributes": {
             "popularity": 62,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 1032,
@@ -274,16 +274,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
+            "mobile",
             "apple",
             "iPad Pro 11\" (7th gen, 2024)",
-            "mobile",
-            "touch",
-            "tablet"
+            "tablet",
+            "touch"
         ],
         "attributes": {
             "popularity": 61,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 834,
@@ -312,16 +312,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "mobile",
-            "iPad Pro 12.9\" (6th gen, 2022)",
+            "apple",
+            "tablet",
             "touch",
-            "tablet"
+            "iPad Pro 12.9\" (6th gen, 2022)"
         ],
         "attributes": {
             "popularity": 60,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 1024,
@@ -350,16 +350,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "mobile",
-            "touch",
             "iPad Pro 11\" (6th gen, 2022)",
-            "tablet"
+            "apple",
+            "tablet",
+            "touch"
         ],
         "attributes": {
             "popularity": 59,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 834,
@@ -388,16 +388,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "mobile",
-            "touch",
+            "apple",
+            "tablet",
             "iPad Pro 12.9\" (5th gen, 2021)",
-            "tablet"
+            "touch"
         ],
         "attributes": {
             "popularity": 58,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 1024,
@@ -426,16 +426,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "mobile",
-            "touch",
             "iPad Pro 11\" (5th gen, 2021)",
-            "tablet"
+            "apple",
+            "tablet",
+            "touch"
         ],
         "attributes": {
             "popularity": 57,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 834,
@@ -464,16 +464,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "mobile",
-            "touch",
+            "apple",
             "tablet",
-            "iPad Pro 12.9\" (4th gen, 2020)"
+            "iPad Pro 12.9\" (4th gen, 2020)",
+            "touch"
         ],
         "attributes": {
             "popularity": 56,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 1024,
@@ -502,16 +502,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "mobile",
-            "touch",
             "iPad Pro 11\" (4th gen, 2020)",
-            "tablet"
+            "apple",
+            "tablet",
+            "touch"
         ],
         "attributes": {
             "popularity": 55,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 834,
@@ -540,16 +540,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "mobile",
             "iPad Pro 12.9\" (3th gen, 2018)",
-            "touch",
-            "tablet"
+            "apple",
+            "tablet",
+            "touch"
         ],
         "attributes": {
             "popularity": 54,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 1024,
@@ -578,16 +578,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "mobile",
-            "touch",
+            "iPad Pro 11\" (3th gen, 2018)",
+            "apple",
             "tablet",
-            "iPad Pro 11\" (3th gen, 2018)"
+            "touch"
         ],
         "attributes": {
             "popularity": 53,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 834,
@@ -616,16 +616,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "mobile",
-            "touch",
+            "apple",
             "tablet",
+            "touch",
             "iPad Pro 12.9\" (2nd gen, 2017)"
         ],
         "attributes": {
             "popularity": 52,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 1024,
@@ -654,16 +654,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "iPad Pro 10.5\" (2nd gen, 2017)",
             "mobile",
-            "touch",
-            "tablet"
+            "apple",
+            "tablet",
+            "iPad Pro 10.5\" (2nd gen, 2017)",
+            "touch"
         ],
         "attributes": {
             "popularity": 51,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 834,
@@ -692,16 +692,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "mobile",
+            "apple",
+            "tablet",
             "iPad Air (5th gen, 2022)",
-            "touch",
-            "tablet"
+            "touch"
         ],
         "attributes": {
             "popularity": 50,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 820,
@@ -730,16 +730,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "mobile",
             "iPad Air (4th gen, 2020)",
-            "touch",
-            "tablet"
+            "apple",
+            "tablet",
+            "touch"
         ],
         "attributes": {
             "popularity": 49,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 820,
@@ -768,16 +768,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "mobile",
+            "iPad Air (3th gen, 2019)",
+            "apple",
             "tablet",
-            "touch",
-            "iPad Air (3th gen, 2019)"
+            "touch"
         ],
         "attributes": {
             "popularity": 48,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 834,
@@ -806,16 +806,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "mobile",
-            "touch",
             "iPad Mini (6th gen, 2021)",
-            "tablet"
+            "mobile",
+            "apple",
+            "tablet",
+            "touch"
         ],
         "attributes": {
             "popularity": 47,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 744,
@@ -844,16 +844,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "mobile",
             "iPad Mini (5th gen, 2019)",
-            "touch",
-            "tablet"
+            "apple",
+            "tablet",
+            "touch"
         ],
         "attributes": {
             "popularity": 46,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 768,
@@ -882,17 +882,17 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "samsung",
             "mobile",
-            "touch",
+            "samsung",
             "Galaxy Tab S8",
-            "tablet"
+            "tablet",
+            "touch"
         ],
         "attributes": {
             "popularity": 44,
             "icons": [
-                "deviceMobile",
-                "brandSamsung"
+                "deviceTablet",
+                "brandAndroid"
             ],
             "width": 360,
             "height": 740
@@ -920,14 +920,13 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "desktop",
-            "Desktop HIDPI-XL"
+            "Desktop HIDPI-XL",
+            "desktop"
         ],
         "attributes": {
             "popularity": 95,
             "icons": [
-                "deviceDesktop",
-                "BrandUnknown"
+                "deviceDesktop"
             ],
             "width": 2560,
             "height": 1440
@@ -955,14 +954,13 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "Desktop HIDPI",
-            "desktop"
+            "desktop",
+            "Desktop HIDPI"
         ],
         "attributes": {
             "popularity": 100,
             "icons": [
-                "deviceDesktop",
-                "BrandUnknown"
+                "deviceDesktop"
             ],
             "width": 1920,
             "height": 1080
@@ -996,8 +994,7 @@
         "attributes": {
             "popularity": 96,
             "icons": [
-                "deviceDesktop",
-                "BrandUnknown"
+                "deviceDesktop"
             ],
             "width": 1440,
             "height": 900
@@ -1025,14 +1022,13 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "Desktop 4K 1X Scale",
-            "desktop"
+            "desktop",
+            "Desktop 4K 1X Scale"
         ],
         "attributes": {
             "popularity": 94,
             "icons": [
-                "deviceDesktop",
-                "BrandUnknown"
+                "deviceDesktop"
             ],
             "width": 3840,
             "height": 2160
@@ -1066,8 +1062,7 @@
         "attributes": {
             "popularity": 98,
             "icons": [
-                "deviceDesktop",
-                "BrandUnknown"
+                "deviceDesktop"
             ],
             "width": 1536,
             "height": 864
@@ -1101,8 +1096,7 @@
         "attributes": {
             "popularity": 99,
             "icons": [
-                "deviceDesktop",
-                "BrandUnknown"
+                "deviceDesktop"
             ],
             "width": 1366,
             "height": 768
@@ -1130,14 +1124,13 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "Laptop-S",
-            "desktop"
+            "desktop",
+            "Laptop-S"
         ],
         "attributes": {
             "popularity": 93,
             "icons": [
-                "deviceDesktop",
-                "BrandUnknown"
+                "deviceDesktop"
             ],
             "width": 1280,
             "height": 800
@@ -1165,14 +1158,13 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "Laptop-XS",
-            "desktop"
+            "desktop",
+            "Laptop-XS"
         ],
         "attributes": {
             "popularity": 97,
             "icons": [
-                "deviceDesktop",
-                "BrandUnknown"
+                "deviceDesktop"
             ],
             "width": 1280,
             "height": 720
@@ -1200,9 +1192,9 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
+            "MacBook Air 15\" (M3, 2024)",
             "desktop",
-            "MacBook Air 15\" (M3, 2024)"
+            "apple"
         ],
         "attributes": {
             "popularity": 92,
@@ -1345,8 +1337,8 @@
         },
         "tags": [
             "apple",
-            "desktop",
-            "iMac 4.5K 24\u2033 (M3, 2023)"
+            "iMac 4.5K 24\u2033 (M3, 2023)",
+            "desktop"
         ],
         "attributes": {
             "popularity": 88,
@@ -1416,9 +1408,9 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "MacBook Pro 14\" (M3, Nov 2023)",
             "apple",
-            "desktop"
+            "desktop",
+            "MacBook Pro 14\" (M3, Nov 2023)"
         ],
         "attributes": {
             "popularity": 86,
@@ -1452,9 +1444,9 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "MacBook Air (M2, 2022)",
-            "desktop"
+            "desktop",
+            "apple"
         ],
         "attributes": {
             "popularity": 85,
@@ -1489,8 +1481,8 @@
         },
         "tags": [
             "apple",
-            "MacBook Pro 13\" (M2, 2022)",
-            "desktop"
+            "desktop",
+            "MacBook Pro 13\" (M2, 2022)"
         ],
         "attributes": {
             "popularity": 84,
@@ -1525,8 +1517,8 @@
         },
         "tags": [
             "apple",
-            "iMac 4.5K 24\" (M1, 2021)",
-            "desktop"
+            "desktop",
+            "iMac 4.5K 24\" (M1, 2021)"
         ],
         "attributes": {
             "popularity": 83,
@@ -1596,9 +1588,9 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "MacBook Pro 14\" (M1, 2021)",
-            "desktop"
+            "desktop",
+            "apple"
         ],
         "attributes": {
             "popularity": 81,
@@ -1668,9 +1660,9 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
+            "iMac Retina 5K 27\" (Intel, 2020)",
             "desktop",
-            "iMac Retina 5K 27\" (Intel, 2020)"
+            "apple"
         ],
         "attributes": {
             "popularity": 79,
@@ -1741,8 +1733,8 @@
         },
         "tags": [
             "apple",
-            "desktop",
-            "MacBook Air (M1, 2020)"
+            "MacBook Air (M1, 2020)",
+            "desktop"
         ],
         "attributes": {
             "popularity": 77,
@@ -1777,8 +1769,8 @@
         },
         "tags": [
             "apple",
-            "MacBook Air 13\" (Intel, 2020)",
-            "desktop"
+            "desktop",
+            "MacBook Air 13\" (Intel, 2020)"
         ],
         "attributes": {
             "popularity": 76,
@@ -1884,9 +1876,9 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "MacBook Pro 13\" (Intel, 2019)",
             "apple",
-            "desktop"
+            "desktop",
+            "MacBook Pro 13\" (Intel, 2019)"
         ],
         "attributes": {
             "popularity": 73,
@@ -1921,8 +1913,8 @@
         },
         "tags": [
             "apple",
-            "MacBook Pro 15\" (Intel, 2019)",
-            "desktop"
+            "desktop",
+            "MacBook Pro 15\" (Intel, 2019)"
         ],
         "attributes": {
             "popularity": 72,
@@ -2029,8 +2021,8 @@
         },
         "tags": [
             "apple",
-            "desktop",
-            "MacBook Pro 13\" (Intel, 2018)"
+            "MacBook Pro 13\" (Intel, 2018)",
+            "desktop"
         ],
         "attributes": {
             "popularity": 69,
@@ -2064,15 +2056,14 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "Lenovo V14 Gen 5 14\"",
+            "desktop",
             "lenovo",
-            "desktop"
+            "Lenovo V14 Gen 5 14\""
         ],
         "attributes": {
             "popularity": 0,
             "icons": [
-                "deviceDesktop",
-                "brandLenovo"
+                "deviceDesktop"
             ],
             "width": 1920,
             "height": 1080
@@ -2100,15 +2091,14 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
+            "desktop",
             "Lenovo V15 Gen 4 15\"",
-            "lenovo",
-            "desktop"
+            "lenovo"
         ],
         "attributes": {
             "popularity": 0,
             "icons": [
-                "deviceDesktop",
-                "brandLenovo"
+                "deviceDesktop"
             ],
             "width": 1920,
             "height": 1080
@@ -2143,8 +2133,7 @@
         "attributes": {
             "popularity": 0,
             "icons": [
-                "deviceDesktop",
-                "brandLenovo"
+                "deviceDesktop"
             ],
             "width": 1920,
             "height": 1080
@@ -2179,8 +2168,7 @@
         "attributes": {
             "popularity": 0,
             "icons": [
-                "deviceDesktop",
-                "brandLenovo"
+                "deviceDesktop"
             ],
             "width": 1920,
             "height": 1200
@@ -2209,14 +2197,13 @@
         },
         "tags": [
             "desktop",
-            "lenovo",
-            "ThinkPad T14s Gen 6 14\""
+            "ThinkPad T14s Gen 6 14\"",
+            "lenovo"
         ],
         "attributes": {
             "popularity": 0,
             "icons": [
-                "deviceDesktop",
-                "brandLenovo"
+                "deviceDesktop"
             ],
             "width": 1920,
             "height": 1200
@@ -2245,14 +2232,13 @@
         },
         "tags": [
             "desktop",
-            "ThinkPad T14 Gen 5 14\"",
-            "lenovo"
+            "lenovo",
+            "ThinkPad T14 Gen 5 14\""
         ],
         "attributes": {
             "popularity": 0,
             "icons": [
-                "deviceDesktop",
-                "brandLenovo"
+                "deviceDesktop"
             ],
             "width": 1920,
             "height": 1200
@@ -2280,15 +2266,14 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "ThinkPad P1 Gen7 16\"",
             "desktop",
-            "lenovo"
+            "lenovo",
+            "ThinkPad P1 Gen7 16\""
         ],
         "attributes": {
             "popularity": 0,
             "icons": [
-                "deviceDesktop",
-                "brandLenovo"
+                "deviceDesktop"
             ],
             "width": 1920,
             "height": 1200
@@ -2316,15 +2301,14 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "lenovo",
+            "desktop",
             "ThinkPad P16s Gen 3 16\"",
-            "desktop"
+            "lenovo"
         ],
         "attributes": {
             "popularity": 0,
             "icons": [
-                "deviceDesktop",
-                "brandLenovo"
+                "deviceDesktop"
             ],
             "width": 1920,
             "height": 1200
@@ -2359,8 +2343,7 @@
         "attributes": {
             "popularity": 0,
             "icons": [
-                "deviceDesktop",
-                "brandLenovo"
+                "deviceDesktop"
             ],
             "width": 1920,
             "height": 1200
@@ -2389,14 +2372,13 @@
         },
         "tags": [
             "desktop",
-            "ThinkPad P14s Gen 5 14.5\"",
-            "lenovo"
+            "lenovo",
+            "ThinkPad P14s Gen 5 14.5\""
         ],
         "attributes": {
             "popularity": 0,
             "icons": [
-                "deviceDesktop",
-                "brandLenovo"
+                "deviceDesktop"
             ],
             "width": 1920,
             "height": 1200
@@ -2425,14 +2407,13 @@
         },
         "tags": [
             "desktop",
-            "Mobile Workstation P14s G5 14.5\"",
-            "lenovo"
+            "lenovo",
+            "Mobile Workstation P14s G5 14.5\""
         ],
         "attributes": {
             "popularity": 0,
             "icons": [
-                "deviceDesktop",
-                "brandLenovo"
+                "deviceDesktop"
             ],
             "width": 1920,
             "height": 1200
@@ -2460,9 +2441,9 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "phone",
             "mobile",
+            "phone",
+            "apple",
             "iPhone 15",
             "touch"
         ],
@@ -2498,11 +2479,11 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "phone",
+            "iPhone 15 Plus",
             "mobile",
-            "touch",
-            "iPhone 15 Plus"
+            "phone",
+            "apple",
+            "touch"
         ],
         "attributes": {
             "popularity": 40,
@@ -2536,11 +2517,11 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "phone",
             "mobile",
-            "touch",
-            "iPhone 15 Pro"
+            "iPhone 15 Pro",
+            "phone",
+            "apple",
+            "touch"
         ],
         "attributes": {
             "popularity": 41,
@@ -2574,9 +2555,9 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "phone",
             "mobile",
+            "phone",
+            "apple",
             "iPhone 15 Pro Max",
             "touch"
         ],
@@ -2612,9 +2593,9 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "phone",
             "mobile",
+            "phone",
+            "apple",
             "iPhone 14",
             "touch"
         ],
@@ -2650,10 +2631,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
+            "mobile",
             "iPhone 14 Plus",
             "phone",
-            "mobile",
+            "apple",
             "touch"
         ],
         "attributes": {
@@ -2688,11 +2669,11 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "phone",
+            "iPhone 14 Pro",
             "mobile",
-            "touch",
-            "iPhone 14 Pro"
+            "phone",
+            "apple",
+            "touch"
         ],
         "attributes": {
             "popularity": 37,
@@ -2726,11 +2707,11 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "phone",
             "mobile",
-            "touch",
-            "iPhone 14 Pro Max"
+            "iPhone 14 Pro Max",
+            "phone",
+            "apple",
+            "touch"
         ],
         "attributes": {
             "popularity": 38,
@@ -2764,11 +2745,11 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "phone",
             "mobile",
-            "touch",
-            "iPhone SE 2022"
+            "phone",
+            "apple",
+            "iPhone SE 2022",
+            "touch"
         ],
         "attributes": {
             "popularity": 32,
@@ -2802,10 +2783,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
+            "mobile",
             "iPhone 13 Mini",
             "phone",
-            "mobile",
+            "apple",
             "touch"
         ],
         "attributes": {
@@ -2840,11 +2821,11 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "phone",
             "mobile",
-            "touch",
-            "iPhone 13"
+            "phone",
+            "apple",
+            "iPhone 13",
+            "touch"
         ],
         "attributes": {
             "popularity": 35,
@@ -2878,10 +2859,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
+            "mobile",
+            "phone",
             "apple",
             "iPhone 13 Pro",
-            "phone",
-            "mobile",
             "touch"
         ],
         "attributes": {
@@ -2916,11 +2897,11 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "phone",
             "mobile",
-            "touch",
-            "iPhone 13 Pro Max"
+            "phone",
+            "iPhone 13 Pro Max",
+            "apple",
+            "touch"
         ],
         "attributes": {
             "popularity": 34,
@@ -2954,11 +2935,11 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "phone",
             "mobile",
-            "touch",
-            "iPhone 12 Mini"
+            "iPhone 12 Mini",
+            "phone",
+            "apple",
+            "touch"
         ],
         "attributes": {
             "popularity": 32,
@@ -2992,11 +2973,11 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "phone",
             "mobile",
-            "touch",
-            "iPhone 12"
+            "iPhone 12",
+            "phone",
+            "apple",
+            "touch"
         ],
         "attributes": {
             "popularity": 32,
@@ -3030,11 +3011,11 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "phone",
             "mobile",
-            "touch",
-            "iPhone 12 Pro"
+            "iPhone 12 Pro",
+            "phone",
+            "apple",
+            "touch"
         ],
         "attributes": {
             "popularity": 32,
@@ -3068,11 +3049,11 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "phone",
             "mobile",
-            "touch",
-            "iPhone 12 Pro Max"
+            "phone",
+            "apple",
+            "iPhone 12 Pro Max",
+            "touch"
         ],
         "attributes": {
             "popularity": 32,
@@ -3106,10 +3087,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "phone",
             "mobile",
+            "phone",
             "iPhone 11",
+            "apple",
             "touch"
         ],
         "attributes": {
@@ -3144,11 +3125,11 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "phone",
             "mobile",
-            "touch",
-            "iPhone 11 Pro"
+            "iPhone 11 Pro",
+            "phone",
+            "apple",
+            "touch"
         ],
         "attributes": {
             "popularity": 32,
@@ -3182,11 +3163,11 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "phone",
             "mobile",
-            "touch",
-            "iPhone 11 Pro Max"
+            "iPhone 11 Pro Max",
+            "phone",
+            "apple",
+            "touch"
         ],
         "attributes": {
             "popularity": 32,
@@ -3220,11 +3201,11 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "phone",
             "mobile",
-            "touch",
-            "iPhone SE 2020"
+            "iPhone SE 2020",
+            "phone",
+            "apple",
+            "touch"
         ],
         "attributes": {
             "popularity": 32,
@@ -3258,9 +3239,9 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "phone",
             "mobile",
+            "phone",
+            "apple",
             "iPhone X",
             "touch"
         ],
@@ -3296,11 +3277,11 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "phone",
             "mobile",
-            "touch",
-            "iPhone XR"
+            "phone",
+            "iPhone XR",
+            "apple",
+            "touch"
         ],
         "attributes": {
             "popularity": 32,
@@ -3334,9 +3315,9 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "phone",
             "mobile",
+            "phone",
+            "apple",
             "iPhone XS",
             "touch"
         ],
@@ -3372,11 +3353,11 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "phone",
             "mobile",
-            "touch",
-            "iPhone XS Max"
+            "phone",
+            "iPhone XS Max",
+            "apple",
+            "touch"
         ],
         "attributes": {
             "popularity": 32,
@@ -3410,11 +3391,11 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "phone",
             "mobile",
-            "touch",
-            "iPhone 8"
+            "phone",
+            "apple",
+            "iPhone 8",
+            "touch"
         ],
         "attributes": {
             "popularity": 32,
@@ -3448,11 +3429,11 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "phone",
             "mobile",
-            "touch",
-            "iPhone 8 Plus"
+            "iPhone 8 Plus",
+            "phone",
+            "apple",
+            "touch"
         ],
         "attributes": {
             "popularity": 32,
@@ -3486,10 +3467,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "iPhone 7",
-            "phone",
             "mobile",
+            "phone",
+            "apple",
             "touch"
         ],
         "attributes": {
@@ -3524,10 +3505,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "phone",
             "mobile",
             "iPhone 7 Plus",
+            "phone",
+            "apple",
             "touch"
         ],
         "attributes": {
@@ -3562,11 +3543,11 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "phone",
             "mobile",
-            "touch",
-            "iPhone 6s"
+            "phone",
+            "apple",
+            "iPhone 6s",
+            "touch"
         ],
         "attributes": {
             "popularity": 32,
@@ -3600,10 +3581,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "phone",
             "mobile",
             "iPhone 6s Plus",
+            "phone",
+            "apple",
             "touch"
         ],
         "attributes": {
@@ -3638,10 +3619,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
+            "mobile",
             "iPhone SE",
             "phone",
-            "mobile",
+            "apple",
             "touch"
         ],
         "attributes": {
@@ -3676,11 +3657,11 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "phone",
+            "Google Pixel 8",
             "mobile",
+            "phone",
             "google",
-            "touch",
-            "Google Pixel 8"
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -3714,11 +3695,11 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "phone",
             "mobile",
+            "phone",
             "google",
-            "touch",
-            "Google Pixel 8 Pro"
+            "Google Pixel 8 Pro",
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -3752,11 +3733,11 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "phone",
             "mobile",
+            "phone",
             "google",
-            "touch",
-            "Google Pixel 7"
+            "Google Pixel 7",
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -3791,10 +3772,10 @@
         },
         "tags": [
             "mobile",
+            "Google Pixel 7 Pro",
             "phone",
             "google",
-            "touch",
-            "Google Pixel 7 Pro"
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -3828,10 +3809,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "Google Pixel 7a",
-            "phone",
             "mobile",
+            "phone",
             "google",
+            "Google Pixel 7a",
             "touch"
         ],
         "attributes": {
@@ -3866,9 +3847,9 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
+            "mobile",
             "Google Pixel 6",
             "phone",
-            "mobile",
             "google",
             "touch"
         ],
@@ -3904,8 +3885,8 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "phone",
             "mobile",
+            "phone",
             "google",
             "Google Pixel 6 Pro",
             "touch"
@@ -3942,10 +3923,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "Google Pixel 5",
-            "phone",
             "mobile",
+            "phone",
             "google",
+            "Google Pixel 5",
             "touch"
         ],
         "attributes": {
@@ -3980,11 +3961,11 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "phone",
             "mobile",
+            "phone",
             "google",
-            "touch",
-            "Google Pixel 4"
+            "Google Pixel 4",
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -4018,11 +3999,11 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "phone",
             "mobile",
+            "Google Pixel 4 XL",
+            "phone",
             "google",
-            "touch",
-            "Google Pixel 4 XL"
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -4057,8 +4038,8 @@
         },
         "tags": [
             "Google Pixel 3",
-            "phone",
             "mobile",
+            "phone",
             "google",
             "touch"
         ],
@@ -4094,11 +4075,11 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "phone",
             "mobile",
+            "phone",
             "google",
-            "touch",
-            "Google Pixel 3 XL"
+            "Google Pixel 3 XL",
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -4132,11 +4113,11 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "phone",
             "mobile",
+            "phone",
             "google",
-            "touch",
-            "Google Pixel 3A"
+            "Google Pixel 3A",
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -4170,11 +4151,11 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "phone",
             "mobile",
-            "Google Pixel 3A XL",
+            "phone",
             "google",
-            "touch"
+            "touch",
+            "Google Pixel 3A XL"
         ],
         "attributes": {
             "popularity": 22,
@@ -4210,9 +4191,9 @@
         "tags": [
             "mobile",
             "phone",
-            "Google Pixel 2",
             "google",
-            "touch"
+            "touch",
+            "Google Pixel 2"
         ],
         "attributes": {
             "popularity": 22,
@@ -4246,11 +4227,11 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "phone",
             "mobile",
+            "Google Pixel 2 XL",
+            "phone",
             "google",
-            "touch",
-            "Google Pixel 2 XL"
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -4284,9 +4265,9 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "phone",
-            "Google Pixel",
             "mobile",
+            "Google Pixel",
+            "phone",
             "google",
             "touch"
         ],
@@ -4322,9 +4303,9 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "Google Pixel XL",
-            "phone",
             "mobile",
+            "phone",
+            "Google Pixel XL",
             "google",
             "touch"
         ],
@@ -4360,17 +4341,17 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "samsung",
-            "phone",
             "mobile",
+            "samsung",
             "Galaxy S23",
+            "phone",
             "touch"
         ],
         "attributes": {
             "popularity": 30,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 360,
             "height": 780
@@ -4398,17 +4379,17 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "samsung",
             "mobile",
+            "samsung",
+            "Galaxy S23 Plus",
             "phone",
-            "touch",
-            "Galaxy S23 Plus"
+            "touch"
         ],
         "attributes": {
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 360,
             "height": 780
@@ -4436,17 +4417,17 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
+            "mobile",
             "samsung",
             "phone",
-            "mobile",
-            "touch",
-            "Galaxy S23 Ultra"
+            "Galaxy S23 Ultra",
+            "touch"
         ],
         "attributes": {
             "popularity": 31,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 360,
             "height": 772
@@ -4474,17 +4455,17 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "samsung",
             "mobile",
-            "phone",
+            "samsung",
             "Galaxy S22",
+            "phone",
             "touch"
         ],
         "attributes": {
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 360,
             "height": 780
@@ -4512,8 +4493,8 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "samsung",
             "mobile",
+            "samsung",
             "phone",
             "Galaxy S22 Plus",
             "touch"
@@ -4522,7 +4503,7 @@
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 384,
             "height": 832
@@ -4550,17 +4531,17 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
+            "mobile",
             "samsung",
             "phone",
-            "mobile",
-            "touch",
-            "Galaxy S22 Ultra"
+            "Galaxy S22 Ultra",
+            "touch"
         ],
         "attributes": {
             "popularity": 29,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 384,
             "height": 824
@@ -4588,17 +4569,17 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "samsung",
             "mobile",
+            "samsung",
             "phone",
-            "touch",
-            "Galaxy S21"
+            "Galaxy S21",
+            "touch"
         ],
         "attributes": {
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 360,
             "height": 800
@@ -4626,17 +4607,17 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
+            "Galaxy S21 Plus",
+            "mobile",
             "samsung",
             "phone",
-            "mobile",
-            "Galaxy S21 Plus",
             "touch"
         ],
         "attributes": {
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 384,
             "height": 854
@@ -4664,17 +4645,17 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "Galaxy S21 Ultra",
+            "mobile",
             "samsung",
             "phone",
-            "mobile",
+            "Galaxy S21 Ultra",
             "touch"
         ],
         "attributes": {
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 412,
             "height": 915
@@ -4702,17 +4683,17 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
+            "mobile",
+            "Galaxy S20",
             "samsung",
             "phone",
-            "Galaxy S20",
-            "mobile",
             "touch"
         ],
         "attributes": {
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 360,
             "height": 800
@@ -4740,17 +4721,17 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
+            "mobile",
             "samsung",
             "phone",
             "Galaxy S20 Plus",
-            "mobile",
             "touch"
         ],
         "attributes": {
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 384,
             "height": 854
@@ -4778,17 +4759,17 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "samsung",
-            "Galaxy S20 Ultra",
-            "phone",
             "mobile",
+            "samsung",
+            "phone",
+            "Galaxy S20 Ultra",
             "touch"
         ],
         "attributes": {
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 412,
             "height": 915
@@ -4816,9 +4797,9 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
+            "mobile",
             "samsung",
             "phone",
-            "mobile",
             "Galaxy S9",
             "touch"
         ],
@@ -4826,7 +4807,7 @@
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 360,
             "height": 740
@@ -4854,17 +4835,17 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
+            "mobile",
             "samsung",
             "phone",
-            "mobile",
-            "touch",
-            "Galaxy S9 Plus"
+            "Galaxy S9 Plus",
+            "touch"
         ],
         "attributes": {
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 412,
             "height": 846
@@ -4892,17 +4873,17 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "samsung",
-            "phone",
             "mobile",
+            "samsung",
             "Galaxy S8",
+            "phone",
             "touch"
         ],
         "attributes": {
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 360,
             "height": 740
@@ -4930,17 +4911,17 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "samsung",
-            "Galaxy S7",
-            "phone",
             "mobile",
+            "samsung",
+            "phone",
+            "Galaxy S7",
             "touch"
         ],
         "attributes": {
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 360,
             "height": 640
@@ -4968,17 +4949,17 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
+            "mobile",
             "samsung",
             "phone",
-            "mobile",
-            "touch",
-            "Galaxy S6 Edge"
+            "Galaxy S6 Edge",
+            "touch"
         ],
         "attributes": {
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 360,
             "height": 640
@@ -5006,17 +4987,17 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "samsung",
-            "phone",
-            "Galaxy S6",
             "mobile",
+            "samsung",
+            "Galaxy S6",
+            "phone",
             "touch"
         ],
         "attributes": {
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 360,
             "height": 640
@@ -5044,9 +5025,9 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
+            "mobile",
             "samsung",
             "phone",
-            "mobile",
             "Galaxy Note 5",
             "touch"
         ],
@@ -5054,7 +5035,7 @@
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 480,
             "height": 853
@@ -5074,82 +5055,6 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:galaxy-a54",
-        "slug": "galaxy-a54",
-        "active": true,
-        "labels": {
-            "primary": "Galaxy A54",
-            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
-        },
-        "tags": [
-            "samsung",
-            "phone",
-            "mobile",
-            "Galaxy A54",
-            "touch"
-        ],
-        "attributes": {
-            "popularity": 28,
-            "icons": [
-                "deviceMobile",
-                "brandSamsung"
-            ],
-            "width": 429,
-            "height": 929
-        },
-        "properties": {
-            "screen": {
-                "width": 1080,
-                "height": 2340
-            },
-            "viewport": {
-                "width": 429,
-                "height": 929
-            },
-            "releaseDate": "2023-03-24",
-            "discontinuedDate": null,
-            "devicePixelRatio": 2.52
-        }
-    },
-    {
-        "id": "id:item:v2024.08.30:galaxy-a34",
-        "slug": "galaxy-a34",
-        "active": true,
-        "labels": {
-            "primary": "Galaxy A34",
-            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
-        },
-        "tags": [
-            "samsung",
-            "phone",
-            "mobile",
-            "Galaxy A34",
-            "touch"
-        ],
-        "attributes": {
-            "popularity": 27,
-            "icons": [
-                "deviceMobile",
-                "brandSamsung"
-            ],
-            "width": 443,
-            "height": 960
-        },
-        "properties": {
-            "screen": {
-                "width": 1080,
-                "height": 2340
-            },
-            "viewport": {
-                "width": 443,
-                "height": 960
-            },
-            "releaseDate": "2023-03-24",
-            "discontinuedDate": null,
-            "devicePixelRatio": 2.44
-        }
-    },
-    {
         "id": "id:item:v2024.08.30:galaxy-a13--2022-",
         "slug": "galaxy-a13--2022-",
         "active": true,
@@ -5158,17 +5063,17 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
+            "mobile",
             "samsung",
             "phone",
-            "mobile",
-            "touch",
-            "Galaxy A13 (2022)"
+            "Galaxy A13 (2022)",
+            "touch"
         ],
         "attributes": {
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 412,
             "height": 915
@@ -5196,17 +5101,17 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "samsung",
-            "phone",
             "mobile",
+            "samsung",
             "Galaxy A13 (2021)",
+            "phone",
             "touch"
         ],
         "attributes": {
             "popularity": 24,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 360,
             "height": 800
@@ -5234,17 +5139,17 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "LG G7 One",
-            "phone",
             "mobile",
-            "touch",
-            "lg"
+            "LG G7 One",
+            "lg",
+            "phone",
+            "touch"
         ],
         "attributes": {
             "popularity": 21,
             "icons": [
                 "deviceMobile",
-                "brandLg"
+                "brandAndroid"
             ],
             "width": 360,
             "height": 720
@@ -5272,17 +5177,17 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "phone",
             "mobile",
-            "touch",
             "lg",
-            "LG G6"
+            "phone",
+            "LG G6",
+            "touch"
         ],
         "attributes": {
             "popularity": 21,
             "icons": [
                 "deviceMobile",
-                "brandLg"
+                "brandAndroid"
             ],
             "width": 360,
             "height": 720
@@ -5310,8 +5215,8 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "phone",
             "mobile",
+            "phone",
             "oneplus",
             "OnePlus 5t",
             "touch"
@@ -5320,7 +5225,7 @@
             "popularity": 20,
             "icons": [
                 "deviceMobile",
-                "brandOneplus"
+                "brandAndroid"
             ],
             "width": 360,
             "height": 720
@@ -5348,17 +5253,17 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "huawei",
-            "phone",
             "mobile",
+            "Mate 40 Pro",
+            "phone",
             "touch",
-            "Mate 40 Pro"
+            "huawei"
         ],
         "attributes": {
             "popularity": 19,
             "icons": [
                 "deviceMobile",
-                "brandHuawei"
+                "brandAndroid"
             ],
             "width": 448,
             "height": 924
@@ -5386,17 +5291,17 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "huawei",
-            "phone",
             "mobile",
+            "phone",
+            "Mate 40 Pro Plus",
             "touch",
-            "Mate 40 Pro Plus"
+            "huawei"
         ],
         "attributes": {
             "popularity": 19,
             "icons": [
                 "deviceMobile",
-                "brandHuawei"
+                "brandAndroid"
             ],
             "width": 448,
             "height": 924
@@ -5424,17 +5329,17 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "huawei",
-            "phone",
             "mobile",
+            "Honor 30 Pro Plus",
+            "phone",
             "touch",
-            "Honor 30 Pro Plus"
+            "huawei"
         ],
         "attributes": {
             "popularity": 19,
             "icons": [
                 "deviceMobile",
-                "brandHuawei"
+                "brandAndroid"
             ],
             "width": 360,
             "height": 780
@@ -5462,17 +5367,17 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "mobile",
-            "phone",
             "Mi 10",
-            "touch",
-            "xiaomi"
+            "mobile",
+            "xiaomi",
+            "phone",
+            "touch"
         ],
         "attributes": {
             "popularity": 18,
             "icons": [
                 "deviceMobile",
-                "brandXiaomi"
+                "brandAndroid"
             ],
             "width": 393,
             "height": 851
@@ -5500,17 +5405,17 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "Mi 10 Pro",
-            "phone",
             "mobile",
-            "touch",
-            "xiaomi"
+            "xiaomi",
+            "phone",
+            "Mi 10 Pro",
+            "touch"
         ],
         "attributes": {
             "popularity": 18,
             "icons": [
                 "deviceMobile",
-                "brandXiaomi"
+                "brandAndroid"
             ],
             "width": 393,
             "height": 851
@@ -5538,17 +5443,17 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "phone",
             "mobile",
-            "touch",
+            "xiaomi",
             "Mi 10T Pro",
-            "xiaomi"
+            "phone",
+            "touch"
         ],
         "attributes": {
             "popularity": 18,
             "icons": [
                 "deviceMobile",
-                "brandXiaomi"
+                "brandAndroid"
             ],
             "width": 393,
             "height": 873
