@@ -2891,7 +2891,7 @@
         "slug": "iphone-se-2022",
         "active": true,
         "labels": {
-            "primary": "iPhone SE 2022",
+            "primary": "iPhone SE (2022)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
@@ -3371,7 +3371,7 @@
         "slug": "iphone-se-2020",
         "active": true,
         "labels": {
-            "primary": "iPhone SE 2020",
+            "primary": "iPhone SE (2020)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
