@@ -9,9 +9,9 @@
         },
         "tags": [
             "tablet",
-            "apple",
+            "touch",
             "mobile",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 68,
@@ -33,7 +33,10 @@
             },
             "releaseDate": "2022-10-26",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
@@ -46,9 +49,9 @@
         },
         "tags": [
             "tablet",
-            "apple",
+            "touch",
             "mobile",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 67,
@@ -70,7 +73,10 @@
             },
             "releaseDate": "2021-09-24",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
@@ -83,9 +89,9 @@
         },
         "tags": [
             "tablet",
-            "apple",
+            "touch",
             "mobile",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 66,
@@ -107,7 +113,10 @@
             },
             "releaseDate": "2020-09-16",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
@@ -120,9 +129,9 @@
         },
         "tags": [
             "tablet",
-            "apple",
+            "touch",
             "mobile",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 65,
@@ -144,7 +153,10 @@
             },
             "releaseDate": "2019-09-25",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
@@ -157,9 +169,9 @@
         },
         "tags": [
             "tablet",
-            "apple",
+            "touch",
             "mobile",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 64,
@@ -181,7 +193,10 @@
             },
             "releaseDate": "2018-03-27",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
@@ -194,9 +209,9 @@
         },
         "tags": [
             "tablet",
-            "apple",
+            "touch",
             "mobile",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 63,
@@ -218,7 +233,10 @@
             },
             "releaseDate": "2017-03-22",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
@@ -231,9 +249,9 @@
         },
         "tags": [
             "tablet",
-            "apple",
+            "touch",
             "mobile",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 62,
@@ -255,7 +273,10 @@
             },
             "releaseDate": "2024-05-15",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
@@ -268,9 +289,9 @@
         },
         "tags": [
             "tablet",
-            "apple",
+            "touch",
             "mobile",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 61,
@@ -292,7 +313,10 @@
             },
             "releaseDate": "2024-05-15",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
@@ -305,9 +329,9 @@
         },
         "tags": [
             "tablet",
-            "apple",
+            "touch",
             "mobile",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 60,
@@ -329,7 +353,10 @@
             },
             "releaseDate": "2022-10-26",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
@@ -342,9 +369,9 @@
         },
         "tags": [
             "tablet",
-            "apple",
+            "touch",
             "mobile",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 59,
@@ -366,7 +393,10 @@
             },
             "releaseDate": "2022-10-26",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
@@ -379,9 +409,9 @@
         },
         "tags": [
             "tablet",
-            "apple",
+            "touch",
             "mobile",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 58,
@@ -403,7 +433,10 @@
             },
             "releaseDate": "2021-05-21",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
@@ -416,9 +449,9 @@
         },
         "tags": [
             "tablet",
-            "apple",
+            "touch",
             "mobile",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 57,
@@ -440,7 +473,10 @@
             },
             "releaseDate": "2021-05-21",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
@@ -453,9 +489,9 @@
         },
         "tags": [
             "tablet",
-            "apple",
+            "touch",
             "mobile",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 56,
@@ -477,7 +513,10 @@
             },
             "releaseDate": "2020-03-25",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
@@ -490,9 +529,9 @@
         },
         "tags": [
             "tablet",
-            "apple",
+            "touch",
             "mobile",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 55,
@@ -514,7 +553,10 @@
             },
             "releaseDate": "2020-03-25",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
@@ -527,9 +569,9 @@
         },
         "tags": [
             "tablet",
-            "apple",
+            "touch",
             "mobile",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 54,
@@ -551,7 +593,10 @@
             },
             "releaseDate": "2018-11-07",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
@@ -564,9 +609,9 @@
         },
         "tags": [
             "tablet",
-            "apple",
+            "touch",
             "mobile",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 53,
@@ -588,7 +633,10 @@
             },
             "releaseDate": "2018-11-07",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
@@ -601,9 +649,9 @@
         },
         "tags": [
             "tablet",
-            "apple",
+            "touch",
             "mobile",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 52,
@@ -625,7 +673,10 @@
             },
             "releaseDate": "2017-06-13",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
@@ -638,9 +689,9 @@
         },
         "tags": [
             "tablet",
-            "apple",
+            "touch",
             "mobile",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 51,
@@ -662,7 +713,10 @@
             },
             "releaseDate": "2017-06-13",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
@@ -675,9 +729,9 @@
         },
         "tags": [
             "tablet",
-            "apple",
+            "touch",
             "mobile",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 50,
@@ -699,7 +753,10 @@
             },
             "releaseDate": "2022-03-18",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
@@ -712,9 +769,9 @@
         },
         "tags": [
             "tablet",
-            "apple",
+            "touch",
             "mobile",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 49,
@@ -736,7 +793,10 @@
             },
             "releaseDate": "2020-10-23",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
@@ -749,9 +809,9 @@
         },
         "tags": [
             "tablet",
-            "apple",
+            "touch",
             "mobile",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 48,
@@ -773,7 +833,10 @@
             },
             "releaseDate": "2019-03-25",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
@@ -786,9 +849,9 @@
         },
         "tags": [
             "tablet",
-            "apple",
+            "touch",
             "mobile",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 47,
@@ -810,7 +873,10 @@
             },
             "releaseDate": "2021-09-24",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
@@ -823,9 +889,9 @@
         },
         "tags": [
             "tablet",
-            "apple",
+            "touch",
             "mobile",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 46,
@@ -847,7 +913,10 @@
             },
             "releaseDate": "2019-03-18",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
@@ -860,8 +929,8 @@
         },
         "tags": [
             "tablet",
-            "mobile",
             "samsung",
+            "mobile",
             "touch"
         ],
         "attributes": {
@@ -884,7 +953,10 @@
             },
             "releaseDate": "2022-02-09",
             "discontinuedDate": null,
-            "devicePixelRatio": null
+            "devicePixelRatio": null,
+            "operatingSystem": "Android",
+            "deviceType": "tablet",
+            "brand": "Samsung"
         }
     },
     {
@@ -917,7 +989,10 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": null,
+            "deviceType": "desktop",
+            "brand": null
         }
     },
     {
@@ -950,7 +1025,10 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": null,
+            "deviceType": "desktop",
+            "brand": null
         }
     },
     {
@@ -983,7 +1061,10 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": null,
+            "deviceType": "desktop",
+            "brand": null
         }
     },
     {
@@ -1016,7 +1097,10 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": null,
+            "deviceType": "desktop",
+            "brand": null
         }
     },
     {
@@ -1049,7 +1133,10 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": null,
+            "deviceType": "desktop",
+            "brand": null
         }
     },
     {
@@ -1082,7 +1169,10 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": null,
+            "deviceType": "desktop",
+            "brand": null
         }
     },
     {
@@ -1115,7 +1205,10 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": null,
+            "deviceType": "desktop",
+            "brand": null
         }
     },
     {
@@ -1148,7 +1241,10 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": null,
+            "deviceType": "desktop",
+            "brand": null
         }
     },
     {
@@ -1183,7 +1279,10 @@
             },
             "releaseDate": "2024-03-08",
             "discontinuedDate": "N/A",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
@@ -1218,7 +1317,10 @@
             },
             "releaseDate": "2024-03-08",
             "discontinuedDate": "N/A",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
@@ -1253,7 +1355,10 @@
             },
             "releaseDate": "2023-01-24",
             "discontinuedDate": "2023-10-30",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
@@ -1288,7 +1393,10 @@
             },
             "releaseDate": "2023-01-24",
             "discontinuedDate": "2023-10-30",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
@@ -1323,7 +1431,10 @@
             },
             "releaseDate": "2023-11-07",
             "discontinuedDate": "N/A",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
@@ -1358,7 +1469,10 @@
             },
             "releaseDate": "2023-11-07",
             "discontinuedDate": "N/A",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
@@ -1393,7 +1507,10 @@
             },
             "releaseDate": "2023-11-07",
             "discontinuedDate": "N/A",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
@@ -1428,7 +1545,10 @@
             },
             "releaseDate": "2022-06-06",
             "discontinuedDate": "N/A",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
@@ -1463,7 +1583,10 @@
             },
             "releaseDate": "2022-06-06",
             "discontinuedDate": "2023-10-30",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
@@ -1498,7 +1621,10 @@
             },
             "releaseDate": "2021-05-21",
             "discontinuedDate": "2023-10-30",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
@@ -1533,7 +1659,10 @@
             },
             "releaseDate": "2021-10-26",
             "discontinuedDate": "2023-01-17",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
@@ -1568,7 +1697,10 @@
             },
             "releaseDate": "2021-10-26",
             "discontinuedDate": "2023-01-17",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
@@ -1603,7 +1735,10 @@
             },
             "releaseDate": "2020-11-10",
             "discontinuedDate": "2020-11-10",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
@@ -1638,7 +1773,10 @@
             },
             "releaseDate": "2020-08-04",
             "discontinuedDate": "2022-03-08",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
@@ -1673,7 +1811,10 @@
             },
             "releaseDate": "2020-11-17",
             "discontinuedDate": "2022-06-06",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
@@ -1708,7 +1849,10 @@
             },
             "releaseDate": "2020-11-17",
             "discontinuedDate": "2024-03-04",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
@@ -1743,7 +1887,10 @@
             },
             "releaseDate": "2020-03-18",
             "discontinuedDate": "2020-11-10",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
@@ -1778,7 +1925,10 @@
             },
             "releaseDate": "2019-03-19",
             "discontinuedDate": "2022-03-08",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
@@ -1813,7 +1963,10 @@
             },
             "releaseDate": "2019-03-19",
             "discontinuedDate": "2021-04-20",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
@@ -1848,7 +2001,10 @@
             },
             "releaseDate": "2019-07-09",
             "discontinuedDate": "2020-05-04",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
@@ -1883,7 +2039,10 @@
             },
             "releaseDate": "2019-05-21",
             "discontinuedDate": "2019-11-13",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
@@ -1918,7 +2077,10 @@
             },
             "releaseDate": "2019-07-09",
             "discontinuedDate": "2020-03-18",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
@@ -1953,7 +2115,10 @@
             },
             "releaseDate": "2019-11-13",
             "discontinuedDate": "2021-10-08",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
@@ -1988,7 +2153,10 @@
             },
             "releaseDate": "2018-07-12",
             "discontinuedDate": "2019-05-21",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
@@ -2000,8 +2168,8 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "desktop",
-            "lenovo"
+            "lenovo",
+            "desktop"
         ],
         "attributes": {
             "popularity": 0,
@@ -2022,7 +2190,10 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": "Windows",
+            "deviceType": "desktop",
+            "brand": "Lenovo"
         }
     },
     {
@@ -2034,8 +2205,8 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "desktop",
-            "lenovo"
+            "lenovo",
+            "desktop"
         ],
         "attributes": {
             "popularity": 0,
@@ -2056,7 +2227,10 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": "Windows",
+            "deviceType": "desktop",
+            "brand": "Lenovo"
         }
     },
     {
@@ -2068,8 +2242,8 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "desktop",
-            "lenovo"
+            "lenovo",
+            "desktop"
         ],
         "attributes": {
             "popularity": 0,
@@ -2090,7 +2264,10 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": "Windows",
+            "deviceType": "desktop",
+            "brand": "Lenovo"
         }
     },
     {
@@ -2102,8 +2279,8 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "desktop",
-            "lenovo"
+            "lenovo",
+            "desktop"
         ],
         "attributes": {
             "popularity": 0,
@@ -2124,7 +2301,10 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": "Windows",
+            "deviceType": "desktop",
+            "brand": "Lenovo"
         }
     },
     {
@@ -2136,8 +2316,8 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "desktop",
-            "lenovo"
+            "lenovo",
+            "desktop"
         ],
         "attributes": {
             "popularity": 0,
@@ -2158,7 +2338,10 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": "Windows",
+            "deviceType": "desktop",
+            "brand": "Lenovo"
         }
     },
     {
@@ -2170,8 +2353,8 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "desktop",
-            "lenovo"
+            "lenovo",
+            "desktop"
         ],
         "attributes": {
             "popularity": 0,
@@ -2192,7 +2375,10 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": "Windows",
+            "deviceType": "desktop",
+            "brand": "Lenovo"
         }
     },
     {
@@ -2204,8 +2390,8 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "desktop",
-            "lenovo"
+            "lenovo",
+            "desktop"
         ],
         "attributes": {
             "popularity": 0,
@@ -2226,7 +2412,10 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": "Windows",
+            "deviceType": "desktop",
+            "brand": "Lenovo"
         }
     },
     {
@@ -2238,8 +2427,8 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "desktop",
-            "lenovo"
+            "lenovo",
+            "desktop"
         ],
         "attributes": {
             "popularity": 0,
@@ -2260,7 +2449,10 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": "Windows",
+            "deviceType": "desktop",
+            "brand": "Lenovo"
         }
     },
     {
@@ -2272,8 +2464,8 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "desktop",
-            "lenovo"
+            "lenovo",
+            "desktop"
         ],
         "attributes": {
             "popularity": 0,
@@ -2294,7 +2486,10 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": "Windows",
+            "deviceType": "desktop",
+            "brand": "Lenovo"
         }
     },
     {
@@ -2306,8 +2501,8 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "desktop",
-            "lenovo"
+            "lenovo",
+            "desktop"
         ],
         "attributes": {
             "popularity": 0,
@@ -2328,7 +2523,10 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": "Windows",
+            "deviceType": "desktop",
+            "brand": "Lenovo"
         }
     },
     {
@@ -2340,8 +2538,8 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "desktop",
-            "lenovo"
+            "lenovo",
+            "desktop"
         ],
         "attributes": {
             "popularity": 0,
@@ -2362,7 +2560,10 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": "Windows",
+            "deviceType": "desktop",
+            "brand": "Lenovo"
         }
     },
     {
@@ -2375,9 +2576,9 @@
         },
         "tags": [
             "touch",
-            "apple",
+            "phone",
             "mobile",
-            "phone"
+            "apple"
         ],
         "attributes": {
             "popularity": 43,
@@ -2399,7 +2600,10 @@
             },
             "releaseDate": "2023-09-22",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -2412,9 +2616,9 @@
         },
         "tags": [
             "touch",
-            "apple",
+            "phone",
             "mobile",
-            "phone"
+            "apple"
         ],
         "attributes": {
             "popularity": 40,
@@ -2436,7 +2640,10 @@
             },
             "releaseDate": "2023-09-22",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -2449,9 +2656,9 @@
         },
         "tags": [
             "touch",
-            "apple",
+            "phone",
             "mobile",
-            "phone"
+            "apple"
         ],
         "attributes": {
             "popularity": 41,
@@ -2473,7 +2680,10 @@
             },
             "releaseDate": "2023-09-22",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -2486,9 +2696,9 @@
         },
         "tags": [
             "touch",
-            "apple",
+            "phone",
             "mobile",
-            "phone"
+            "apple"
         ],
         "attributes": {
             "popularity": 42,
@@ -2510,7 +2720,10 @@
             },
             "releaseDate": "2023-09-22",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -2523,9 +2736,9 @@
         },
         "tags": [
             "touch",
-            "apple",
+            "phone",
             "mobile",
-            "phone"
+            "apple"
         ],
         "attributes": {
             "popularity": 39,
@@ -2547,7 +2760,10 @@
             },
             "releaseDate": "2022-09-16",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -2560,9 +2776,9 @@
         },
         "tags": [
             "touch",
-            "apple",
+            "phone",
             "mobile",
-            "phone"
+            "apple"
         ],
         "attributes": {
             "popularity": 36,
@@ -2584,7 +2800,10 @@
             },
             "releaseDate": "2022-10-07",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -2597,9 +2816,9 @@
         },
         "tags": [
             "touch",
-            "apple",
+            "phone",
             "mobile",
-            "phone"
+            "apple"
         ],
         "attributes": {
             "popularity": 37,
@@ -2621,7 +2840,10 @@
             },
             "releaseDate": "2022-09-16",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -2634,9 +2856,9 @@
         },
         "tags": [
             "touch",
-            "apple",
+            "phone",
             "mobile",
-            "phone"
+            "apple"
         ],
         "attributes": {
             "popularity": 38,
@@ -2658,7 +2880,10 @@
             },
             "releaseDate": "2022-10-07",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -2671,9 +2896,9 @@
         },
         "tags": [
             "touch",
-            "apple",
+            "phone",
             "mobile",
-            "phone"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -2695,7 +2920,10 @@
             },
             "releaseDate": "2022-03-18",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -2708,9 +2936,9 @@
         },
         "tags": [
             "touch",
-            "apple",
+            "phone",
             "mobile",
-            "phone"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -2732,7 +2960,10 @@
             },
             "releaseDate": "2021-09-24",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -2745,9 +2976,9 @@
         },
         "tags": [
             "touch",
-            "apple",
+            "phone",
             "mobile",
-            "phone"
+            "apple"
         ],
         "attributes": {
             "popularity": 35,
@@ -2769,7 +3000,10 @@
             },
             "releaseDate": "2021-09-24",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -2782,9 +3016,9 @@
         },
         "tags": [
             "touch",
-            "apple",
+            "phone",
             "mobile",
-            "phone"
+            "apple"
         ],
         "attributes": {
             "popularity": 33,
@@ -2806,7 +3040,10 @@
             },
             "releaseDate": "2021-09-24",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -2819,9 +3056,9 @@
         },
         "tags": [
             "touch",
-            "apple",
+            "phone",
             "mobile",
-            "phone"
+            "apple"
         ],
         "attributes": {
             "popularity": 34,
@@ -2843,7 +3080,10 @@
             },
             "releaseDate": "2021-09-24",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -2856,9 +3096,9 @@
         },
         "tags": [
             "touch",
-            "apple",
+            "phone",
             "mobile",
-            "phone"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -2880,7 +3120,10 @@
             },
             "releaseDate": "2020-11-13",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -2893,9 +3136,9 @@
         },
         "tags": [
             "touch",
-            "apple",
+            "phone",
             "mobile",
-            "phone"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -2917,7 +3160,10 @@
             },
             "releaseDate": "2020-10-23",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -2930,9 +3176,9 @@
         },
         "tags": [
             "touch",
-            "apple",
+            "phone",
             "mobile",
-            "phone"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -2954,7 +3200,10 @@
             },
             "releaseDate": "2020-10-23",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -2967,9 +3216,9 @@
         },
         "tags": [
             "touch",
-            "apple",
+            "phone",
             "mobile",
-            "phone"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -2991,7 +3240,10 @@
             },
             "releaseDate": "2020-11-13",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3004,9 +3256,9 @@
         },
         "tags": [
             "touch",
-            "apple",
+            "phone",
             "mobile",
-            "phone"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3028,7 +3280,10 @@
             },
             "releaseDate": "2019-09-20",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3041,9 +3296,9 @@
         },
         "tags": [
             "touch",
-            "apple",
+            "phone",
             "mobile",
-            "phone"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3065,7 +3320,10 @@
             },
             "releaseDate": "2019-09-20",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3078,9 +3336,9 @@
         },
         "tags": [
             "touch",
-            "apple",
+            "phone",
             "mobile",
-            "phone"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3102,7 +3360,10 @@
             },
             "releaseDate": "2019-09-20",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3115,9 +3376,9 @@
         },
         "tags": [
             "touch",
-            "apple",
+            "phone",
             "mobile",
-            "phone"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3139,7 +3400,10 @@
             },
             "releaseDate": "2020-04-24",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3152,9 +3416,9 @@
         },
         "tags": [
             "touch",
-            "apple",
+            "phone",
             "mobile",
-            "phone"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3176,7 +3440,10 @@
             },
             "releaseDate": "2017-11-03",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3189,9 +3456,9 @@
         },
         "tags": [
             "touch",
-            "apple",
+            "phone",
             "mobile",
-            "phone"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3213,7 +3480,10 @@
             },
             "releaseDate": "2018-10-26",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3226,9 +3496,9 @@
         },
         "tags": [
             "touch",
-            "apple",
+            "phone",
             "mobile",
-            "phone"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3250,7 +3520,10 @@
             },
             "releaseDate": "2018-09-21",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3263,9 +3536,9 @@
         },
         "tags": [
             "touch",
-            "apple",
+            "phone",
             "mobile",
-            "phone"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3287,7 +3560,10 @@
             },
             "releaseDate": "2018-09-21",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3300,9 +3576,9 @@
         },
         "tags": [
             "touch",
-            "apple",
+            "phone",
             "mobile",
-            "phone"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3324,7 +3600,10 @@
             },
             "releaseDate": "2017-09-22",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3337,9 +3616,9 @@
         },
         "tags": [
             "touch",
-            "apple",
+            "phone",
             "mobile",
-            "phone"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3361,7 +3640,10 @@
             },
             "releaseDate": "2017-09-22",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.6
+            "devicePixelRatio": 2.6,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3374,9 +3656,9 @@
         },
         "tags": [
             "touch",
-            "apple",
+            "phone",
             "mobile",
-            "phone"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3398,7 +3680,10 @@
             },
             "releaseDate": "2016-09-16",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3411,9 +3696,9 @@
         },
         "tags": [
             "touch",
-            "apple",
+            "phone",
             "mobile",
-            "phone"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3435,7 +3720,10 @@
             },
             "releaseDate": "2016-09-16",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.6
+            "devicePixelRatio": 2.6,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3448,9 +3736,9 @@
         },
         "tags": [
             "touch",
-            "apple",
+            "phone",
             "mobile",
-            "phone"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3472,7 +3760,10 @@
             },
             "releaseDate": "2015-09-25",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3485,9 +3776,9 @@
         },
         "tags": [
             "touch",
-            "apple",
+            "phone",
             "mobile",
-            "phone"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3509,7 +3800,10 @@
             },
             "releaseDate": "2015-09-25",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.6
+            "devicePixelRatio": 2.6,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3522,9 +3816,9 @@
         },
         "tags": [
             "touch",
-            "apple",
+            "phone",
             "mobile",
-            "phone"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3546,7 +3840,10 @@
             },
             "releaseDate": "2016-03-31",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3558,10 +3855,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
             "phone",
+            "google",
             "mobile",
-            "google"
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -3583,7 +3880,10 @@
             },
             "releaseDate": "2023-10-12",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.625
+            "devicePixelRatio": 2.625,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -3595,10 +3895,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
             "phone",
+            "google",
             "mobile",
-            "google"
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -3620,7 +3920,10 @@
             },
             "releaseDate": "2023-10-12",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -3632,10 +3935,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
             "phone",
+            "google",
             "mobile",
-            "google"
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -3657,7 +3960,10 @@
             },
             "releaseDate": "2022-10-13",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.625
+            "devicePixelRatio": 2.625,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -3669,10 +3975,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
             "phone",
+            "google",
             "mobile",
-            "google"
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -3694,7 +4000,10 @@
             },
             "releaseDate": "2022-10-06",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.5
+            "devicePixelRatio": 3.5,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -3706,10 +4015,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
             "phone",
+            "google",
             "mobile",
-            "google"
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -3731,7 +4040,10 @@
             },
             "releaseDate": "2022-10-13",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.625
+            "devicePixelRatio": 2.625,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -3743,10 +4055,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
             "phone",
+            "google",
             "mobile",
-            "google"
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -3768,7 +4080,10 @@
             },
             "releaseDate": "2021-10-28",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.625
+            "devicePixelRatio": 2.625,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -3780,10 +4095,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
             "phone",
+            "google",
             "mobile",
-            "google"
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -3805,7 +4120,10 @@
             },
             "releaseDate": "2021-10-28",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.5
+            "devicePixelRatio": 3.5,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -3817,10 +4135,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
             "phone",
+            "google",
             "mobile",
-            "google"
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -3842,7 +4160,10 @@
             },
             "releaseDate": "2020-10-15",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.75
+            "devicePixelRatio": 2.75,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -3854,10 +4175,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
             "phone",
+            "google",
             "mobile",
-            "google"
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -3879,7 +4200,10 @@
             },
             "releaseDate": "2019-10-22",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.75
+            "devicePixelRatio": 2.75,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -3891,10 +4215,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
             "phone",
+            "google",
             "mobile",
-            "google"
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -3916,7 +4240,10 @@
             },
             "releaseDate": "2019-10-22",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.5
+            "devicePixelRatio": 3.5,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -3928,10 +4255,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
             "phone",
+            "google",
             "mobile",
-            "google"
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -3953,7 +4280,10 @@
             },
             "releaseDate": "2018-10-09",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.75
+            "devicePixelRatio": 2.75,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -3965,10 +4295,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
             "phone",
+            "google",
             "mobile",
-            "google"
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -3990,7 +4320,10 @@
             },
             "releaseDate": "2018-10-18",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.5
+            "devicePixelRatio": 3.5,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -4002,10 +4335,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
             "phone",
+            "google",
             "mobile",
-            "google"
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -4027,7 +4360,10 @@
             },
             "releaseDate": "2019-05-15",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.75
+            "devicePixelRatio": 2.75,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -4039,10 +4375,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
             "phone",
+            "google",
             "mobile",
-            "google"
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -4064,7 +4400,10 @@
             },
             "releaseDate": "2019-05-15",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.625
+            "devicePixelRatio": 2.625,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -4076,10 +4415,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
             "phone",
+            "google",
             "mobile",
-            "google"
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -4101,7 +4440,10 @@
             },
             "releaseDate": "2017-10-17",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.6
+            "devicePixelRatio": 2.6,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -4113,10 +4455,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
             "phone",
+            "google",
             "mobile",
-            "google"
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -4138,7 +4480,10 @@
             },
             "releaseDate": "2017-10-17",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.5
+            "devicePixelRatio": 3.5,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -4150,10 +4495,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
             "phone",
+            "google",
             "mobile",
-            "google"
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -4175,7 +4520,10 @@
             },
             "releaseDate": "2016-10-20",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.6
+            "devicePixelRatio": 2.6,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -4187,10 +4535,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
             "phone",
+            "google",
             "mobile",
-            "google"
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -4212,7 +4560,10 @@
             },
             "releaseDate": "2016-10-20",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.5
+            "devicePixelRatio": 3.5,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -4224,10 +4575,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
-            "mobile",
             "samsung",
-            "phone"
+            "phone",
+            "mobile",
+            "touch"
         ],
         "attributes": {
             "popularity": 30,
@@ -4249,7 +4600,10 @@
             },
             "releaseDate": "2023-02-17",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4261,10 +4615,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
-            "mobile",
             "samsung",
-            "phone"
+            "phone",
+            "mobile",
+            "touch"
         ],
         "attributes": {
             "popularity": 23,
@@ -4286,7 +4640,10 @@
             },
             "releaseDate": "2023-02-17",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4298,10 +4655,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
-            "mobile",
             "samsung",
-            "phone"
+            "phone",
+            "mobile",
+            "touch"
         ],
         "attributes": {
             "popularity": 31,
@@ -4323,7 +4680,10 @@
             },
             "releaseDate": "2023-02-17",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4335,10 +4695,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
-            "mobile",
             "samsung",
-            "phone"
+            "phone",
+            "mobile",
+            "touch"
         ],
         "attributes": {
             "popularity": 23,
@@ -4360,7 +4720,10 @@
             },
             "releaseDate": "2022-02-25",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4372,10 +4735,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
-            "mobile",
             "samsung",
-            "phone"
+            "phone",
+            "mobile",
+            "touch"
         ],
         "attributes": {
             "popularity": 23,
@@ -4397,7 +4760,10 @@
             },
             "releaseDate": "2022-02-25",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.8125
+            "devicePixelRatio": 2.8125,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4409,10 +4775,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
-            "mobile",
             "samsung",
-            "phone"
+            "phone",
+            "mobile",
+            "touch"
         ],
         "attributes": {
             "popularity": 29,
@@ -4434,7 +4800,10 @@
             },
             "releaseDate": "2022-02-25",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.75
+            "devicePixelRatio": 3.75,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4446,10 +4815,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
-            "mobile",
             "samsung",
-            "phone"
+            "phone",
+            "mobile",
+            "touch"
         ],
         "attributes": {
             "popularity": 23,
@@ -4471,7 +4840,10 @@
             },
             "releaseDate": "2021-01-14",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4483,10 +4855,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
-            "mobile",
             "samsung",
-            "phone"
+            "phone",
+            "mobile",
+            "touch"
         ],
         "attributes": {
             "popularity": 23,
@@ -4508,7 +4880,10 @@
             },
             "releaseDate": "2021-01-29",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.8125
+            "devicePixelRatio": 2.8125,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4520,10 +4895,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
-            "mobile",
             "samsung",
-            "phone"
+            "phone",
+            "mobile",
+            "touch"
         ],
         "attributes": {
             "popularity": 23,
@@ -4545,7 +4920,10 @@
             },
             "releaseDate": "2021-01-29",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.625
+            "devicePixelRatio": 2.625,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4557,10 +4935,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
-            "mobile",
             "samsung",
-            "phone"
+            "phone",
+            "mobile",
+            "touch"
         ],
         "attributes": {
             "popularity": 23,
@@ -4582,7 +4960,10 @@
             },
             "releaseDate": "2020-02-11",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4594,10 +4975,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
-            "mobile",
             "samsung",
-            "phone"
+            "phone",
+            "mobile",
+            "touch"
         ],
         "attributes": {
             "popularity": 23,
@@ -4619,7 +5000,10 @@
             },
             "releaseDate": "2020-02-11",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.8125
+            "devicePixelRatio": 2.8125,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4631,10 +5015,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
-            "mobile",
             "samsung",
-            "phone"
+            "phone",
+            "mobile",
+            "touch"
         ],
         "attributes": {
             "popularity": 23,
@@ -4656,7 +5040,10 @@
             },
             "releaseDate": "2020-02-11",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.625
+            "devicePixelRatio": 2.625,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4668,10 +5055,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
-            "mobile",
             "samsung",
-            "phone"
+            "phone",
+            "mobile",
+            "touch"
         ],
         "attributes": {
             "popularity": 23,
@@ -4693,7 +5080,10 @@
             },
             "releaseDate": "2018-03-09",
             "discontinuedDate": null,
-            "devicePixelRatio": 4.0
+            "devicePixelRatio": 4.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4705,10 +5095,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
-            "mobile",
             "samsung",
-            "phone"
+            "phone",
+            "mobile",
+            "touch"
         ],
         "attributes": {
             "popularity": 23,
@@ -4730,7 +5120,10 @@
             },
             "releaseDate": "2018-03-09",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.5
+            "devicePixelRatio": 3.5,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4742,10 +5135,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
-            "mobile",
             "samsung",
-            "phone"
+            "phone",
+            "mobile",
+            "touch"
         ],
         "attributes": {
             "popularity": 23,
@@ -4767,7 +5160,10 @@
             },
             "releaseDate": "2017-04-24",
             "discontinuedDate": null,
-            "devicePixelRatio": 4.0
+            "devicePixelRatio": 4.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4779,10 +5175,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
-            "mobile",
             "samsung",
-            "phone"
+            "phone",
+            "mobile",
+            "touch"
         ],
         "attributes": {
             "popularity": 23,
@@ -4804,7 +5200,10 @@
             },
             "releaseDate": "2016-03-11",
             "discontinuedDate": null,
-            "devicePixelRatio": 4.0
+            "devicePixelRatio": 4.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4816,10 +5215,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
-            "mobile",
             "samsung",
-            "phone"
+            "phone",
+            "mobile",
+            "touch"
         ],
         "attributes": {
             "popularity": 23,
@@ -4841,7 +5240,10 @@
             },
             "releaseDate": "2015-04-01",
             "discontinuedDate": null,
-            "devicePixelRatio": 4.0
+            "devicePixelRatio": 4.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4853,10 +5255,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
-            "mobile",
             "samsung",
-            "phone"
+            "phone",
+            "mobile",
+            "touch"
         ],
         "attributes": {
             "popularity": 23,
@@ -4878,7 +5280,10 @@
             },
             "releaseDate": "2015-04-01",
             "discontinuedDate": null,
-            "devicePixelRatio": 4.0
+            "devicePixelRatio": 4.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4890,10 +5295,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
-            "mobile",
             "samsung",
-            "phone"
+            "phone",
+            "mobile",
+            "touch"
         ],
         "attributes": {
             "popularity": 23,
@@ -4915,7 +5320,10 @@
             },
             "releaseDate": "2015-08-01",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4927,10 +5335,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
-            "mobile",
             "samsung",
-            "phone"
+            "phone",
+            "mobile",
+            "touch"
         ],
         "attributes": {
             "popularity": 23,
@@ -4952,7 +5360,10 @@
             },
             "releaseDate": "2022-03-24",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.62
+            "devicePixelRatio": 2.62,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4964,10 +5375,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "touch",
-            "mobile",
             "samsung",
-            "phone"
+            "phone",
+            "mobile",
+            "touch"
         ],
         "attributes": {
             "popularity": 24,
@@ -4989,7 +5400,10 @@
             },
             "releaseDate": "2021-12-04",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -5002,9 +5416,9 @@
         },
         "tags": [
             "touch",
+            "phone",
             "mobile",
-            "lg",
-            "phone"
+            "lg"
         ],
         "attributes": {
             "popularity": 21,
@@ -5026,7 +5440,10 @@
             },
             "releaseDate": "2018-08-31",
             "discontinuedDate": null,
-            "devicePixelRatio": 4.0
+            "devicePixelRatio": 4.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "LG"
         }
     },
     {
@@ -5039,9 +5456,9 @@
         },
         "tags": [
             "touch",
+            "phone",
             "mobile",
-            "lg",
-            "phone"
+            "lg"
         ],
         "attributes": {
             "popularity": 21,
@@ -5063,7 +5480,10 @@
             },
             "releaseDate": "2017-04-07",
             "discontinuedDate": null,
-            "devicePixelRatio": 4.0
+            "devicePixelRatio": 4.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "LG"
         }
     },
     {
@@ -5076,9 +5496,9 @@
         },
         "tags": [
             "touch",
+            "phone",
             "oneplus",
-            "mobile",
-            "phone"
+            "mobile"
         ],
         "attributes": {
             "popularity": 20,
@@ -5100,7 +5520,10 @@
             },
             "releaseDate": "2017-11-21",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "OnePlus"
         }
     },
     {
@@ -5113,9 +5536,9 @@
         },
         "tags": [
             "touch",
-            "huawei",
+            "phone",
             "mobile",
-            "phone"
+            "huawei"
         ],
         "attributes": {
             "popularity": 19,
@@ -5137,7 +5560,10 @@
             },
             "releaseDate": "2020-11-02",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "HarmonyOS",
+            "deviceType": "phone",
+            "brand": "Huawei"
         }
     },
     {
@@ -5150,9 +5576,9 @@
         },
         "tags": [
             "touch",
-            "huawei",
+            "phone",
             "mobile",
-            "phone"
+            "huawei"
         ],
         "attributes": {
             "popularity": 19,
@@ -5174,7 +5600,10 @@
             },
             "releaseDate": "2020-11-02",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "HarmonyOS",
+            "deviceType": "phone",
+            "brand": "Huawei"
         }
     },
     {
@@ -5187,9 +5616,9 @@
         },
         "tags": [
             "touch",
-            "huawei",
+            "phone",
             "mobile",
-            "phone"
+            "huawei"
         ],
         "attributes": {
             "popularity": 19,
@@ -5211,7 +5640,10 @@
             },
             "releaseDate": "2020-04-22",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "HarmonyOS",
+            "deviceType": "phone",
+            "brand": "Huawei"
         }
     },
     {
@@ -5224,9 +5656,9 @@
         },
         "tags": [
             "touch",
+            "phone",
             "mobile",
-            "xiaomi",
-            "phone"
+            "xiaomi"
         ],
         "attributes": {
             "popularity": 18,
@@ -5248,7 +5680,10 @@
             },
             "releaseDate": "2020-02-13",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.75
+            "devicePixelRatio": 2.75,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Xiaomi"
         }
     },
     {
@@ -5261,9 +5696,9 @@
         },
         "tags": [
             "touch",
+            "phone",
             "mobile",
-            "xiaomi",
-            "phone"
+            "xiaomi"
         ],
         "attributes": {
             "popularity": 18,
@@ -5285,7 +5720,10 @@
             },
             "releaseDate": "2020-02-18",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.75
+            "devicePixelRatio": 2.75,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Xiaomi"
         }
     },
     {
@@ -5298,9 +5736,9 @@
         },
         "tags": [
             "touch",
+            "phone",
             "mobile",
-            "xiaomi",
-            "phone"
+            "xiaomi"
         ],
         "attributes": {
             "popularity": 18,
@@ -5322,7 +5760,10 @@
             },
             "releaseDate": "2020-09-30",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.75
+            "devicePixelRatio": 2.75,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Xiaomi"
         }
     }
 ]
