@@ -6,4 +6,4 @@ Feel free to use this data (licensed under MIT) for your own projects (and submi
 Additionally, we're sure our list of devices / viewports is missing some. If so, please submit a PR so we can maintain this JSON database of viewports.
 
 Preview of how this data is used in [Viewport Tester](https://viewport-tester.com):
-![](https://416.io/ss/f/uw8rri)
+![](https://416.io/ss/f/uw8rri/r)
