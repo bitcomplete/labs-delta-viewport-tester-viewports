@@ -1,7 +1,7 @@
 [
     {
-        "id": "id:item:v2024.08.30:ipad--10th-gen-",
-        "slug": "ipad--10th-gen-",
+        "id": "id:item:v2024.08.30:ipad-10th-gen",
+        "slug": "ipad-10th-gen",
         "active": true,
         "labels": {
             "primary": "iPad (10th gen)",
@@ -40,8 +40,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad--9th-gen-",
-        "slug": "ipad--9th-gen-",
+        "id": "id:item:v2024.08.30:ipad-9th-gen",
+        "slug": "ipad-9th-gen",
         "active": true,
         "labels": {
             "primary": "iPad (9th gen)",
@@ -80,8 +80,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad--8th-gen-",
-        "slug": "ipad--8th-gen-",
+        "id": "id:item:v2024.08.30:ipad-8th-gen",
+        "slug": "ipad-8th-gen",
         "active": true,
         "labels": {
             "primary": "iPad (8th gen)",
@@ -120,8 +120,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad--7th-gen-",
-        "slug": "ipad--7th-gen-",
+        "id": "id:item:v2024.08.30:ipad-7th-gen",
+        "slug": "ipad-7th-gen",
         "active": true,
         "labels": {
             "primary": "iPad (7th gen)",
@@ -160,8 +160,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad--6th-gen-",
-        "slug": "ipad--6th-gen-",
+        "id": "id:item:v2024.08.30:ipad-6th-gen",
+        "slug": "ipad-6th-gen",
         "active": true,
         "labels": {
             "primary": "iPad (6th gen)",
@@ -200,8 +200,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad--5th-gen-",
-        "slug": "ipad--5th-gen-",
+        "id": "id:item:v2024.08.30:ipad-5th-gen",
+        "slug": "ipad-5th-gen",
         "active": true,
         "labels": {
             "primary": "iPad (5th gen)",
@@ -240,8 +240,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-13---7th-gen--2024-",
-        "slug": "ipad-pro-13---7th-gen--2024-",
+        "id": "id:item:v2024.08.30:ipad-pro-13-7th-gen-2024",
+        "slug": "ipad-pro-13-7th-gen-2024",
         "active": true,
         "labels": {
             "primary": "iPad Pro 13\" (7th gen, 2024)",
@@ -280,8 +280,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-11---7th-gen--2024-",
-        "slug": "ipad-pro-11---7th-gen--2024-",
+        "id": "id:item:v2024.08.30:ipad-pro-11-7th-gen-2024",
+        "slug": "ipad-pro-11-7th-gen-2024",
         "active": true,
         "labels": {
             "primary": "iPad Pro 11\" (7th gen, 2024)",
@@ -320,8 +320,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-12-9---6th-gen--2022-",
-        "slug": "ipad-pro-12-9---6th-gen--2022-",
+        "id": "id:item:v2024.08.30:ipad-pro-12-9-6th-gen-2022",
+        "slug": "ipad-pro-12-9-6th-gen-2022",
         "active": true,
         "labels": {
             "primary": "iPad Pro 12.9\" (6th gen, 2022)",
@@ -360,8 +360,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-11---6th-gen--2022-",
-        "slug": "ipad-pro-11---6th-gen--2022-",
+        "id": "id:item:v2024.08.30:ipad-pro-11-6th-gen-2022",
+        "slug": "ipad-pro-11-6th-gen-2022",
         "active": true,
         "labels": {
             "primary": "iPad Pro 11\" (6th gen, 2022)",
@@ -400,8 +400,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-12-9---5th-gen--2021-",
-        "slug": "ipad-pro-12-9---5th-gen--2021-",
+        "id": "id:item:v2024.08.30:ipad-pro-12-9-5th-gen-2021",
+        "slug": "ipad-pro-12-9-5th-gen-2021",
         "active": true,
         "labels": {
             "primary": "iPad Pro 12.9\" (5th gen, 2021)",
@@ -440,8 +440,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-11---5th-gen--2021-",
-        "slug": "ipad-pro-11---5th-gen--2021-",
+        "id": "id:item:v2024.08.30:ipad-pro-11-5th-gen-2021",
+        "slug": "ipad-pro-11-5th-gen-2021",
         "active": true,
         "labels": {
             "primary": "iPad Pro 11\" (5th gen, 2021)",
@@ -480,8 +480,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-12-9---4th-gen--2020-",
-        "slug": "ipad-pro-12-9---4th-gen--2020-",
+        "id": "id:item:v2024.08.30:ipad-pro-12-9-4th-gen-2020",
+        "slug": "ipad-pro-12-9-4th-gen-2020",
         "active": true,
         "labels": {
             "primary": "iPad Pro 12.9\" (4th gen, 2020)",
@@ -520,8 +520,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-11---4th-gen--2020-",
-        "slug": "ipad-pro-11---4th-gen--2020-",
+        "id": "id:item:v2024.08.30:ipad-pro-11-4th-gen-2020",
+        "slug": "ipad-pro-11-4th-gen-2020",
         "active": true,
         "labels": {
             "primary": "iPad Pro 11\" (4th gen, 2020)",
@@ -560,8 +560,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-12-9---3th-gen--2018-",
-        "slug": "ipad-pro-12-9---3th-gen--2018-",
+        "id": "id:item:v2024.08.30:ipad-pro-12-9-3th-gen-2018",
+        "slug": "ipad-pro-12-9-3th-gen-2018",
         "active": true,
         "labels": {
             "primary": "iPad Pro 12.9\" (3th gen, 2018)",
@@ -600,8 +600,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-11---3th-gen--2018-",
-        "slug": "ipad-pro-11---3th-gen--2018-",
+        "id": "id:item:v2024.08.30:ipad-pro-11-3th-gen-2018",
+        "slug": "ipad-pro-11-3th-gen-2018",
         "active": true,
         "labels": {
             "primary": "iPad Pro 11\" (3th gen, 2018)",
@@ -640,8 +640,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-12-9---2nd-gen--2017-",
-        "slug": "ipad-pro-12-9---2nd-gen--2017-",
+        "id": "id:item:v2024.08.30:ipad-pro-12-9-2nd-gen-2017",
+        "slug": "ipad-pro-12-9-2nd-gen-2017",
         "active": true,
         "labels": {
             "primary": "iPad Pro 12.9\" (2nd gen, 2017)",
@@ -680,8 +680,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-10-5---2nd-gen--2017-",
-        "slug": "ipad-pro-10-5---2nd-gen--2017-",
+        "id": "id:item:v2024.08.30:ipad-pro-10-5-2nd-gen-2017",
+        "slug": "ipad-pro-10-5-2nd-gen-2017",
         "active": true,
         "labels": {
             "primary": "iPad Pro 10.5\" (2nd gen, 2017)",
@@ -720,8 +720,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-air--5th-gen--2022-",
-        "slug": "ipad-air--5th-gen--2022-",
+        "id": "id:item:v2024.08.30:ipad-air-5th-gen-2022",
+        "slug": "ipad-air-5th-gen-2022",
         "active": true,
         "labels": {
             "primary": "iPad Air (5th gen, 2022)",
@@ -760,8 +760,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-air--4th-gen--2020-",
-        "slug": "ipad-air--4th-gen--2020-",
+        "id": "id:item:v2024.08.30:ipad-air-4th-gen-2020",
+        "slug": "ipad-air-4th-gen-2020",
         "active": true,
         "labels": {
             "primary": "iPad Air (4th gen, 2020)",
@@ -800,8 +800,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-air--3th-gen--2019-",
-        "slug": "ipad-air--3th-gen--2019-",
+        "id": "id:item:v2024.08.30:ipad-air-3th-gen-2019",
+        "slug": "ipad-air-3th-gen-2019",
         "active": true,
         "labels": {
             "primary": "iPad Air (3th gen, 2019)",
@@ -840,8 +840,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-mini--6th-gen--2021-",
-        "slug": "ipad-mini--6th-gen--2021-",
+        "id": "id:item:v2024.08.30:ipad-mini-6th-gen-2021",
+        "slug": "ipad-mini-6th-gen-2021",
         "active": true,
         "labels": {
             "primary": "iPad Mini (6th gen, 2021)",
@@ -880,8 +880,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-mini--5th-gen--2019-",
-        "slug": "ipad-mini--5th-gen--2019-",
+        "id": "id:item:v2024.08.30:ipad-mini-5th-gen-2019",
+        "slug": "ipad-mini-5th-gen-2019",
         "active": true,
         "labels": {
             "primary": "iPad Mini (5th gen, 2019)",
@@ -1248,8 +1248,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-air-15---m3--2024-",
-        "slug": "macbook-air-15---m3--2024-",
+        "id": "id:item:v2024.08.30:macbook-air-15-m3-2024",
+        "slug": "macbook-air-15-m3-2024",
         "active": true,
         "labels": {
             "primary": "MacBook Air 15\" (M3, 2024)",
@@ -1286,8 +1286,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-air-13---m3--2024-",
-        "slug": "macbook-air-13---m3--2024-",
+        "id": "id:item:v2024.08.30:macbook-air-13-m3-2024",
+        "slug": "macbook-air-13-m3-2024",
         "active": true,
         "labels": {
             "primary": "MacBook Air 13\" (M3, 2024)",
@@ -1324,8 +1324,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-16---m2--2023-",
-        "slug": "macbook-pro-16---m2--2023-",
+        "id": "id:item:v2024.08.30:macbook-pro-16-m2-2023",
+        "slug": "macbook-pro-16-m2-2023",
         "active": true,
         "labels": {
             "primary": "MacBook Pro 16\" (M2, 2023)",
@@ -1362,8 +1362,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-14---m2--2023-",
-        "slug": "macbook-pro-14---m2--2023-",
+        "id": "id:item:v2024.08.30:macbook-pro-14-m2-2023",
+        "slug": "macbook-pro-14-m2-2023",
         "active": true,
         "labels": {
             "primary": "MacBook Pro 14\" (M2, 2023)",
@@ -1400,8 +1400,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:imac-4-5k-24---m3--2023-",
-        "slug": "imac-4-5k-24---m3--2023-",
+        "id": "id:item:v2024.08.30:imac-4-5k-24-m3-2023",
+        "slug": "imac-4-5k-24-m3-2023",
         "active": true,
         "labels": {
             "primary": "iMac 4.5K 24\u2033 (M3, 2023)",
@@ -1438,8 +1438,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-16---m3--nov-2023-",
-        "slug": "macbook-pro-16---m3--nov-2023-",
+        "id": "id:item:v2024.08.30:macbook-pro-16-m3-nov-2023",
+        "slug": "macbook-pro-16-m3-nov-2023",
         "active": true,
         "labels": {
             "primary": "MacBook Pro 16\" (M3, Nov 2023)",
@@ -1476,8 +1476,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-14---m3--nov-2023-",
-        "slug": "macbook-pro-14---m3--nov-2023-",
+        "id": "id:item:v2024.08.30:macbook-pro-14-m3-nov-2023",
+        "slug": "macbook-pro-14-m3-nov-2023",
         "active": true,
         "labels": {
             "primary": "MacBook Pro 14\" (M3, Nov 2023)",
@@ -1514,8 +1514,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-air--m2--2022-",
-        "slug": "macbook-air--m2--2022-",
+        "id": "id:item:v2024.08.30:macbook-air-m2-2022",
+        "slug": "macbook-air-m2-2022",
         "active": true,
         "labels": {
             "primary": "MacBook Air (M2, 2022)",
@@ -1552,8 +1552,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-13---m2--2022-",
-        "slug": "macbook-pro-13---m2--2022-",
+        "id": "id:item:v2024.08.30:macbook-pro-13-m2-2022",
+        "slug": "macbook-pro-13-m2-2022",
         "active": true,
         "labels": {
             "primary": "MacBook Pro 13\" (M2, 2022)",
@@ -1590,8 +1590,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:imac-4-5k-24---m1--2021-",
-        "slug": "imac-4-5k-24---m1--2021-",
+        "id": "id:item:v2024.08.30:imac-4-5k-24-m1-2021",
+        "slug": "imac-4-5k-24-m1-2021",
         "active": true,
         "labels": {
             "primary": "iMac 4.5K 24\" (M1, 2021)",
@@ -1628,8 +1628,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-16---m1--2021-",
-        "slug": "macbook-pro-16---m1--2021-",
+        "id": "id:item:v2024.08.30:macbook-pro-16-m1-2021",
+        "slug": "macbook-pro-16-m1-2021",
         "active": true,
         "labels": {
             "primary": "MacBook Pro 16\" (M1, 2021)",
@@ -1666,8 +1666,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-14---m1--2021-",
-        "slug": "macbook-pro-14---m1--2021-",
+        "id": "id:item:v2024.08.30:macbook-pro-14-m1-2021",
+        "slug": "macbook-pro-14-m1-2021",
         "active": true,
         "labels": {
             "primary": "MacBook Pro 14\" (M1, 2021)",
@@ -1704,8 +1704,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-13---intel--2020-",
-        "slug": "macbook-pro-13---intel--2020-",
+        "id": "id:item:v2024.08.30:macbook-pro-13-intel-2020",
+        "slug": "macbook-pro-13-intel-2020",
         "active": true,
         "labels": {
             "primary": "MacBook Pro 13\" (Intel, 2020)",
@@ -1742,8 +1742,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:imac-retina-5k-27---intel--2020-",
-        "slug": "imac-retina-5k-27---intel--2020-",
+        "id": "id:item:v2024.08.30:imac-retina-5k-27-intel-2020",
+        "slug": "imac-retina-5k-27-intel-2020",
         "active": true,
         "labels": {
             "primary": "iMac Retina 5K 27\" (Intel, 2020)",
@@ -1780,8 +1780,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-13---m1--2020-",
-        "slug": "macbook-pro-13---m1--2020-",
+        "id": "id:item:v2024.08.30:macbook-pro-13-m1-2020",
+        "slug": "macbook-pro-13-m1-2020",
         "active": true,
         "labels": {
             "primary": "MacBook Pro 13\" (M1, 2020)",
@@ -1818,8 +1818,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-air--m1--2020-",
-        "slug": "macbook-air--m1--2020-",
+        "id": "id:item:v2024.08.30:macbook-air-m1-2020",
+        "slug": "macbook-air-m1-2020",
         "active": true,
         "labels": {
             "primary": "MacBook Air (M1, 2020)",
@@ -1856,8 +1856,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-air-13---intel--2020-",
-        "slug": "macbook-air-13---intel--2020-",
+        "id": "id:item:v2024.08.30:macbook-air-13-intel-2020",
+        "slug": "macbook-air-13-intel-2020",
         "active": true,
         "labels": {
             "primary": "MacBook Air 13\" (Intel, 2020)",
@@ -1894,8 +1894,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:imac-retina-5k-27---intel--2019-",
-        "slug": "imac-retina-5k-27---intel--2019-",
+        "id": "id:item:v2024.08.30:imac-retina-5k-27-intel-2019",
+        "slug": "imac-retina-5k-27-intel-2019",
         "active": true,
         "labels": {
             "primary": "iMac Retina 5K 27\" (Intel, 2019)",
@@ -1932,8 +1932,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:imac-retina-4k-21-5---intel--2019-",
-        "slug": "imac-retina-4k-21-5---intel--2019-",
+        "id": "id:item:v2024.08.30:imac-retina-4k-21-5-intel-2019",
+        "slug": "imac-retina-4k-21-5-intel-2019",
         "active": true,
         "labels": {
             "primary": "iMac Retina 4K 21.5\" (Intel, 2019)",
@@ -1970,8 +1970,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-13---intel--2019-",
-        "slug": "macbook-pro-13---intel--2019-",
+        "id": "id:item:v2024.08.30:macbook-pro-13-intel-2019",
+        "slug": "macbook-pro-13-intel-2019",
         "active": true,
         "labels": {
             "primary": "MacBook Pro 13\" (Intel, 2019)",
@@ -2008,8 +2008,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-15---intel--2019-",
-        "slug": "macbook-pro-15---intel--2019-",
+        "id": "id:item:v2024.08.30:macbook-pro-15-intel-2019",
+        "slug": "macbook-pro-15-intel-2019",
         "active": true,
         "labels": {
             "primary": "MacBook Pro 15\" (Intel, 2019)",
@@ -2046,8 +2046,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-air-13---intel--2019-",
-        "slug": "macbook-air-13---intel--2019-",
+        "id": "id:item:v2024.08.30:macbook-air-13-intel-2019",
+        "slug": "macbook-air-13-intel-2019",
         "active": true,
         "labels": {
             "primary": "MacBook Air 13\" (Intel, 2019)",
@@ -2084,8 +2084,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-16---intel--2019-",
-        "slug": "macbook-pro-16---intel--2019-",
+        "id": "id:item:v2024.08.30:macbook-pro-16-intel-2019",
+        "slug": "macbook-pro-16-intel-2019",
         "active": true,
         "labels": {
             "primary": "MacBook Pro 16\" (Intel, 2019)",
@@ -2122,8 +2122,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-13---intel--2018-",
-        "slug": "macbook-pro-13---intel--2018-",
+        "id": "id:item:v2024.08.30:macbook-pro-13-intel-2018",
+        "slug": "macbook-pro-13-intel-2018",
         "active": true,
         "labels": {
             "primary": "MacBook Pro 13\" (Intel, 2018)",
@@ -2160,8 +2160,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:lenovo-v14-gen-5-14-",
-        "slug": "lenovo-v14-gen-5-14-",
+        "id": "id:item:v2024.08.30:lenovo-v14-gen-5-14",
+        "slug": "lenovo-v14-gen-5-14",
         "active": true,
         "labels": {
             "primary": "Lenovo V14 Gen 5 14\"",
@@ -2197,8 +2197,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:lenovo-v15-gen-4-15-",
-        "slug": "lenovo-v15-gen-4-15-",
+        "id": "id:item:v2024.08.30:lenovo-v15-gen-4-15",
+        "slug": "lenovo-v15-gen-4-15",
         "active": true,
         "labels": {
             "primary": "Lenovo V15 Gen 4 15\"",
@@ -2234,8 +2234,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:lenovo-v14-gen-4-14-",
-        "slug": "lenovo-v14-gen-4-14-",
+        "id": "id:item:v2024.08.30:lenovo-v14-gen-4-14",
+        "slug": "lenovo-v14-gen-4-14",
         "active": true,
         "labels": {
             "primary": "Lenovo V14 Gen 4 14\"",
@@ -2271,8 +2271,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:thinkpad-t16-gen-3-16-",
-        "slug": "thinkpad-t16-gen-3-16-",
+        "id": "id:item:v2024.08.30:thinkpad-t16-gen-3-16",
+        "slug": "thinkpad-t16-gen-3-16",
         "active": true,
         "labels": {
             "primary": "ThinkPad T16 Gen 3 16\"",
@@ -2308,8 +2308,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:thinkpad-t14s-gen-6-14-",
-        "slug": "thinkpad-t14s-gen-6-14-",
+        "id": "id:item:v2024.08.30:thinkpad-t14s-gen-6-14",
+        "slug": "thinkpad-t14s-gen-6-14",
         "active": true,
         "labels": {
             "primary": "ThinkPad T14s Gen 6 14\"",
@@ -2345,8 +2345,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:thinkpad-t14-gen-5-14-",
-        "slug": "thinkpad-t14-gen-5-14-",
+        "id": "id:item:v2024.08.30:thinkpad-t14-gen-5-14",
+        "slug": "thinkpad-t14-gen-5-14",
         "active": true,
         "labels": {
             "primary": "ThinkPad T14 Gen 5 14\"",
@@ -2382,8 +2382,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:thinkpad-p1-gen7-16-",
-        "slug": "thinkpad-p1-gen7-16-",
+        "id": "id:item:v2024.08.30:thinkpad-p1-gen7-16",
+        "slug": "thinkpad-p1-gen7-16",
         "active": true,
         "labels": {
             "primary": "ThinkPad P1 Gen7 16\"",
@@ -2419,8 +2419,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:thinkpad-p16s-gen-3-16-",
-        "slug": "thinkpad-p16s-gen-3-16-",
+        "id": "id:item:v2024.08.30:thinkpad-p16s-gen-3-16",
+        "slug": "thinkpad-p16s-gen-3-16",
         "active": true,
         "labels": {
             "primary": "ThinkPad P16s Gen 3 16\"",
@@ -2456,8 +2456,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:thinkpad-p14s-gen-5-14-",
-        "slug": "thinkpad-p14s-gen-5-14-",
+        "id": "id:item:v2024.08.30:thinkpad-p14s-gen-5-14",
+        "slug": "thinkpad-p14s-gen-5-14",
         "active": true,
         "labels": {
             "primary": "ThinkPad P14s Gen 5 14\"",
@@ -2493,8 +2493,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:thinkpad-p14s-gen-5-14-5-",
-        "slug": "thinkpad-p14s-gen-5-14-5-",
+        "id": "id:item:v2024.08.30:thinkpad-p14s-gen-5-14-5",
+        "slug": "thinkpad-p14s-gen-5-14-5",
         "active": true,
         "labels": {
             "primary": "ThinkPad P14s Gen 5 14.5\"",
@@ -2530,8 +2530,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:mobile-workstation-p14s-g5-14-5-",
-        "slug": "mobile-workstation-p14s-g5-14-5-",
+        "id": "id:item:v2024.08.30:mobile-workstation-p14s-g5-14-5",
+        "slug": "mobile-workstation-p14s-g5-14-5",
         "active": true,
         "labels": {
             "primary": "Mobile Workstation P14s G5 14.5\"",
@@ -5327,8 +5327,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:galaxy-a13--2022-",
-        "slug": "galaxy-a13--2022-",
+        "id": "id:item:v2024.08.30:galaxy-a13-2022",
+        "slug": "galaxy-a13-2022",
         "active": true,
         "labels": {
             "primary": "Galaxy A13 (2022)",
@@ -5367,8 +5367,8 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:galaxy-a13--2021-",
-        "slug": "galaxy-a13--2021-",
+        "id": "id:item:v2024.08.30:galaxy-a13-2021",
+        "slug": "galaxy-a13-2021",
         "active": true,
         "labels": {
             "primary": "Galaxy A13 (2021)",
