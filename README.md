@@ -1,4 +1,4 @@
-# Labs: Viewport Tester Viewports
+# Labs: Viewport Tester
 This repository contains a JSON file (see `viewports.json`) which lists modern / up-to-date viewports. This is used extensively in our product [https://viewport-tester.com/](https://viewport-tester.com/), which allows you to quickly test viewports and breakpoints for your website / webpage.
 
 Feel free to use this data (licensed under MIT) for your own projects (and submit a PR to this `README.md` file so we can link to your project).
