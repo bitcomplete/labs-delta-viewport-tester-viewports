@@ -1,163 +1,22 @@
 [
     {
-        "id": "id:item:v2024.08.30:desktop-1",
-        "slug": "desktop-1",
-        "active": true,
-        "labels": {
-            "primary": "Desktop #1",
-            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
-        },
-        "tags": [
-            "Desktop #1"
-        ],
-        "attributes": {
-            "popularity": 1,
-            "icons": ["deviceDesktop"],
-            "width": 1920,
-            "height": 1080
-        },
-        "properties": {
-            "screen": {
-                "width": 0,
-                "height": 0
-            },
-            "viewport": {
-                "width": 0,
-                "height": 0
-            }
-        }
-    },
-    {
-        "id": "id:item:v2024.08.30:desktop-2",
-        "slug": "desktop-2",
-        "active": true,
-        "labels": {
-            "primary": "Desktop #2",
-            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
-        },
-        "tags": [
-            "Desktop #2"
-        ],
-        "attributes": {
-            "popularity": 2,
-            "icons": ["deviceDesktop"],
-            "width": 1366,
-            "height": 768
-        },
-        "properties": {
-            "screen": {
-                "width": 0,
-                "height": 0
-            },
-            "viewport": {
-                "width": 0,
-                "height": 0
-            }
-        }
-    },
-    {
-        "id": "id:item:v2024.08.30:desktop-3",
-        "slug": "desktop-3",
-        "active": true,
-        "labels": {
-            "primary": "Desktop #3",
-            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
-        },
-        "tags": [
-            "Desktop #3"
-        ],
-        "attributes": {
-            "popularity": 3,
-            "icons": ["deviceDesktop"],
-            "width": 1440,
-            "height": 900
-        },
-        "properties": {
-            "screen": {
-                "width": 0,
-                "height": 0
-            },
-            "viewport": {
-                "width": 0,
-                "height": 0
-            }
-        }
-    },
-    {
-        "id": "id:item:v2024.08.30:desktop-4",
-        "slug": "desktop-4",
-        "active": true,
-        "labels": {
-            "primary": "Desktop #4",
-            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
-        },
-        "tags": [
-            "Desktop #4"
-        ],
-        "attributes": {
-            "popularity": 4,
-            "icons": ["deviceDesktop"],
-            "width": 1536,
-            "height": 864
-        },
-        "properties": {
-            "screen": {
-                "width": 0,
-                "height": 0
-            },
-            "viewport": {
-                "width": 0,
-                "height": 0
-            }
-        }
-    },
-    {
-        "id": "id:item:v2024.08.30:desktop-5",
-        "slug": "desktop-5",
-        "active": true,
-        "labels": {
-            "primary": "Desktop #5",
-            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
-        },
-        "tags": [
-            "Desktop #5"
-        ],
-        "attributes": {
-            "popularity": 5,
-            "icons": ["deviceDesktop"],
-            "width": 1600,
-            "height": 900
-        },
-        "properties": {
-            "screen": {
-                "width": 0,
-                "height": 0
-            },
-            "viewport": {
-                "width": 0,
-                "height": 0
-            }
-        }
-    },
-    {
-        "id": "id:item:v2024.08.30:ipad-10th-gen",
-        "slug": "ipad-10th-gen",
+        "id": "id:item:v2024.08.30:ipad--10th-gen-",
+        "slug": "ipad--10th-gen-",
         "active": true,
         "labels": {
             "primary": "iPad (10th gen)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "mobile",
-            "iPad (10th gen)",
+            "tablet",
             "touch",
-            "tablet"
+            "mobile",
+            "apple"
         ],
         "attributes": {
             "popularity": 68,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 820,
@@ -174,28 +33,30 @@
             },
             "releaseDate": "2022-10-26",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-9th-gen",
-        "slug": "ipad-9th-gen",
+        "id": "id:item:v2024.08.30:ipad--9th-gen-",
+        "slug": "ipad--9th-gen-",
         "active": true,
         "labels": {
             "primary": "iPad (9th gen)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "mobile",
+            "tablet",
             "touch",
-            "iPad (9th gen)",
-            "tablet"
+            "mobile",
+            "apple"
         ],
         "attributes": {
             "popularity": 67,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 810,
@@ -212,28 +73,30 @@
             },
             "releaseDate": "2021-09-24",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-8th-gen",
-        "slug": "ipad-8th-gen",
+        "id": "id:item:v2024.08.30:ipad--8th-gen-",
+        "slug": "ipad--8th-gen-",
         "active": true,
         "labels": {
             "primary": "iPad (8th gen)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "mobile",
+            "tablet",
             "touch",
-            "iPad (8th gen)",
-            "tablet"
+            "mobile",
+            "apple"
         ],
         "attributes": {
             "popularity": 66,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 810,
@@ -250,28 +113,30 @@
             },
             "releaseDate": "2020-09-16",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-7th-gen",
-        "slug": "ipad-7th-gen",
+        "id": "id:item:v2024.08.30:ipad--7th-gen-",
+        "slug": "ipad--7th-gen-",
         "active": true,
         "labels": {
             "primary": "iPad (7th gen)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "mobile",
-            "iPad (7th gen)",
+            "tablet",
             "touch",
-            "tablet"
+            "mobile",
+            "apple"
         ],
         "attributes": {
             "popularity": 65,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 810,
@@ -288,28 +153,30 @@
             },
             "releaseDate": "2019-09-25",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-6th-gen",
-        "slug": "ipad-6th-gen",
+        "id": "id:item:v2024.08.30:ipad--6th-gen-",
+        "slug": "ipad--6th-gen-",
         "active": true,
         "labels": {
             "primary": "iPad (6th gen)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "iPad (6th gen)",
-            "mobile",
+            "tablet",
             "touch",
-            "tablet"
+            "mobile",
+            "apple"
         ],
         "attributes": {
             "popularity": 64,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 768,
@@ -326,28 +193,30 @@
             },
             "releaseDate": "2018-03-27",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-5th-gen",
-        "slug": "ipad-5th-gen",
+        "id": "id:item:v2024.08.30:ipad--5th-gen-",
+        "slug": "ipad--5th-gen-",
         "active": true,
         "labels": {
             "primary": "iPad (5th gen)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "iPad (5th gen)",
-            "mobile",
+            "tablet",
             "touch",
-            "tablet"
+            "mobile",
+            "apple"
         ],
         "attributes": {
             "popularity": 63,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 768,
@@ -364,28 +233,30 @@
             },
             "releaseDate": "2017-03-22",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-13-7th-gen-2024",
-        "slug": "ipad-pro-13-7th-gen-2024",
+        "id": "id:item:v2024.08.30:ipad-pro-13---7th-gen--2024-",
+        "slug": "ipad-pro-13---7th-gen--2024-",
         "active": true,
         "labels": {
             "primary": "iPad Pro 13\" (7th gen, 2024)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "mobile",
-            "iPad Pro 13\" (7th gen, 2024)",
+            "tablet",
             "touch",
-            "tablet"
+            "mobile",
+            "apple"
         ],
         "attributes": {
             "popularity": 62,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 1032,
@@ -402,28 +273,30 @@
             },
             "releaseDate": "2024-05-15",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-11-7th-gen-2024",
-        "slug": "ipad-pro-11-7th-gen-2024",
+        "id": "id:item:v2024.08.30:ipad-pro-11---7th-gen--2024-",
+        "slug": "ipad-pro-11---7th-gen--2024-",
         "active": true,
         "labels": {
             "primary": "iPad Pro 11\" (7th gen, 2024)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "iPad Pro 11\" (7th gen, 2024)",
-            "mobile",
+            "tablet",
             "touch",
-            "tablet"
+            "mobile",
+            "apple"
         ],
         "attributes": {
             "popularity": 61,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 834,
@@ -440,28 +313,30 @@
             },
             "releaseDate": "2024-05-15",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-12-9-6th-gen-2022",
-        "slug": "ipad-pro-12-9-6th-gen-2022",
+        "id": "id:item:v2024.08.30:ipad-pro-12-9---6th-gen--2022-",
+        "slug": "ipad-pro-12-9---6th-gen--2022-",
         "active": true,
         "labels": {
             "primary": "iPad Pro 12.9\" (6th gen, 2022)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "mobile",
-            "iPad Pro 12.9\" (6th gen, 2022)",
+            "tablet",
             "touch",
-            "tablet"
+            "mobile",
+            "apple"
         ],
         "attributes": {
             "popularity": 60,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 1024,
@@ -478,28 +353,30 @@
             },
             "releaseDate": "2022-10-26",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-11-6th-gen-2022",
-        "slug": "ipad-pro-11-6th-gen-2022",
+        "id": "id:item:v2024.08.30:ipad-pro-11---6th-gen--2022-",
+        "slug": "ipad-pro-11---6th-gen--2022-",
         "active": true,
         "labels": {
             "primary": "iPad Pro 11\" (6th gen, 2022)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "mobile",
+            "tablet",
             "touch",
-            "iPad Pro 11\" (6th gen, 2022)",
-            "tablet"
+            "mobile",
+            "apple"
         ],
         "attributes": {
             "popularity": 59,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 834,
@@ -516,28 +393,30 @@
             },
             "releaseDate": "2022-10-26",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-12-9-5th-gen-2021",
-        "slug": "ipad-pro-12-9-5th-gen-2021",
+        "id": "id:item:v2024.08.30:ipad-pro-12-9---5th-gen--2021-",
+        "slug": "ipad-pro-12-9---5th-gen--2021-",
         "active": true,
         "labels": {
             "primary": "iPad Pro 12.9\" (5th gen, 2021)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "mobile",
+            "tablet",
             "touch",
-            "iPad Pro 12.9\" (5th gen, 2021)",
-            "tablet"
+            "mobile",
+            "apple"
         ],
         "attributes": {
             "popularity": 58,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 1024,
@@ -554,28 +433,30 @@
             },
             "releaseDate": "2021-05-21",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-11-5th-gen-2021",
-        "slug": "ipad-pro-11-5th-gen-2021",
+        "id": "id:item:v2024.08.30:ipad-pro-11---5th-gen--2021-",
+        "slug": "ipad-pro-11---5th-gen--2021-",
         "active": true,
         "labels": {
             "primary": "iPad Pro 11\" (5th gen, 2021)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "mobile",
+            "tablet",
             "touch",
-            "iPad Pro 11\" (5th gen, 2021)",
-            "tablet"
+            "mobile",
+            "apple"
         ],
         "attributes": {
             "popularity": 57,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 834,
@@ -592,28 +473,30 @@
             },
             "releaseDate": "2021-05-21",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-12-9-4th-gen-2020",
-        "slug": "ipad-pro-12-9-4th-gen-2020",
+        "id": "id:item:v2024.08.30:ipad-pro-12-9---4th-gen--2020-",
+        "slug": "ipad-pro-12-9---4th-gen--2020-",
         "active": true,
         "labels": {
             "primary": "iPad Pro 12.9\" (4th gen, 2020)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "mobile",
-            "touch",
             "tablet",
-            "iPad Pro 12.9\" (4th gen, 2020)"
+            "touch",
+            "mobile",
+            "apple"
         ],
         "attributes": {
             "popularity": 56,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 1024,
@@ -630,28 +513,30 @@
             },
             "releaseDate": "2020-03-25",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-11-4th-gen-2020",
-        "slug": "ipad-pro-11-4th-gen-2020",
+        "id": "id:item:v2024.08.30:ipad-pro-11---4th-gen--2020-",
+        "slug": "ipad-pro-11---4th-gen--2020-",
         "active": true,
         "labels": {
             "primary": "iPad Pro 11\" (4th gen, 2020)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "mobile",
+            "tablet",
             "touch",
-            "iPad Pro 11\" (4th gen, 2020)",
-            "tablet"
+            "mobile",
+            "apple"
         ],
         "attributes": {
             "popularity": 55,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 834,
@@ -668,28 +553,30 @@
             },
             "releaseDate": "2020-03-25",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-12-9-3th-gen-2018",
-        "slug": "ipad-pro-12-9-3th-gen-2018",
+        "id": "id:item:v2024.08.30:ipad-pro-12-9---3th-gen--2018-",
+        "slug": "ipad-pro-12-9---3th-gen--2018-",
         "active": true,
         "labels": {
             "primary": "iPad Pro 12.9\" (3th gen, 2018)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "mobile",
-            "iPad Pro 12.9\" (3th gen, 2018)",
+            "tablet",
             "touch",
-            "tablet"
+            "mobile",
+            "apple"
         ],
         "attributes": {
             "popularity": 54,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 1024,
@@ -706,28 +593,30 @@
             },
             "releaseDate": "2018-11-07",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-11-3th-gen-2018",
-        "slug": "ipad-pro-11-3th-gen-2018",
+        "id": "id:item:v2024.08.30:ipad-pro-11---3th-gen--2018-",
+        "slug": "ipad-pro-11---3th-gen--2018-",
         "active": true,
         "labels": {
             "primary": "iPad Pro 11\" (3th gen, 2018)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "mobile",
-            "touch",
             "tablet",
-            "iPad Pro 11\" (3th gen, 2018)"
+            "touch",
+            "mobile",
+            "apple"
         ],
         "attributes": {
             "popularity": 53,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 834,
@@ -744,28 +633,30 @@
             },
             "releaseDate": "2018-11-07",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-12-9-2nd-gen-2017",
-        "slug": "ipad-pro-12-9-2nd-gen-2017",
+        "id": "id:item:v2024.08.30:ipad-pro-12-9---2nd-gen--2017-",
+        "slug": "ipad-pro-12-9---2nd-gen--2017-",
         "active": true,
         "labels": {
             "primary": "iPad Pro 12.9\" (2nd gen, 2017)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "mobile",
-            "touch",
             "tablet",
-            "iPad Pro 12.9\" (2nd gen, 2017)"
+            "touch",
+            "mobile",
+            "apple"
         ],
         "attributes": {
             "popularity": 52,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 1024,
@@ -782,28 +673,30 @@
             },
             "releaseDate": "2017-06-13",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-10-5-2nd-gen-2017",
-        "slug": "ipad-pro-10-5-2nd-gen-2017",
+        "id": "id:item:v2024.08.30:ipad-pro-10-5---2nd-gen--2017-",
+        "slug": "ipad-pro-10-5---2nd-gen--2017-",
         "active": true,
         "labels": {
             "primary": "iPad Pro 10.5\" (2nd gen, 2017)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "iPad Pro 10.5\" (2nd gen, 2017)",
-            "mobile",
+            "tablet",
             "touch",
-            "tablet"
+            "mobile",
+            "apple"
         ],
         "attributes": {
             "popularity": 51,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 834,
@@ -820,28 +713,30 @@
             },
             "releaseDate": "2017-06-13",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-air-5th-gen-2022",
-        "slug": "ipad-air-5th-gen-2022",
+        "id": "id:item:v2024.08.30:ipad-air--5th-gen--2022-",
+        "slug": "ipad-air--5th-gen--2022-",
         "active": true,
         "labels": {
             "primary": "iPad Air (5th gen, 2022)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "mobile",
-            "iPad Air (5th gen, 2022)",
+            "tablet",
             "touch",
-            "tablet"
+            "mobile",
+            "apple"
         ],
         "attributes": {
             "popularity": 50,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 820,
@@ -858,28 +753,30 @@
             },
             "releaseDate": "2022-03-18",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-air-4th-gen-2020",
-        "slug": "ipad-air-4th-gen-2020",
+        "id": "id:item:v2024.08.30:ipad-air--4th-gen--2020-",
+        "slug": "ipad-air--4th-gen--2020-",
         "active": true,
         "labels": {
             "primary": "iPad Air (4th gen, 2020)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "mobile",
-            "iPad Air (4th gen, 2020)",
+            "tablet",
             "touch",
-            "tablet"
+            "mobile",
+            "apple"
         ],
         "attributes": {
             "popularity": 49,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 820,
@@ -896,28 +793,30 @@
             },
             "releaseDate": "2020-10-23",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-air-3th-gen-2019",
-        "slug": "ipad-air-3th-gen-2019",
+        "id": "id:item:v2024.08.30:ipad-air--3th-gen--2019-",
+        "slug": "ipad-air--3th-gen--2019-",
         "active": true,
         "labels": {
             "primary": "iPad Air (3th gen, 2019)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "mobile",
             "tablet",
             "touch",
-            "iPad Air (3th gen, 2019)"
+            "mobile",
+            "apple"
         ],
         "attributes": {
             "popularity": 48,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 834,
@@ -934,28 +833,30 @@
             },
             "releaseDate": "2019-03-25",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-mini-6th-gen-2021",
-        "slug": "ipad-mini-6th-gen-2021",
+        "id": "id:item:v2024.08.30:ipad-mini--6th-gen--2021-",
+        "slug": "ipad-mini--6th-gen--2021-",
         "active": true,
         "labels": {
             "primary": "iPad Mini (6th gen, 2021)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "mobile",
+            "tablet",
             "touch",
-            "iPad Mini (6th gen, 2021)",
-            "tablet"
+            "mobile",
+            "apple"
         ],
         "attributes": {
             "popularity": 47,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 744,
@@ -972,28 +873,30 @@
             },
             "releaseDate": "2021-09-24",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-mini-5th-gen-2019",
-        "slug": "ipad-mini-5th-gen-2019",
+        "id": "id:item:v2024.08.30:ipad-mini--5th-gen--2019-",
+        "slug": "ipad-mini--5th-gen--2019-",
         "active": true,
         "labels": {
             "primary": "iPad Mini (5th gen, 2019)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "mobile",
-            "iPad Mini (5th gen, 2019)",
+            "tablet",
             "touch",
-            "tablet"
+            "mobile",
+            "apple"
         ],
         "attributes": {
             "popularity": 46,
             "icons": [
-                "deviceMobile",
+                "deviceTablet",
                 "brandApple"
             ],
             "width": 768,
@@ -1010,7 +913,10 @@
             },
             "releaseDate": "2019-03-18",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iPadOS",
+            "deviceType": "tablet",
+            "brand": "Apple"
         }
     },
     {
@@ -1022,17 +928,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
+            "tablet",
             "samsung",
             "mobile",
-            "touch",
-            "Galaxy Tab S8",
-            "tablet"
+            "touch"
         ],
         "attributes": {
             "popularity": 44,
             "icons": [
-                "deviceMobile",
-                "brandSamsung"
+                "deviceTablet",
+                "brandAndroid"
             ],
             "width": 360,
             "height": 740
@@ -1048,7 +953,10 @@
             },
             "releaseDate": "2022-02-09",
             "discontinuedDate": null,
-            "devicePixelRatio": null
+            "devicePixelRatio": null,
+            "operatingSystem": "Android",
+            "deviceType": "tablet",
+            "brand": "Samsung"
         }
     },
     {
@@ -1060,14 +968,12 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "desktop",
-            "Desktop HIDPI-XL"
+            "desktop"
         ],
         "attributes": {
             "popularity": 95,
             "icons": [
-                "deviceDesktop",
-                "BrandUnknown"
+                "deviceDesktop"
             ],
             "width": 2560,
             "height": 1440
@@ -1083,7 +989,10 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": null,
+            "deviceType": "desktop",
+            "brand": null
         }
     },
     {
@@ -1095,14 +1004,12 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "Desktop HIDPI",
             "desktop"
         ],
         "attributes": {
             "popularity": 100,
             "icons": [
-                "deviceDesktop",
-                "BrandUnknown"
+                "deviceDesktop"
             ],
             "width": 1920,
             "height": 1080
@@ -1118,7 +1025,10 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": null,
+            "deviceType": "desktop",
+            "brand": null
         }
     },
     {
@@ -1130,14 +1040,12 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "desktop",
-            "Desktop MDPI"
+            "desktop"
         ],
         "attributes": {
             "popularity": 96,
             "icons": [
-                "deviceDesktop",
-                "BrandUnknown"
+                "deviceDesktop"
             ],
             "width": 1440,
             "height": 900
@@ -1153,7 +1061,10 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": null,
+            "deviceType": "desktop",
+            "brand": null
         }
     },
     {
@@ -1165,14 +1076,12 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "Desktop 4K 1X Scale",
             "desktop"
         ],
         "attributes": {
             "popularity": 94,
             "icons": [
-                "deviceDesktop",
-                "BrandUnknown"
+                "deviceDesktop"
             ],
             "width": 3840,
             "height": 2160
@@ -1188,7 +1097,10 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": null,
+            "deviceType": "desktop",
+            "brand": null
         }
     },
     {
@@ -1200,14 +1112,12 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "desktop",
-            "Laptop-L"
+            "desktop"
         ],
         "attributes": {
             "popularity": 98,
             "icons": [
-                "deviceDesktop",
-                "BrandUnknown"
+                "deviceDesktop"
             ],
             "width": 1536,
             "height": 864
@@ -1223,7 +1133,10 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": null,
+            "deviceType": "desktop",
+            "brand": null
         }
     },
     {
@@ -1235,14 +1148,12 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "desktop",
-            "Laptop-M"
+            "desktop"
         ],
         "attributes": {
             "popularity": 99,
             "icons": [
-                "deviceDesktop",
-                "BrandUnknown"
+                "deviceDesktop"
             ],
             "width": 1366,
             "height": 768
@@ -1258,7 +1169,10 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": null,
+            "deviceType": "desktop",
+            "brand": null
         }
     },
     {
@@ -1270,14 +1184,12 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "Laptop-S",
             "desktop"
         ],
         "attributes": {
             "popularity": 93,
             "icons": [
-                "deviceDesktop",
-                "BrandUnknown"
+                "deviceDesktop"
             ],
             "width": 1280,
             "height": 800
@@ -1293,7 +1205,10 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": null,
+            "deviceType": "desktop",
+            "brand": null
         }
     },
     {
@@ -1305,14 +1220,12 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "Laptop-XS",
             "desktop"
         ],
         "attributes": {
             "popularity": 97,
             "icons": [
-                "deviceDesktop",
-                "BrandUnknown"
+                "deviceDesktop"
             ],
             "width": 1280,
             "height": 720
@@ -1328,21 +1241,23 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": null,
+            "deviceType": "desktop",
+            "brand": null
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-air-15-m3-2024",
-        "slug": "macbook-air-15-m3-2024",
+        "id": "id:item:v2024.08.30:macbook-air-15---m3--2024-",
+        "slug": "macbook-air-15---m3--2024-",
         "active": true,
         "labels": {
             "primary": "MacBook Air 15\" (M3, 2024)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "desktop",
-            "MacBook Air 15\" (M3, 2024)"
+            "apple"
         ],
         "attributes": {
             "popularity": 92,
@@ -1364,21 +1279,23 @@
             },
             "releaseDate": "2024-03-08",
             "discontinuedDate": "N/A",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-air-13-m3-2024",
-        "slug": "macbook-air-13-m3-2024",
+        "id": "id:item:v2024.08.30:macbook-air-13---m3--2024-",
+        "slug": "macbook-air-13---m3--2024-",
         "active": true,
         "labels": {
             "primary": "MacBook Air 13\" (M3, 2024)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "desktop",
-            "MacBook Air 13\" (M3, 2024)"
+            "apple"
         ],
         "attributes": {
             "popularity": 91,
@@ -1400,21 +1317,23 @@
             },
             "releaseDate": "2024-03-08",
             "discontinuedDate": "N/A",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-16-m2-2023",
-        "slug": "macbook-pro-16-m2-2023",
+        "id": "id:item:v2024.08.30:macbook-pro-16---m2--2023-",
+        "slug": "macbook-pro-16---m2--2023-",
         "active": true,
         "labels": {
             "primary": "MacBook Pro 16\" (M2, 2023)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "desktop",
-            "MacBook Pro 16\" (M2, 2023)"
+            "apple"
         ],
         "attributes": {
             "popularity": 90,
@@ -1436,21 +1355,23 @@
             },
             "releaseDate": "2023-01-24",
             "discontinuedDate": "2023-10-30",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-14-m2-2023",
-        "slug": "macbook-pro-14-m2-2023",
+        "id": "id:item:v2024.08.30:macbook-pro-14---m2--2023-",
+        "slug": "macbook-pro-14---m2--2023-",
         "active": true,
         "labels": {
             "primary": "MacBook Pro 14\" (M2, 2023)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "desktop",
-            "MacBook Pro 14\" (M2, 2023)"
+            "apple"
         ],
         "attributes": {
             "popularity": 89,
@@ -1472,21 +1393,23 @@
             },
             "releaseDate": "2023-01-24",
             "discontinuedDate": "2023-10-30",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:imac-4-5k-24-m3-2023",
-        "slug": "imac-4-5k-24-m3-2023",
+        "id": "id:item:v2024.08.30:imac-4-5k-24---m3--2023-",
+        "slug": "imac-4-5k-24---m3--2023-",
         "active": true,
         "labels": {
             "primary": "iMac 4.5K 24\u2033 (M3, 2023)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "desktop",
-            "iMac 4.5K 24\u2033 (M3, 2023)"
+            "apple"
         ],
         "attributes": {
             "popularity": 88,
@@ -1508,21 +1431,23 @@
             },
             "releaseDate": "2023-11-07",
             "discontinuedDate": "N/A",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-16-m3-nov-2023",
-        "slug": "macbook-pro-16-m3-nov-2023",
+        "id": "id:item:v2024.08.30:macbook-pro-16---m3--nov-2023-",
+        "slug": "macbook-pro-16---m3--nov-2023-",
         "active": true,
         "labels": {
             "primary": "MacBook Pro 16\" (M3, Nov 2023)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "desktop",
-            "MacBook Pro 16\" (M3, Nov 2023)"
+            "apple"
         ],
         "attributes": {
             "popularity": 87,
@@ -1544,21 +1469,23 @@
             },
             "releaseDate": "2023-11-07",
             "discontinuedDate": "N/A",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-14-m3-nov-2023",
-        "slug": "macbook-pro-14-m3-nov-2023",
+        "id": "id:item:v2024.08.30:macbook-pro-14---m3--nov-2023-",
+        "slug": "macbook-pro-14---m3--nov-2023-",
         "active": true,
         "labels": {
             "primary": "MacBook Pro 14\" (M3, Nov 2023)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "MacBook Pro 14\" (M3, Nov 2023)",
-            "apple",
-            "desktop"
+            "desktop",
+            "apple"
         ],
         "attributes": {
             "popularity": 86,
@@ -1580,21 +1507,23 @@
             },
             "releaseDate": "2023-11-07",
             "discontinuedDate": "N/A",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-air-m2-2022",
-        "slug": "macbook-air-m2-2022",
+        "id": "id:item:v2024.08.30:macbook-air--m2--2022-",
+        "slug": "macbook-air--m2--2022-",
         "active": true,
         "labels": {
             "primary": "MacBook Air (M2, 2022)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "MacBook Air (M2, 2022)",
-            "desktop"
+            "desktop",
+            "apple"
         ],
         "attributes": {
             "popularity": 85,
@@ -1616,21 +1545,23 @@
             },
             "releaseDate": "2022-06-06",
             "discontinuedDate": "N/A",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-13-m2-2022",
-        "slug": "macbook-pro-13-m2-2022",
+        "id": "id:item:v2024.08.30:macbook-pro-13---m2--2022-",
+        "slug": "macbook-pro-13---m2--2022-",
         "active": true,
         "labels": {
             "primary": "MacBook Pro 13\" (M2, 2022)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "MacBook Pro 13\" (M2, 2022)",
-            "desktop"
+            "desktop",
+            "apple"
         ],
         "attributes": {
             "popularity": 84,
@@ -1652,21 +1583,23 @@
             },
             "releaseDate": "2022-06-06",
             "discontinuedDate": "2023-10-30",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:imac-4-5k-24-m1-2021",
-        "slug": "imac-4-5k-24-m1-2021",
+        "id": "id:item:v2024.08.30:imac-4-5k-24---m1--2021-",
+        "slug": "imac-4-5k-24---m1--2021-",
         "active": true,
         "labels": {
             "primary": "iMac 4.5K 24\" (M1, 2021)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "iMac 4.5K 24\" (M1, 2021)",
-            "desktop"
+            "desktop",
+            "apple"
         ],
         "attributes": {
             "popularity": 83,
@@ -1688,21 +1621,23 @@
             },
             "releaseDate": "2021-05-21",
             "discontinuedDate": "2023-10-30",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-16-m1-2021",
-        "slug": "macbook-pro-16-m1-2021",
+        "id": "id:item:v2024.08.30:macbook-pro-16---m1--2021-",
+        "slug": "macbook-pro-16---m1--2021-",
         "active": true,
         "labels": {
             "primary": "MacBook Pro 16\" (M1, 2021)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "desktop",
-            "MacBook Pro 16\" (M1, 2021)"
+            "apple"
         ],
         "attributes": {
             "popularity": 82,
@@ -1724,21 +1659,23 @@
             },
             "releaseDate": "2021-10-26",
             "discontinuedDate": "2023-01-17",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-14-m1-2021",
-        "slug": "macbook-pro-14-m1-2021",
+        "id": "id:item:v2024.08.30:macbook-pro-14---m1--2021-",
+        "slug": "macbook-pro-14---m1--2021-",
         "active": true,
         "labels": {
             "primary": "MacBook Pro 14\" (M1, 2021)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "MacBook Pro 14\" (M1, 2021)",
-            "desktop"
+            "desktop",
+            "apple"
         ],
         "attributes": {
             "popularity": 81,
@@ -1760,21 +1697,23 @@
             },
             "releaseDate": "2021-10-26",
             "discontinuedDate": "2023-01-17",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-13-intel-2020",
-        "slug": "macbook-pro-13-intel-2020",
+        "id": "id:item:v2024.08.30:macbook-pro-13---intel--2020-",
+        "slug": "macbook-pro-13---intel--2020-",
         "active": true,
         "labels": {
             "primary": "MacBook Pro 13\" (Intel, 2020)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "desktop",
-            "MacBook Pro 13\" (Intel, 2020)"
+            "apple"
         ],
         "attributes": {
             "popularity": 80,
@@ -1796,21 +1735,23 @@
             },
             "releaseDate": "2020-11-10",
             "discontinuedDate": "2020-11-10",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:imac-retina-5k-27-intel-2020",
-        "slug": "imac-retina-5k-27-intel-2020",
+        "id": "id:item:v2024.08.30:imac-retina-5k-27---intel--2020-",
+        "slug": "imac-retina-5k-27---intel--2020-",
         "active": true,
         "labels": {
             "primary": "iMac Retina 5K 27\" (Intel, 2020)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "desktop",
-            "iMac Retina 5K 27\" (Intel, 2020)"
+            "apple"
         ],
         "attributes": {
             "popularity": 79,
@@ -1832,21 +1773,23 @@
             },
             "releaseDate": "2020-08-04",
             "discontinuedDate": "2022-03-08",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-13-m1-2020",
-        "slug": "macbook-pro-13-m1-2020",
+        "id": "id:item:v2024.08.30:macbook-pro-13---m1--2020-",
+        "slug": "macbook-pro-13---m1--2020-",
         "active": true,
         "labels": {
             "primary": "MacBook Pro 13\" (M1, 2020)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "desktop",
-            "MacBook Pro 13\" (M1, 2020)"
+            "apple"
         ],
         "attributes": {
             "popularity": 78,
@@ -1868,21 +1811,23 @@
             },
             "releaseDate": "2020-11-17",
             "discontinuedDate": "2022-06-06",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-air-m1-2020",
-        "slug": "macbook-air-m1-2020",
+        "id": "id:item:v2024.08.30:macbook-air--m1--2020-",
+        "slug": "macbook-air--m1--2020-",
         "active": true,
         "labels": {
             "primary": "MacBook Air (M1, 2020)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "desktop",
-            "MacBook Air (M1, 2020)"
+            "apple"
         ],
         "attributes": {
             "popularity": 77,
@@ -1904,21 +1849,23 @@
             },
             "releaseDate": "2020-11-17",
             "discontinuedDate": "2024-03-04",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-air-13-intel-2020",
-        "slug": "macbook-air-13-intel-2020",
+        "id": "id:item:v2024.08.30:macbook-air-13---intel--2020-",
+        "slug": "macbook-air-13---intel--2020-",
         "active": true,
         "labels": {
             "primary": "MacBook Air 13\" (Intel, 2020)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "MacBook Air 13\" (Intel, 2020)",
-            "desktop"
+            "desktop",
+            "apple"
         ],
         "attributes": {
             "popularity": 76,
@@ -1940,21 +1887,23 @@
             },
             "releaseDate": "2020-03-18",
             "discontinuedDate": "2020-11-10",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:imac-retina-5k-27-intel-2019",
-        "slug": "imac-retina-5k-27-intel-2019",
+        "id": "id:item:v2024.08.30:imac-retina-5k-27---intel--2019-",
+        "slug": "imac-retina-5k-27---intel--2019-",
         "active": true,
         "labels": {
             "primary": "iMac Retina 5K 27\" (Intel, 2019)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "desktop",
-            "iMac Retina 5K 27\" (Intel, 2019)"
+            "apple"
         ],
         "attributes": {
             "popularity": 75,
@@ -1976,21 +1925,23 @@
             },
             "releaseDate": "2019-03-19",
             "discontinuedDate": "2022-03-08",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:imac-retina-4k-21-5-intel-2019",
-        "slug": "imac-retina-4k-21-5-intel-2019",
+        "id": "id:item:v2024.08.30:imac-retina-4k-21-5---intel--2019-",
+        "slug": "imac-retina-4k-21-5---intel--2019-",
         "active": true,
         "labels": {
             "primary": "iMac Retina 4K 21.5\" (Intel, 2019)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "desktop",
-            "iMac Retina 4K 21.5\" (Intel, 2019)"
+            "apple"
         ],
         "attributes": {
             "popularity": 74,
@@ -2012,21 +1963,23 @@
             },
             "releaseDate": "2019-03-19",
             "discontinuedDate": "2021-04-20",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-13-intel-2019",
-        "slug": "macbook-pro-13-intel-2019",
+        "id": "id:item:v2024.08.30:macbook-pro-13---intel--2019-",
+        "slug": "macbook-pro-13---intel--2019-",
         "active": true,
         "labels": {
             "primary": "MacBook Pro 13\" (Intel, 2019)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "MacBook Pro 13\" (Intel, 2019)",
-            "apple",
-            "desktop"
+            "desktop",
+            "apple"
         ],
         "attributes": {
             "popularity": 73,
@@ -2048,21 +2001,23 @@
             },
             "releaseDate": "2019-07-09",
             "discontinuedDate": "2020-05-04",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-15-intel-2019",
-        "slug": "macbook-pro-15-intel-2019",
+        "id": "id:item:v2024.08.30:macbook-pro-15---intel--2019-",
+        "slug": "macbook-pro-15---intel--2019-",
         "active": true,
         "labels": {
             "primary": "MacBook Pro 15\" (Intel, 2019)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "MacBook Pro 15\" (Intel, 2019)",
-            "desktop"
+            "desktop",
+            "apple"
         ],
         "attributes": {
             "popularity": 72,
@@ -2084,21 +2039,23 @@
             },
             "releaseDate": "2019-05-21",
             "discontinuedDate": "2019-11-13",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-air-13-intel-2019",
-        "slug": "macbook-air-13-intel-2019",
+        "id": "id:item:v2024.08.30:macbook-air-13---intel--2019-",
+        "slug": "macbook-air-13---intel--2019-",
         "active": true,
         "labels": {
             "primary": "MacBook Air 13\" (Intel, 2019)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "MacBook Air 13\" (Intel, 2019)",
-            "desktop"
+            "desktop",
+            "apple"
         ],
         "attributes": {
             "popularity": 71,
@@ -2120,21 +2077,23 @@
             },
             "releaseDate": "2019-07-09",
             "discontinuedDate": "2020-03-18",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-16-intel-2019",
-        "slug": "macbook-pro-16-intel-2019",
+        "id": "id:item:v2024.08.30:macbook-pro-16---intel--2019-",
+        "slug": "macbook-pro-16---intel--2019-",
         "active": true,
         "labels": {
             "primary": "MacBook Pro 16\" (Intel, 2019)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "desktop",
-            "MacBook Pro 16\" (Intel, 2019)"
+            "apple"
         ],
         "attributes": {
             "popularity": 70,
@@ -2156,21 +2115,23 @@
             },
             "releaseDate": "2019-11-13",
             "discontinuedDate": "2021-10-08",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-13-intel-2018",
-        "slug": "macbook-pro-13-intel-2018",
+        "id": "id:item:v2024.08.30:macbook-pro-13---intel--2018-",
+        "slug": "macbook-pro-13---intel--2018-",
         "active": true,
         "labels": {
             "primary": "MacBook Pro 13\" (Intel, 2018)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
             "desktop",
-            "MacBook Pro 13\" (Intel, 2018)"
+            "apple"
         ],
         "attributes": {
             "popularity": 69,
@@ -2192,27 +2153,28 @@
             },
             "releaseDate": "2018-07-12",
             "discontinuedDate": "2019-05-21",
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "macOS",
+            "deviceType": "desktop",
+            "brand": "Apple"
         }
     },
     {
-        "id": "id:item:v2024.08.30:lenovo-v14-gen-5-14",
-        "slug": "lenovo-v14-gen-5-14",
+        "id": "id:item:v2024.08.30:lenovo-v14-gen-5-14-",
+        "slug": "lenovo-v14-gen-5-14-",
         "active": true,
         "labels": {
             "primary": "Lenovo V14 Gen 5 14\"",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "Lenovo V14 Gen 5 14\"",
             "lenovo",
             "desktop"
         ],
         "attributes": {
             "popularity": 0,
             "icons": [
-                "deviceDesktop",
-                "brandLenovo"
+                "deviceDesktop"
             ],
             "width": 1920,
             "height": 1080
@@ -2228,27 +2190,28 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": "Windows",
+            "deviceType": "desktop",
+            "brand": "Lenovo"
         }
     },
     {
-        "id": "id:item:v2024.08.30:lenovo-v15-gen-4-15",
-        "slug": "lenovo-v15-gen-4-15",
+        "id": "id:item:v2024.08.30:lenovo-v15-gen-4-15-",
+        "slug": "lenovo-v15-gen-4-15-",
         "active": true,
         "labels": {
             "primary": "Lenovo V15 Gen 4 15\"",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "Lenovo V15 Gen 4 15\"",
             "lenovo",
             "desktop"
         ],
         "attributes": {
             "popularity": 0,
             "icons": [
-                "deviceDesktop",
-                "brandLenovo"
+                "deviceDesktop"
             ],
             "width": 1920,
             "height": 1080
@@ -2264,27 +2227,28 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": "Windows",
+            "deviceType": "desktop",
+            "brand": "Lenovo"
         }
     },
     {
-        "id": "id:item:v2024.08.30:lenovo-v14-gen-4-14",
-        "slug": "lenovo-v14-gen-4-14",
+        "id": "id:item:v2024.08.30:lenovo-v14-gen-4-14-",
+        "slug": "lenovo-v14-gen-4-14-",
         "active": true,
         "labels": {
             "primary": "Lenovo V14 Gen 4 14\"",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "desktop",
-            "Lenovo V14 Gen 4 14\"",
-            "lenovo"
+            "lenovo",
+            "desktop"
         ],
         "attributes": {
             "popularity": 0,
             "icons": [
-                "deviceDesktop",
-                "brandLenovo"
+                "deviceDesktop"
             ],
             "width": 1920,
             "height": 1080
@@ -2300,27 +2264,28 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": "Windows",
+            "deviceType": "desktop",
+            "brand": "Lenovo"
         }
     },
     {
-        "id": "id:item:v2024.08.30:thinkpad-t16-gen-3-16",
-        "slug": "thinkpad-t16-gen-3-16",
+        "id": "id:item:v2024.08.30:thinkpad-t16-gen-3-16-",
+        "slug": "thinkpad-t16-gen-3-16-",
         "active": true,
         "labels": {
             "primary": "ThinkPad T16 Gen 3 16\"",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "desktop",
             "lenovo",
-            "ThinkPad T16 Gen 3 16\""
+            "desktop"
         ],
         "attributes": {
             "popularity": 0,
             "icons": [
-                "deviceDesktop",
-                "brandLenovo"
+                "deviceDesktop"
             ],
             "width": 1920,
             "height": 1200
@@ -2336,27 +2301,28 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": "Windows",
+            "deviceType": "desktop",
+            "brand": "Lenovo"
         }
     },
     {
-        "id": "id:item:v2024.08.30:thinkpad-t14s-gen-6-14",
-        "slug": "thinkpad-t14s-gen-6-14",
+        "id": "id:item:v2024.08.30:thinkpad-t14s-gen-6-14-",
+        "slug": "thinkpad-t14s-gen-6-14-",
         "active": true,
         "labels": {
             "primary": "ThinkPad T14s Gen 6 14\"",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "desktop",
             "lenovo",
-            "ThinkPad T14s Gen 6 14\""
+            "desktop"
         ],
         "attributes": {
             "popularity": 0,
             "icons": [
-                "deviceDesktop",
-                "brandLenovo"
+                "deviceDesktop"
             ],
             "width": 1920,
             "height": 1200
@@ -2372,27 +2338,28 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": "Windows",
+            "deviceType": "desktop",
+            "brand": "Lenovo"
         }
     },
     {
-        "id": "id:item:v2024.08.30:thinkpad-t14-gen-5-14",
-        "slug": "thinkpad-t14-gen-5-14",
+        "id": "id:item:v2024.08.30:thinkpad-t14-gen-5-14-",
+        "slug": "thinkpad-t14-gen-5-14-",
         "active": true,
         "labels": {
             "primary": "ThinkPad T14 Gen 5 14\"",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "desktop",
-            "ThinkPad T14 Gen 5 14\"",
-            "lenovo"
+            "lenovo",
+            "desktop"
         ],
         "attributes": {
             "popularity": 0,
             "icons": [
-                "deviceDesktop",
-                "brandLenovo"
+                "deviceDesktop"
             ],
             "width": 1920,
             "height": 1200
@@ -2408,27 +2375,28 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": "Windows",
+            "deviceType": "desktop",
+            "brand": "Lenovo"
         }
     },
     {
-        "id": "id:item:v2024.08.30:thinkpad-p1-gen7-16",
-        "slug": "thinkpad-p1-gen7-16",
+        "id": "id:item:v2024.08.30:thinkpad-p1-gen7-16-",
+        "slug": "thinkpad-p1-gen7-16-",
         "active": true,
         "labels": {
             "primary": "ThinkPad P1 Gen7 16\"",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "ThinkPad P1 Gen7 16\"",
-            "desktop",
-            "lenovo"
+            "lenovo",
+            "desktop"
         ],
         "attributes": {
             "popularity": 0,
             "icons": [
-                "deviceDesktop",
-                "brandLenovo"
+                "deviceDesktop"
             ],
             "width": 1920,
             "height": 1200
@@ -2444,12 +2412,15 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": "Windows",
+            "deviceType": "desktop",
+            "brand": "Lenovo"
         }
     },
     {
-        "id": "id:item:v2024.08.30:thinkpad-p16s-gen-3-16",
-        "slug": "thinkpad-p16s-gen-3-16",
+        "id": "id:item:v2024.08.30:thinkpad-p16s-gen-3-16-",
+        "slug": "thinkpad-p16s-gen-3-16-",
         "active": true,
         "labels": {
             "primary": "ThinkPad P16s Gen 3 16\"",
@@ -2457,14 +2428,12 @@
         },
         "tags": [
             "lenovo",
-            "ThinkPad P16s Gen 3 16\"",
             "desktop"
         ],
         "attributes": {
             "popularity": 0,
             "icons": [
-                "deviceDesktop",
-                "brandLenovo"
+                "deviceDesktop"
             ],
             "width": 1920,
             "height": 1200
@@ -2480,27 +2449,28 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": "Windows",
+            "deviceType": "desktop",
+            "brand": "Lenovo"
         }
     },
     {
-        "id": "id:item:v2024.08.30:thinkpad-p14s-gen-5-14",
-        "slug": "thinkpad-p14s-gen-5-14",
+        "id": "id:item:v2024.08.30:thinkpad-p14s-gen-5-14-",
+        "slug": "thinkpad-p14s-gen-5-14-",
         "active": true,
         "labels": {
             "primary": "ThinkPad P14s Gen 5 14\"",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "desktop",
             "lenovo",
-            "ThinkPad P14s Gen 5 14\""
+            "desktop"
         ],
         "attributes": {
             "popularity": 0,
             "icons": [
-                "deviceDesktop",
-                "brandLenovo"
+                "deviceDesktop"
             ],
             "width": 1920,
             "height": 1200
@@ -2516,27 +2486,28 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": "Windows",
+            "deviceType": "desktop",
+            "brand": "Lenovo"
         }
     },
     {
-        "id": "id:item:v2024.08.30:thinkpad-p14s-gen-5-14-5",
-        "slug": "thinkpad-p14s-gen-5-14-5",
+        "id": "id:item:v2024.08.30:thinkpad-p14s-gen-5-14-5-",
+        "slug": "thinkpad-p14s-gen-5-14-5-",
         "active": true,
         "labels": {
             "primary": "ThinkPad P14s Gen 5 14.5\"",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "desktop",
-            "ThinkPad P14s Gen 5 14.5\"",
-            "lenovo"
+            "lenovo",
+            "desktop"
         ],
         "attributes": {
             "popularity": 0,
             "icons": [
-                "deviceDesktop",
-                "brandLenovo"
+                "deviceDesktop"
             ],
             "width": 1920,
             "height": 1200
@@ -2552,27 +2523,28 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": "Windows",
+            "deviceType": "desktop",
+            "brand": "Lenovo"
         }
     },
     {
-        "id": "id:item:v2024.08.30:mobile-workstation-p14s-g5-14-5",
-        "slug": "mobile-workstation-p14s-g5-14-5",
+        "id": "id:item:v2024.08.30:mobile-workstation-p14s-g5-14-5-",
+        "slug": "mobile-workstation-p14s-g5-14-5-",
         "active": true,
         "labels": {
             "primary": "Mobile Workstation P14s G5 14.5\"",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "desktop",
-            "Mobile Workstation P14s G5 14.5\"",
-            "lenovo"
+            "lenovo",
+            "desktop"
         ],
         "attributes": {
             "popularity": 0,
             "icons": [
-                "deviceDesktop",
-                "brandLenovo"
+                "deviceDesktop"
             ],
             "width": 1920,
             "height": 1200
@@ -2588,7 +2560,10 @@
             },
             "releaseDate": null,
             "discontinuedDate": null,
-            "devicePixelRatio": 1.0
+            "devicePixelRatio": 1.0,
+            "operatingSystem": "Windows",
+            "deviceType": "desktop",
+            "brand": "Lenovo"
         }
     },
     {
@@ -2600,11 +2575,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
+            "touch",
             "phone",
             "mobile",
-            "iPhone 15",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 43,
@@ -2626,7 +2600,10 @@
             },
             "releaseDate": "2023-09-22",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -2638,11 +2615,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
+            "touch",
             "phone",
             "mobile",
-            "touch",
-            "iPhone 15 Plus"
+            "apple"
         ],
         "attributes": {
             "popularity": 40,
@@ -2664,7 +2640,10 @@
             },
             "releaseDate": "2023-09-22",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -2676,11 +2655,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
+            "touch",
             "phone",
             "mobile",
-            "touch",
-            "iPhone 15 Pro"
+            "apple"
         ],
         "attributes": {
             "popularity": 41,
@@ -2702,7 +2680,10 @@
             },
             "releaseDate": "2023-09-22",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -2714,11 +2695,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
+            "touch",
             "phone",
             "mobile",
-            "iPhone 15 Pro Max",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 42,
@@ -2740,7 +2720,10 @@
             },
             "releaseDate": "2023-09-22",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -2752,11 +2735,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
+            "touch",
             "phone",
             "mobile",
-            "iPhone 14",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 39,
@@ -2778,7 +2760,10 @@
             },
             "releaseDate": "2022-09-16",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -2790,11 +2775,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "iPhone 14 Plus",
+            "touch",
             "phone",
             "mobile",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 36,
@@ -2816,7 +2800,10 @@
             },
             "releaseDate": "2022-10-07",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -2828,11 +2815,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
+            "touch",
             "phone",
             "mobile",
-            "touch",
-            "iPhone 14 Pro"
+            "apple"
         ],
         "attributes": {
             "popularity": 37,
@@ -2854,7 +2840,10 @@
             },
             "releaseDate": "2022-09-16",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -2866,11 +2855,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
+            "touch",
             "phone",
             "mobile",
-            "touch",
-            "iPhone 14 Pro Max"
+            "apple"
         ],
         "attributes": {
             "popularity": 38,
@@ -2892,7 +2880,10 @@
             },
             "releaseDate": "2022-10-07",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -2904,11 +2895,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
+            "touch",
             "phone",
             "mobile",
-            "touch",
-            "iPhone SE 2022"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -2930,7 +2920,10 @@
             },
             "releaseDate": "2022-03-18",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -2942,11 +2935,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "iPhone 13 Mini",
+            "touch",
             "phone",
             "mobile",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -2968,7 +2960,10 @@
             },
             "releaseDate": "2021-09-24",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -2980,11 +2975,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
+            "touch",
             "phone",
             "mobile",
-            "touch",
-            "iPhone 13"
+            "apple"
         ],
         "attributes": {
             "popularity": 35,
@@ -3006,7 +3000,10 @@
             },
             "releaseDate": "2021-09-24",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3018,11 +3015,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "iPhone 13 Pro",
+            "touch",
             "phone",
             "mobile",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 33,
@@ -3044,7 +3040,10 @@
             },
             "releaseDate": "2021-09-24",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3056,11 +3055,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
+            "touch",
             "phone",
             "mobile",
-            "touch",
-            "iPhone 13 Pro Max"
+            "apple"
         ],
         "attributes": {
             "popularity": 34,
@@ -3082,7 +3080,10 @@
             },
             "releaseDate": "2021-09-24",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3094,11 +3095,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
+            "touch",
             "phone",
             "mobile",
-            "touch",
-            "iPhone 12 Mini"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3120,7 +3120,10 @@
             },
             "releaseDate": "2020-11-13",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3132,11 +3135,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
+            "touch",
             "phone",
             "mobile",
-            "touch",
-            "iPhone 12"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3158,7 +3160,10 @@
             },
             "releaseDate": "2020-10-23",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3170,11 +3175,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
+            "touch",
             "phone",
             "mobile",
-            "touch",
-            "iPhone 12 Pro"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3196,7 +3200,10 @@
             },
             "releaseDate": "2020-10-23",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3208,11 +3215,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
+            "touch",
             "phone",
             "mobile",
-            "touch",
-            "iPhone 12 Pro Max"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3234,7 +3240,10 @@
             },
             "releaseDate": "2020-11-13",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3246,11 +3255,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
+            "touch",
             "phone",
             "mobile",
-            "iPhone 11",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3272,7 +3280,10 @@
             },
             "releaseDate": "2019-09-20",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3284,11 +3295,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
+            "touch",
             "phone",
             "mobile",
-            "touch",
-            "iPhone 11 Pro"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3310,7 +3320,10 @@
             },
             "releaseDate": "2019-09-20",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3322,11 +3335,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
+            "touch",
             "phone",
             "mobile",
-            "touch",
-            "iPhone 11 Pro Max"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3348,7 +3360,10 @@
             },
             "releaseDate": "2019-09-20",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3360,11 +3375,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
+            "touch",
             "phone",
             "mobile",
-            "touch",
-            "iPhone SE 2020"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3386,7 +3400,10 @@
             },
             "releaseDate": "2020-04-24",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3398,11 +3415,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
+            "touch",
             "phone",
             "mobile",
-            "iPhone X",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3424,7 +3440,10 @@
             },
             "releaseDate": "2017-11-03",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3436,11 +3455,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
+            "touch",
             "phone",
             "mobile",
-            "touch",
-            "iPhone XR"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3462,7 +3480,10 @@
             },
             "releaseDate": "2018-10-26",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3474,11 +3495,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
+            "touch",
             "phone",
             "mobile",
-            "iPhone XS",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3500,7 +3520,10 @@
             },
             "releaseDate": "2018-09-21",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3512,11 +3535,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
+            "touch",
             "phone",
             "mobile",
-            "touch",
-            "iPhone XS Max"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3538,7 +3560,10 @@
             },
             "releaseDate": "2018-09-21",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3550,11 +3575,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
+            "touch",
             "phone",
             "mobile",
-            "touch",
-            "iPhone 8"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3576,7 +3600,10 @@
             },
             "releaseDate": "2017-09-22",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3588,11 +3615,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
+            "touch",
             "phone",
             "mobile",
-            "touch",
-            "iPhone 8 Plus"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3614,7 +3640,10 @@
             },
             "releaseDate": "2017-09-22",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.6
+            "devicePixelRatio": 2.6,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3626,11 +3655,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "iPhone 7",
+            "touch",
             "phone",
             "mobile",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3652,7 +3680,10 @@
             },
             "releaseDate": "2016-09-16",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3664,11 +3695,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
+            "touch",
             "phone",
             "mobile",
-            "iPhone 7 Plus",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3690,7 +3720,10 @@
             },
             "releaseDate": "2016-09-16",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.6
+            "devicePixelRatio": 2.6,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3702,11 +3735,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
+            "touch",
             "phone",
             "mobile",
-            "touch",
-            "iPhone 6s"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3728,7 +3760,10 @@
             },
             "releaseDate": "2015-09-25",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3740,11 +3775,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
+            "touch",
             "phone",
             "mobile",
-            "iPhone 6s Plus",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3766,7 +3800,10 @@
             },
             "releaseDate": "2015-09-25",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.6
+            "devicePixelRatio": 2.6,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3778,11 +3815,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "apple",
-            "iPhone SE",
+            "touch",
             "phone",
             "mobile",
-            "touch"
+            "apple"
         ],
         "attributes": {
             "popularity": 32,
@@ -3804,7 +3840,10 @@
             },
             "releaseDate": "2016-03-31",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
         }
     },
     {
@@ -3817,10 +3856,9 @@
         },
         "tags": [
             "phone",
-            "mobile",
             "google",
-            "touch",
-            "Google Pixel 8"
+            "mobile",
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -3842,7 +3880,10 @@
             },
             "releaseDate": "2023-10-12",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.625
+            "devicePixelRatio": 2.625,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -3855,10 +3896,9 @@
         },
         "tags": [
             "phone",
-            "mobile",
             "google",
-            "touch",
-            "Google Pixel 8 Pro"
+            "mobile",
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -3880,7 +3920,10 @@
             },
             "releaseDate": "2023-10-12",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -3893,10 +3936,9 @@
         },
         "tags": [
             "phone",
-            "mobile",
             "google",
-            "touch",
-            "Google Pixel 7"
+            "mobile",
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -3918,7 +3960,10 @@
             },
             "releaseDate": "2022-10-13",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.625
+            "devicePixelRatio": 2.625,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -3930,11 +3975,10 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "mobile",
             "phone",
             "google",
-            "touch",
-            "Google Pixel 7 Pro"
+            "mobile",
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -3956,7 +4000,10 @@
             },
             "releaseDate": "2022-10-06",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.5
+            "devicePixelRatio": 3.5,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -3968,10 +4015,9 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "Google Pixel 7a",
             "phone",
-            "mobile",
             "google",
+            "mobile",
             "touch"
         ],
         "attributes": {
@@ -3994,7 +4040,10 @@
             },
             "releaseDate": "2022-10-13",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.625
+            "devicePixelRatio": 2.625,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -4006,10 +4055,9 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "Google Pixel 6",
             "phone",
-            "mobile",
             "google",
+            "mobile",
             "touch"
         ],
         "attributes": {
@@ -4032,7 +4080,10 @@
             },
             "releaseDate": "2021-10-28",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.625
+            "devicePixelRatio": 2.625,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -4045,9 +4096,8 @@
         },
         "tags": [
             "phone",
-            "mobile",
             "google",
-            "Google Pixel 6 Pro",
+            "mobile",
             "touch"
         ],
         "attributes": {
@@ -4070,7 +4120,10 @@
             },
             "releaseDate": "2021-10-28",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.5
+            "devicePixelRatio": 3.5,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -4082,10 +4135,9 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "Google Pixel 5",
             "phone",
-            "mobile",
             "google",
+            "mobile",
             "touch"
         ],
         "attributes": {
@@ -4108,7 +4160,10 @@
             },
             "releaseDate": "2020-10-15",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.75
+            "devicePixelRatio": 2.75,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -4121,10 +4176,9 @@
         },
         "tags": [
             "phone",
-            "mobile",
             "google",
-            "touch",
-            "Google Pixel 4"
+            "mobile",
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -4146,7 +4200,10 @@
             },
             "releaseDate": "2019-10-22",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.75
+            "devicePixelRatio": 2.75,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -4159,10 +4216,9 @@
         },
         "tags": [
             "phone",
-            "mobile",
             "google",
-            "touch",
-            "Google Pixel 4 XL"
+            "mobile",
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -4184,7 +4240,10 @@
             },
             "releaseDate": "2019-10-22",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.5
+            "devicePixelRatio": 3.5,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -4196,10 +4255,9 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "Google Pixel 3",
             "phone",
-            "mobile",
             "google",
+            "mobile",
             "touch"
         ],
         "attributes": {
@@ -4222,7 +4280,10 @@
             },
             "releaseDate": "2018-10-09",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.75
+            "devicePixelRatio": 2.75,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -4235,10 +4296,9 @@
         },
         "tags": [
             "phone",
-            "mobile",
             "google",
-            "touch",
-            "Google Pixel 3 XL"
+            "mobile",
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -4260,7 +4320,10 @@
             },
             "releaseDate": "2018-10-18",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.5
+            "devicePixelRatio": 3.5,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -4273,10 +4336,9 @@
         },
         "tags": [
             "phone",
-            "mobile",
             "google",
-            "touch",
-            "Google Pixel 3A"
+            "mobile",
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -4298,7 +4360,10 @@
             },
             "releaseDate": "2019-05-15",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.75
+            "devicePixelRatio": 2.75,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -4311,9 +4376,8 @@
         },
         "tags": [
             "phone",
-            "mobile",
-            "Google Pixel 3A XL",
             "google",
+            "mobile",
             "touch"
         ],
         "attributes": {
@@ -4336,7 +4400,10 @@
             },
             "releaseDate": "2019-05-15",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.625
+            "devicePixelRatio": 2.625,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -4348,10 +4415,9 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "mobile",
             "phone",
-            "Google Pixel 2",
             "google",
+            "mobile",
             "touch"
         ],
         "attributes": {
@@ -4374,7 +4440,10 @@
             },
             "releaseDate": "2017-10-17",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.6
+            "devicePixelRatio": 2.6,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -4387,10 +4456,9 @@
         },
         "tags": [
             "phone",
-            "mobile",
             "google",
-            "touch",
-            "Google Pixel 2 XL"
+            "mobile",
+            "touch"
         ],
         "attributes": {
             "popularity": 22,
@@ -4412,7 +4480,10 @@
             },
             "releaseDate": "2017-10-17",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.5
+            "devicePixelRatio": 3.5,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -4425,9 +4496,8 @@
         },
         "tags": [
             "phone",
-            "Google Pixel",
-            "mobile",
             "google",
+            "mobile",
             "touch"
         ],
         "attributes": {
@@ -4450,7 +4520,10 @@
             },
             "releaseDate": "2016-10-20",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.6
+            "devicePixelRatio": 2.6,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -4462,10 +4535,9 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "Google Pixel XL",
             "phone",
-            "mobile",
             "google",
+            "mobile",
             "touch"
         ],
         "attributes": {
@@ -4488,7 +4560,10 @@
             },
             "releaseDate": "2016-10-20",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.5
+            "devicePixelRatio": 3.5,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
         }
     },
     {
@@ -4503,14 +4578,13 @@
             "samsung",
             "phone",
             "mobile",
-            "Galaxy S23",
             "touch"
         ],
         "attributes": {
             "popularity": 30,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 360,
             "height": 780
@@ -4526,7 +4600,10 @@
             },
             "releaseDate": "2023-02-17",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4539,16 +4616,15 @@
         },
         "tags": [
             "samsung",
-            "mobile",
             "phone",
-            "touch",
-            "Galaxy S23 Plus"
+            "mobile",
+            "touch"
         ],
         "attributes": {
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 360,
             "height": 780
@@ -4564,7 +4640,10 @@
             },
             "releaseDate": "2023-02-17",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4579,14 +4658,13 @@
             "samsung",
             "phone",
             "mobile",
-            "touch",
-            "Galaxy S23 Ultra"
+            "touch"
         ],
         "attributes": {
             "popularity": 31,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 360,
             "height": 772
@@ -4602,7 +4680,10 @@
             },
             "releaseDate": "2023-02-17",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4615,16 +4696,15 @@
         },
         "tags": [
             "samsung",
-            "mobile",
             "phone",
-            "Galaxy S22",
+            "mobile",
             "touch"
         ],
         "attributes": {
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 360,
             "height": 780
@@ -4640,7 +4720,10 @@
             },
             "releaseDate": "2022-02-25",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4653,16 +4736,15 @@
         },
         "tags": [
             "samsung",
-            "mobile",
             "phone",
-            "Galaxy S22 Plus",
+            "mobile",
             "touch"
         ],
         "attributes": {
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 384,
             "height": 832
@@ -4678,7 +4760,10 @@
             },
             "releaseDate": "2022-02-25",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.8125
+            "devicePixelRatio": 2.8125,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4693,14 +4778,13 @@
             "samsung",
             "phone",
             "mobile",
-            "touch",
-            "Galaxy S22 Ultra"
+            "touch"
         ],
         "attributes": {
             "popularity": 29,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 384,
             "height": 824
@@ -4716,7 +4800,10 @@
             },
             "releaseDate": "2022-02-25",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.75
+            "devicePixelRatio": 3.75,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4729,16 +4816,15 @@
         },
         "tags": [
             "samsung",
-            "mobile",
             "phone",
-            "touch",
-            "Galaxy S21"
+            "mobile",
+            "touch"
         ],
         "attributes": {
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 360,
             "height": 800
@@ -4754,7 +4840,10 @@
             },
             "releaseDate": "2021-01-14",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4769,14 +4858,13 @@
             "samsung",
             "phone",
             "mobile",
-            "Galaxy S21 Plus",
             "touch"
         ],
         "attributes": {
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 384,
             "height": 854
@@ -4792,7 +4880,10 @@
             },
             "releaseDate": "2021-01-29",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.8125
+            "devicePixelRatio": 2.8125,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4804,7 +4895,6 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "Galaxy S21 Ultra",
             "samsung",
             "phone",
             "mobile",
@@ -4814,7 +4904,7 @@
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 412,
             "height": 915
@@ -4830,7 +4920,10 @@
             },
             "releaseDate": "2021-01-29",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.625
+            "devicePixelRatio": 2.625,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4844,7 +4937,6 @@
         "tags": [
             "samsung",
             "phone",
-            "Galaxy S20",
             "mobile",
             "touch"
         ],
@@ -4852,7 +4944,7 @@
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 360,
             "height": 800
@@ -4868,7 +4960,10 @@
             },
             "releaseDate": "2020-02-11",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4882,7 +4977,6 @@
         "tags": [
             "samsung",
             "phone",
-            "Galaxy S20 Plus",
             "mobile",
             "touch"
         ],
@@ -4890,7 +4984,7 @@
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 384,
             "height": 854
@@ -4906,7 +5000,10 @@
             },
             "releaseDate": "2020-02-11",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.8125
+            "devicePixelRatio": 2.8125,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4919,7 +5016,6 @@
         },
         "tags": [
             "samsung",
-            "Galaxy S20 Ultra",
             "phone",
             "mobile",
             "touch"
@@ -4928,7 +5024,7 @@
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 412,
             "height": 915
@@ -4944,7 +5040,10 @@
             },
             "releaseDate": "2020-02-11",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.625
+            "devicePixelRatio": 2.625,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4959,14 +5058,13 @@
             "samsung",
             "phone",
             "mobile",
-            "Galaxy S9",
             "touch"
         ],
         "attributes": {
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 360,
             "height": 740
@@ -4982,7 +5080,10 @@
             },
             "releaseDate": "2018-03-09",
             "discontinuedDate": null,
-            "devicePixelRatio": 4.0
+            "devicePixelRatio": 4.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -4997,14 +5098,13 @@
             "samsung",
             "phone",
             "mobile",
-            "touch",
-            "Galaxy S9 Plus"
+            "touch"
         ],
         "attributes": {
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 412,
             "height": 846
@@ -5020,7 +5120,10 @@
             },
             "releaseDate": "2018-03-09",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.5
+            "devicePixelRatio": 3.5,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -5035,14 +5138,13 @@
             "samsung",
             "phone",
             "mobile",
-            "Galaxy S8",
             "touch"
         ],
         "attributes": {
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 360,
             "height": 740
@@ -5058,7 +5160,10 @@
             },
             "releaseDate": "2017-04-24",
             "discontinuedDate": null,
-            "devicePixelRatio": 4.0
+            "devicePixelRatio": 4.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -5071,7 +5176,6 @@
         },
         "tags": [
             "samsung",
-            "Galaxy S7",
             "phone",
             "mobile",
             "touch"
@@ -5080,7 +5184,7 @@
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 360,
             "height": 640
@@ -5096,7 +5200,10 @@
             },
             "releaseDate": "2016-03-11",
             "discontinuedDate": null,
-            "devicePixelRatio": 4.0
+            "devicePixelRatio": 4.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -5111,14 +5218,13 @@
             "samsung",
             "phone",
             "mobile",
-            "touch",
-            "Galaxy S6 Edge"
+            "touch"
         ],
         "attributes": {
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 360,
             "height": 640
@@ -5134,7 +5240,10 @@
             },
             "releaseDate": "2015-04-01",
             "discontinuedDate": null,
-            "devicePixelRatio": 4.0
+            "devicePixelRatio": 4.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -5148,7 +5257,6 @@
         "tags": [
             "samsung",
             "phone",
-            "Galaxy S6",
             "mobile",
             "touch"
         ],
@@ -5156,7 +5264,7 @@
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 360,
             "height": 640
@@ -5172,7 +5280,10 @@
             },
             "releaseDate": "2015-04-01",
             "discontinuedDate": null,
-            "devicePixelRatio": 4.0
+            "devicePixelRatio": 4.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -5187,14 +5298,13 @@
             "samsung",
             "phone",
             "mobile",
-            "Galaxy Note 5",
             "touch"
         ],
         "attributes": {
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 480,
             "height": 853
@@ -5210,88 +5320,15 @@
             },
             "releaseDate": "2015-08-01",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
-        "id": "id:item:v2024.08.30:galaxy-a54",
-        "slug": "galaxy-a54",
-        "active": true,
-        "labels": {
-            "primary": "Galaxy A54",
-            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
-        },
-        "tags": [
-            "samsung",
-            "phone",
-            "mobile",
-            "Galaxy A54",
-            "touch"
-        ],
-        "attributes": {
-            "popularity": 28,
-            "icons": [
-                "deviceMobile",
-                "brandSamsung"
-            ],
-            "width": 429,
-            "height": 929
-        },
-        "properties": {
-            "screen": {
-                "width": 1080,
-                "height": 2340
-            },
-            "viewport": {
-                "width": 429,
-                "height": 929
-            },
-            "releaseDate": "2023-03-24",
-            "discontinuedDate": null,
-            "devicePixelRatio": 2.52
-        }
-    },
-    {
-        "id": "id:item:v2024.08.30:galaxy-a34",
-        "slug": "galaxy-a34",
-        "active": true,
-        "labels": {
-            "primary": "Galaxy A34",
-            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
-        },
-        "tags": [
-            "samsung",
-            "phone",
-            "mobile",
-            "Galaxy A34",
-            "touch"
-        ],
-        "attributes": {
-            "popularity": 27,
-            "icons": [
-                "deviceMobile",
-                "brandSamsung"
-            ],
-            "width": 443,
-            "height": 960
-        },
-        "properties": {
-            "screen": {
-                "width": 1080,
-                "height": 2340
-            },
-            "viewport": {
-                "width": 443,
-                "height": 960
-            },
-            "releaseDate": "2023-03-24",
-            "discontinuedDate": null,
-            "devicePixelRatio": 2.44
-        }
-    },
-    {
-        "id": "id:item:v2024.08.30:galaxy-a13-2022",
-        "slug": "galaxy-a13-2022",
+        "id": "id:item:v2024.08.30:galaxy-a13--2022-",
+        "slug": "galaxy-a13--2022-",
         "active": true,
         "labels": {
             "primary": "Galaxy A13 (2022)",
@@ -5301,14 +5338,13 @@
             "samsung",
             "phone",
             "mobile",
-            "touch",
-            "Galaxy A13 (2022)"
+            "touch"
         ],
         "attributes": {
             "popularity": 23,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 412,
             "height": 915
@@ -5324,12 +5360,15 @@
             },
             "releaseDate": "2022-03-24",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.62
+            "devicePixelRatio": 2.62,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
-        "id": "id:item:v2024.08.30:galaxy-a13-2021",
-        "slug": "galaxy-a13-2021",
+        "id": "id:item:v2024.08.30:galaxy-a13--2021-",
+        "slug": "galaxy-a13--2021-",
         "active": true,
         "labels": {
             "primary": "Galaxy A13 (2021)",
@@ -5339,14 +5378,13 @@
             "samsung",
             "phone",
             "mobile",
-            "Galaxy A13 (2021)",
             "touch"
         ],
         "attributes": {
             "popularity": 24,
             "icons": [
                 "deviceMobile",
-                "brandSamsung"
+                "brandAndroid"
             ],
             "width": 360,
             "height": 800
@@ -5362,7 +5400,10 @@
             },
             "releaseDate": "2021-12-04",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.0
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
         }
     },
     {
@@ -5374,17 +5415,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "LG G7 One",
+            "touch",
             "phone",
             "mobile",
-            "touch",
             "lg"
         ],
         "attributes": {
             "popularity": 21,
             "icons": [
                 "deviceMobile",
-                "brandLg"
+                "brandAndroid"
             ],
             "width": 360,
             "height": 720
@@ -5400,7 +5440,10 @@
             },
             "releaseDate": "2018-08-31",
             "discontinuedDate": null,
-            "devicePixelRatio": 4.0
+            "devicePixelRatio": 4.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "LG"
         }
     },
     {
@@ -5412,17 +5455,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
+            "touch",
             "phone",
             "mobile",
-            "touch",
-            "lg",
-            "LG G6"
+            "lg"
         ],
         "attributes": {
             "popularity": 21,
             "icons": [
                 "deviceMobile",
-                "brandLg"
+                "brandAndroid"
             ],
             "width": 360,
             "height": 720
@@ -5438,7 +5480,10 @@
             },
             "releaseDate": "2017-04-07",
             "discontinuedDate": null,
-            "devicePixelRatio": 4.0
+            "devicePixelRatio": 4.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "LG"
         }
     },
     {
@@ -5450,17 +5495,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
+            "touch",
             "phone",
-            "mobile",
             "oneplus",
-            "OnePlus 5t",
-            "touch"
+            "mobile"
         ],
         "attributes": {
             "popularity": 20,
             "icons": [
                 "deviceMobile",
-                "brandOneplus"
+                "brandAndroid"
             ],
             "width": 360,
             "height": 720
@@ -5476,7 +5520,10 @@
             },
             "releaseDate": "2017-11-21",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "OnePlus"
         }
     },
     {
@@ -5488,17 +5535,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "huawei",
+            "touch",
             "phone",
             "mobile",
-            "touch",
-            "Mate 40 Pro"
+            "huawei"
         ],
         "attributes": {
             "popularity": 19,
             "icons": [
                 "deviceMobile",
-                "brandHuawei"
+                "brandAndroid"
             ],
             "width": 448,
             "height": 924
@@ -5514,7 +5560,10 @@
             },
             "releaseDate": "2020-11-02",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "HarmonyOS",
+            "deviceType": "phone",
+            "brand": "Huawei"
         }
     },
     {
@@ -5526,17 +5575,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "huawei",
+            "touch",
             "phone",
             "mobile",
-            "touch",
-            "Mate 40 Pro Plus"
+            "huawei"
         ],
         "attributes": {
             "popularity": 19,
             "icons": [
                 "deviceMobile",
-                "brandHuawei"
+                "brandAndroid"
             ],
             "width": 448,
             "height": 924
@@ -5552,7 +5600,10 @@
             },
             "releaseDate": "2020-11-02",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "HarmonyOS",
+            "deviceType": "phone",
+            "brand": "Huawei"
         }
     },
     {
@@ -5564,17 +5615,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "huawei",
+            "touch",
             "phone",
             "mobile",
-            "touch",
-            "Honor 30 Pro Plus"
+            "huawei"
         ],
         "attributes": {
             "popularity": 19,
             "icons": [
                 "deviceMobile",
-                "brandHuawei"
+                "brandAndroid"
             ],
             "width": 360,
             "height": 780
@@ -5590,7 +5640,10 @@
             },
             "releaseDate": "2020-04-22",
             "discontinuedDate": null,
-            "devicePixelRatio": 3.0
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "HarmonyOS",
+            "deviceType": "phone",
+            "brand": "Huawei"
         }
     },
     {
@@ -5602,17 +5655,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "mobile",
-            "phone",
-            "Mi 10",
             "touch",
+            "phone",
+            "mobile",
             "xiaomi"
         ],
         "attributes": {
             "popularity": 18,
             "icons": [
                 "deviceMobile",
-                "brandXiaomi"
+                "brandAndroid"
             ],
             "width": 393,
             "height": 851
@@ -5628,7 +5680,10 @@
             },
             "releaseDate": "2020-02-13",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.75
+            "devicePixelRatio": 2.75,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Xiaomi"
         }
     },
     {
@@ -5640,17 +5695,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "Mi 10 Pro",
+            "touch",
             "phone",
             "mobile",
-            "touch",
             "xiaomi"
         ],
         "attributes": {
             "popularity": 18,
             "icons": [
                 "deviceMobile",
-                "brandXiaomi"
+                "brandAndroid"
             ],
             "width": 393,
             "height": 851
@@ -5666,7 +5720,10 @@
             },
             "releaseDate": "2020-02-18",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.75
+            "devicePixelRatio": 2.75,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Xiaomi"
         }
     },
     {
@@ -5678,17 +5735,16 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
+            "touch",
             "phone",
             "mobile",
-            "touch",
-            "Mi 10T Pro",
             "xiaomi"
         ],
         "attributes": {
             "popularity": 18,
             "icons": [
                 "deviceMobile",
-                "brandXiaomi"
+                "brandAndroid"
             ],
             "width": 393,
             "height": 873
@@ -5704,7 +5760,10 @@
             },
             "releaseDate": "2020-09-30",
             "discontinuedDate": null,
-            "devicePixelRatio": 2.75
+            "devicePixelRatio": 2.75,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Xiaomi"
         }
     }
 ]
