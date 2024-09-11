@@ -2567,6 +2567,166 @@
         }
     },
     {
+        "id": "id:item:v2024.09.11:iphone-16",
+        "slug": "iphone-16",
+        "active": true,
+        "labels": {
+            "primary": "iPhone 16",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "touch",
+            "phone",
+            "mobile",
+            "apple"
+        ],
+        "attributes": {
+            "popularity": 44,
+            "icons": [
+                "deviceMobile",
+                "brandApple"
+            ],
+            "width": 393,
+            "height": 852
+        },
+        "properties": {
+            "screen": {
+                "width": 1179,
+                "height": 2556
+            },
+            "viewport": {
+                "width": 393,
+                "height": 852
+            },
+            "releaseDate": "2024-09-20",
+            "discontinuedDate": null,
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
+        }
+    },
+    {
+        "id": "id:item:v2024.09.11:iphone-16-plus",
+        "slug": "iphone-16-plus",
+        "active": true,
+        "labels": {
+            "primary": "iPhone 16 Plus",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "touch",
+            "phone",
+            "mobile",
+            "apple"
+        ],
+        "attributes": {
+            "popularity": 44,
+            "icons": [
+                "deviceMobile",
+                "brandApple"
+            ],
+            "width": 430,
+            "height": 932
+        },
+        "properties": {
+            "screen": {
+                "width": 1290,
+                "height": 2796
+            },
+            "viewport": {
+                "width": 430,
+                "height": 932
+            },
+            "releaseDate": "2024-09-20",
+            "discontinuedDate": null,
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
+        }
+    },
+    {
+        "id": "id:item:v2024.09.11:iphone-16-pro",
+        "slug": "iphone-16-pro",
+        "active": true,
+        "labels": {
+            "primary": "iPhone 16 Pro",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "touch",
+            "phone",
+            "mobile",
+            "apple"
+        ],
+        "attributes": {
+            "popularity": 44,
+            "icons": [
+                "deviceMobile",
+                "brandApple"
+            ],
+            "width": 402,
+            "height": 874
+        },
+        "properties": {
+            "screen": {
+                "width": 1206,
+                "height": 2622
+            },
+            "viewport": {
+                "width": 402,
+                "height": 874
+            },
+            "releaseDate": "2024-09-20",
+            "discontinuedDate": null,
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
+        }
+    },
+    {
+        "id": "id:item:v2024.09.11:iphone-16-pro-max",
+        "slug": "iphone-16-pro-max",
+        "active": true,
+        "labels": {
+            "primary": "iPhone 16 Pro Max",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "touch",
+            "phone",
+            "mobile",
+            "apple"
+        ],
+        "attributes": {
+            "popularity": 44,
+            "icons": [
+                "deviceMobile",
+                "brandApple"
+            ],
+            "width": 440,
+            "height": 956
+        },
+        "properties": {
+            "screen": {
+                "width": 1320,
+                "height": 2868
+            },
+            "viewport": {
+                "width": 440,
+                "height": 956
+            },
+            "releaseDate": "2024-09-20",
+            "discontinuedDate": null,
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "iOS",
+            "deviceType": "phone",
+            "brand": "Apple"
+        }
+    },
+    {
         "id": "id:item:v2024.08.30:iphone-15",
         "slug": "iphone-15",
         "active": true,
