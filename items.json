@@ -1,6 +1,6 @@
 [
     {
-        "id": "id:item:v2024.08.30:ipad-10th-gen",
+        "id": "id:item:v2024.10.01:ipad-10th-gen",
         "slug": "ipad-10th-gen",
         "active": true,
         "labels": {
@@ -40,7 +40,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-9th-gen",
+        "id": "id:item:v2024.10.01:ipad-9th-gen",
         "slug": "ipad-9th-gen",
         "active": true,
         "labels": {
@@ -80,7 +80,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-8th-gen",
+        "id": "id:item:v2024.10.01:ipad-8th-gen",
         "slug": "ipad-8th-gen",
         "active": true,
         "labels": {
@@ -120,7 +120,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-7th-gen",
+        "id": "id:item:v2024.10.01:ipad-7th-gen",
         "slug": "ipad-7th-gen",
         "active": true,
         "labels": {
@@ -160,7 +160,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-6th-gen",
+        "id": "id:item:v2024.10.01:ipad-6th-gen",
         "slug": "ipad-6th-gen",
         "active": true,
         "labels": {
@@ -200,7 +200,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-5th-gen",
+        "id": "id:item:v2024.10.01:ipad-5th-gen",
         "slug": "ipad-5th-gen",
         "active": true,
         "labels": {
@@ -240,7 +240,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-13-7th-gen-2024",
+        "id": "id:item:v2024.10.01:ipad-pro-13-7th-gen-2024",
         "slug": "ipad-pro-13-7th-gen-2024",
         "active": true,
         "labels": {
@@ -280,7 +280,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-11-7th-gen-2024",
+        "id": "id:item:v2024.10.01:ipad-pro-11-7th-gen-2024",
         "slug": "ipad-pro-11-7th-gen-2024",
         "active": true,
         "labels": {
@@ -320,7 +320,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-12-9-6th-gen-2022",
+        "id": "id:item:v2024.10.01:ipad-pro-12-9-6th-gen-2022",
         "slug": "ipad-pro-12-9-6th-gen-2022",
         "active": true,
         "labels": {
@@ -360,7 +360,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-11-6th-gen-2022",
+        "id": "id:item:v2024.10.01:ipad-pro-11-6th-gen-2022",
         "slug": "ipad-pro-11-6th-gen-2022",
         "active": true,
         "labels": {
@@ -400,7 +400,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-12-9-5th-gen-2021",
+        "id": "id:item:v2024.10.01:ipad-pro-12-9-5th-gen-2021",
         "slug": "ipad-pro-12-9-5th-gen-2021",
         "active": true,
         "labels": {
@@ -440,7 +440,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-11-5th-gen-2021",
+        "id": "id:item:v2024.10.01:ipad-pro-11-5th-gen-2021",
         "slug": "ipad-pro-11-5th-gen-2021",
         "active": true,
         "labels": {
@@ -480,7 +480,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-12-9-4th-gen-2020",
+        "id": "id:item:v2024.10.01:ipad-pro-12-9-4th-gen-2020",
         "slug": "ipad-pro-12-9-4th-gen-2020",
         "active": true,
         "labels": {
@@ -520,7 +520,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-11-4th-gen-2020",
+        "id": "id:item:v2024.10.01:ipad-pro-11-4th-gen-2020",
         "slug": "ipad-pro-11-4th-gen-2020",
         "active": true,
         "labels": {
@@ -560,7 +560,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-12-9-3th-gen-2018",
+        "id": "id:item:v2024.10.01:ipad-pro-12-9-3th-gen-2018",
         "slug": "ipad-pro-12-9-3th-gen-2018",
         "active": true,
         "labels": {
@@ -600,7 +600,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-11-3th-gen-2018",
+        "id": "id:item:v2024.10.01:ipad-pro-11-3th-gen-2018",
         "slug": "ipad-pro-11-3th-gen-2018",
         "active": true,
         "labels": {
@@ -640,7 +640,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-12-9-2nd-gen-2017",
+        "id": "id:item:v2024.10.01:ipad-pro-12-9-2nd-gen-2017",
         "slug": "ipad-pro-12-9-2nd-gen-2017",
         "active": true,
         "labels": {
@@ -680,7 +680,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-pro-10-5-2nd-gen-2017",
+        "id": "id:item:v2024.10.01:ipad-pro-10-5-2nd-gen-2017",
         "slug": "ipad-pro-10-5-2nd-gen-2017",
         "active": true,
         "labels": {
@@ -720,7 +720,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-air-5th-gen-2022",
+        "id": "id:item:v2024.10.01:ipad-air-5th-gen-2022",
         "slug": "ipad-air-5th-gen-2022",
         "active": true,
         "labels": {
@@ -760,7 +760,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-air-4th-gen-2020",
+        "id": "id:item:v2024.10.01:ipad-air-4th-gen-2020",
         "slug": "ipad-air-4th-gen-2020",
         "active": true,
         "labels": {
@@ -800,7 +800,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-air-3th-gen-2019",
+        "id": "id:item:v2024.10.01:ipad-air-3th-gen-2019",
         "slug": "ipad-air-3th-gen-2019",
         "active": true,
         "labels": {
@@ -840,7 +840,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-mini-6th-gen-2021",
+        "id": "id:item:v2024.10.01:ipad-mini-6th-gen-2021",
         "slug": "ipad-mini-6th-gen-2021",
         "active": true,
         "labels": {
@@ -880,7 +880,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:ipad-mini-5th-gen-2019",
+        "id": "id:item:v2024.10.01:ipad-mini-5th-gen-2019",
         "slug": "ipad-mini-5th-gen-2019",
         "active": true,
         "labels": {
@@ -920,7 +920,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:galaxy-tab-s8",
+        "id": "id:item:v2024.10.01:galaxy-tab-s8",
         "slug": "galaxy-tab-s8",
         "active": true,
         "labels": {
@@ -960,7 +960,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:desktop-hidpi-xl",
+        "id": "id:item:v2024.10.01:desktop-hidpi-xl",
         "slug": "desktop-hidpi-xl",
         "active": true,
         "labels": {
@@ -996,7 +996,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:desktop-hidpi",
+        "id": "id:item:v2024.10.01:desktop-hidpi",
         "slug": "desktop-hidpi",
         "active": true,
         "labels": {
@@ -1032,7 +1032,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:desktop-mdpi",
+        "id": "id:item:v2024.10.01:desktop-mdpi",
         "slug": "desktop-mdpi",
         "active": true,
         "labels": {
@@ -1068,7 +1068,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:desktop-4k-1x-scale",
+        "id": "id:item:v2024.10.01:desktop-4k-1x-scale",
         "slug": "desktop-4k-1x-scale",
         "active": true,
         "labels": {
@@ -1104,7 +1104,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:laptop-l",
+        "id": "id:item:v2024.10.01:laptop-l",
         "slug": "laptop-l",
         "active": true,
         "labels": {
@@ -1140,7 +1140,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:laptop-m",
+        "id": "id:item:v2024.10.01:laptop-m",
         "slug": "laptop-m",
         "active": true,
         "labels": {
@@ -1176,7 +1176,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:laptop-s",
+        "id": "id:item:v2024.10.01:laptop-s",
         "slug": "laptop-s",
         "active": true,
         "labels": {
@@ -1212,7 +1212,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:laptop-xs",
+        "id": "id:item:v2024.10.01:laptop-xs",
         "slug": "laptop-xs",
         "active": true,
         "labels": {
@@ -1248,7 +1248,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-air-15-m3-2024",
+        "id": "id:item:v2024.10.01:macbook-air-15-m3-2024",
         "slug": "macbook-air-15-m3-2024",
         "active": true,
         "labels": {
@@ -1286,7 +1286,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-air-13-m3-2024",
+        "id": "id:item:v2024.10.01:macbook-air-13-m3-2024",
         "slug": "macbook-air-13-m3-2024",
         "active": true,
         "labels": {
@@ -1324,7 +1324,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-16-m2-2023",
+        "id": "id:item:v2024.10.01:macbook-pro-16-m2-2023",
         "slug": "macbook-pro-16-m2-2023",
         "active": true,
         "labels": {
@@ -1362,7 +1362,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-14-m2-2023",
+        "id": "id:item:v2024.10.01:macbook-pro-14-m2-2023",
         "slug": "macbook-pro-14-m2-2023",
         "active": true,
         "labels": {
@@ -1400,7 +1400,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:imac-4-5k-24-m3-2023",
+        "id": "id:item:v2024.10.01:imac-4-5k-24-m3-2023",
         "slug": "imac-4-5k-24-m3-2023",
         "active": true,
         "labels": {
@@ -1438,7 +1438,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-16-m3-nov-2023",
+        "id": "id:item:v2024.10.01:macbook-pro-16-m3-nov-2023",
         "slug": "macbook-pro-16-m3-nov-2023",
         "active": true,
         "labels": {
@@ -1476,7 +1476,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-14-m3-nov-2023",
+        "id": "id:item:v2024.10.01:macbook-pro-14-m3-nov-2023",
         "slug": "macbook-pro-14-m3-nov-2023",
         "active": true,
         "labels": {
@@ -1514,7 +1514,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-air-m2-2022",
+        "id": "id:item:v2024.10.01:macbook-air-m2-2022",
         "slug": "macbook-air-m2-2022",
         "active": true,
         "labels": {
@@ -1552,7 +1552,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-13-m2-2022",
+        "id": "id:item:v2024.10.01:macbook-pro-13-m2-2022",
         "slug": "macbook-pro-13-m2-2022",
         "active": true,
         "labels": {
@@ -1590,7 +1590,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:imac-4-5k-24-m1-2021",
+        "id": "id:item:v2024.10.01:imac-4-5k-24-m1-2021",
         "slug": "imac-4-5k-24-m1-2021",
         "active": true,
         "labels": {
@@ -1628,7 +1628,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-16-m1-2021",
+        "id": "id:item:v2024.10.01:macbook-pro-16-m1-2021",
         "slug": "macbook-pro-16-m1-2021",
         "active": true,
         "labels": {
@@ -1666,7 +1666,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-14-m1-2021",
+        "id": "id:item:v2024.10.01:macbook-pro-14-m1-2021",
         "slug": "macbook-pro-14-m1-2021",
         "active": true,
         "labels": {
@@ -1704,7 +1704,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-13-intel-2020",
+        "id": "id:item:v2024.10.01:macbook-pro-13-intel-2020",
         "slug": "macbook-pro-13-intel-2020",
         "active": true,
         "labels": {
@@ -1742,7 +1742,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:imac-retina-5k-27-intel-2020",
+        "id": "id:item:v2024.10.01:imac-retina-5k-27-intel-2020",
         "slug": "imac-retina-5k-27-intel-2020",
         "active": true,
         "labels": {
@@ -1780,7 +1780,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-13-m1-2020",
+        "id": "id:item:v2024.10.01:macbook-pro-13-m1-2020",
         "slug": "macbook-pro-13-m1-2020",
         "active": true,
         "labels": {
@@ -1818,7 +1818,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-air-m1-2020",
+        "id": "id:item:v2024.10.01:macbook-air-m1-2020",
         "slug": "macbook-air-m1-2020",
         "active": true,
         "labels": {
@@ -1856,7 +1856,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-air-13-intel-2020",
+        "id": "id:item:v2024.10.01:macbook-air-13-intel-2020",
         "slug": "macbook-air-13-intel-2020",
         "active": true,
         "labels": {
@@ -1894,7 +1894,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:imac-retina-5k-27-intel-2019",
+        "id": "id:item:v2024.10.01:imac-retina-5k-27-intel-2019",
         "slug": "imac-retina-5k-27-intel-2019",
         "active": true,
         "labels": {
@@ -1932,7 +1932,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:imac-retina-4k-21-5-intel-2019",
+        "id": "id:item:v2024.10.01:imac-retina-4k-21-5-intel-2019",
         "slug": "imac-retina-4k-21-5-intel-2019",
         "active": true,
         "labels": {
@@ -1970,7 +1970,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-13-intel-2019",
+        "id": "id:item:v2024.10.01:macbook-pro-13-intel-2019",
         "slug": "macbook-pro-13-intel-2019",
         "active": true,
         "labels": {
@@ -2008,7 +2008,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-15-intel-2019",
+        "id": "id:item:v2024.10.01:macbook-pro-15-intel-2019",
         "slug": "macbook-pro-15-intel-2019",
         "active": true,
         "labels": {
@@ -2046,7 +2046,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-air-13-intel-2019",
+        "id": "id:item:v2024.10.01:macbook-air-13-intel-2019",
         "slug": "macbook-air-13-intel-2019",
         "active": true,
         "labels": {
@@ -2084,7 +2084,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-16-intel-2019",
+        "id": "id:item:v2024.10.01:macbook-pro-16-intel-2019",
         "slug": "macbook-pro-16-intel-2019",
         "active": true,
         "labels": {
@@ -2122,7 +2122,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:macbook-pro-13-intel-2018",
+        "id": "id:item:v2024.10.01:macbook-pro-13-intel-2018",
         "slug": "macbook-pro-13-intel-2018",
         "active": true,
         "labels": {
@@ -2160,7 +2160,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:lenovo-v14-gen-5-14",
+        "id": "id:item:v2024.10.01:lenovo-v14-gen-5-14",
         "slug": "lenovo-v14-gen-5-14",
         "active": true,
         "labels": {
@@ -2197,7 +2197,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:lenovo-v15-gen-4-15",
+        "id": "id:item:v2024.10.01:lenovo-v15-gen-4-15",
         "slug": "lenovo-v15-gen-4-15",
         "active": true,
         "labels": {
@@ -2234,7 +2234,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:lenovo-v14-gen-4-14",
+        "id": "id:item:v2024.10.01:lenovo-v14-gen-4-14",
         "slug": "lenovo-v14-gen-4-14",
         "active": true,
         "labels": {
@@ -2271,7 +2271,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:thinkpad-t16-gen-3-16",
+        "id": "id:item:v2024.10.01:thinkpad-t16-gen-3-16",
         "slug": "thinkpad-t16-gen-3-16",
         "active": true,
         "labels": {
@@ -2308,7 +2308,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:thinkpad-t14s-gen-6-14",
+        "id": "id:item:v2024.10.01:thinkpad-t14s-gen-6-14",
         "slug": "thinkpad-t14s-gen-6-14",
         "active": true,
         "labels": {
@@ -2345,7 +2345,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:thinkpad-t14-gen-5-14",
+        "id": "id:item:v2024.10.01:thinkpad-t14-gen-5-14",
         "slug": "thinkpad-t14-gen-5-14",
         "active": true,
         "labels": {
@@ -2382,7 +2382,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:thinkpad-p1-gen7-16",
+        "id": "id:item:v2024.10.01:thinkpad-p1-gen7-16",
         "slug": "thinkpad-p1-gen7-16",
         "active": true,
         "labels": {
@@ -2419,7 +2419,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:thinkpad-p16s-gen-3-16",
+        "id": "id:item:v2024.10.01:thinkpad-p16s-gen-3-16",
         "slug": "thinkpad-p16s-gen-3-16",
         "active": true,
         "labels": {
@@ -2456,7 +2456,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:thinkpad-p14s-gen-5-14",
+        "id": "id:item:v2024.10.01:thinkpad-p14s-gen-5-14",
         "slug": "thinkpad-p14s-gen-5-14",
         "active": true,
         "labels": {
@@ -2493,7 +2493,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:thinkpad-p14s-gen-5-14-5",
+        "id": "id:item:v2024.10.01:thinkpad-p14s-gen-5-14-5",
         "slug": "thinkpad-p14s-gen-5-14-5",
         "active": true,
         "labels": {
@@ -2530,7 +2530,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:mobile-workstation-p14s-g5-14-5",
+        "id": "id:item:v2024.10.01:mobile-workstation-p14s-g5-14-5",
         "slug": "mobile-workstation-p14s-g5-14-5",
         "active": true,
         "labels": {
@@ -2567,7 +2567,7 @@
         }
     },
     {
-        "id": "id:item:v2024.09.11:iphone-16",
+        "id": "id:item:v2024.10.01:iphone-16",
         "slug": "iphone-16",
         "active": true,
         "labels": {
@@ -2607,7 +2607,7 @@
         }
     },
     {
-        "id": "id:item:v2024.09.11:iphone-16-plus",
+        "id": "id:item:v2024.10.01:iphone-16-plus",
         "slug": "iphone-16-plus",
         "active": true,
         "labels": {
@@ -2647,7 +2647,7 @@
         }
     },
     {
-        "id": "id:item:v2024.09.11:iphone-16-pro",
+        "id": "id:item:v2024.10.01:iphone-16-pro",
         "slug": "iphone-16-pro",
         "active": true,
         "labels": {
@@ -2687,7 +2687,7 @@
         }
     },
     {
-        "id": "id:item:v2024.09.11:iphone-16-pro-max",
+        "id": "id:item:v2024.10.01:iphone-16-pro-max",
         "slug": "iphone-16-pro-max",
         "active": true,
         "labels": {
@@ -2727,7 +2727,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:iphone-15",
+        "id": "id:item:v2024.10.01:iphone-15",
         "slug": "iphone-15",
         "active": true,
         "labels": {
@@ -2767,7 +2767,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:iphone-15-plus",
+        "id": "id:item:v2024.10.01:iphone-15-plus",
         "slug": "iphone-15-plus",
         "active": true,
         "labels": {
@@ -2807,7 +2807,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:iphone-15-pro",
+        "id": "id:item:v2024.10.01:iphone-15-pro",
         "slug": "iphone-15-pro",
         "active": true,
         "labels": {
@@ -2847,7 +2847,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:iphone-15-pro-max",
+        "id": "id:item:v2024.10.01:iphone-15-pro-max",
         "slug": "iphone-15-pro-max",
         "active": true,
         "labels": {
@@ -2887,7 +2887,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:iphone-14",
+        "id": "id:item:v2024.10.01:iphone-14",
         "slug": "iphone-14",
         "active": true,
         "labels": {
@@ -2927,7 +2927,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:iphone-14-plus",
+        "id": "id:item:v2024.10.01:iphone-14-plus",
         "slug": "iphone-14-plus",
         "active": true,
         "labels": {
@@ -2967,7 +2967,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:iphone-14-pro",
+        "id": "id:item:v2024.10.01:iphone-14-pro",
         "slug": "iphone-14-pro",
         "active": true,
         "labels": {
@@ -3007,7 +3007,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:iphone-14-pro-max",
+        "id": "id:item:v2024.10.01:iphone-14-pro-max",
         "slug": "iphone-14-pro-max",
         "active": true,
         "labels": {
@@ -3047,7 +3047,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:iphone-se-2022",
+        "id": "id:item:v2024.10.01:iphone-se-2022",
         "slug": "iphone-se-2022",
         "active": true,
         "labels": {
@@ -3087,7 +3087,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:iphone-13-mini",
+        "id": "id:item:v2024.10.01:iphone-13-mini",
         "slug": "iphone-13-mini",
         "active": true,
         "labels": {
@@ -3127,7 +3127,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:iphone-13",
+        "id": "id:item:v2024.10.01:iphone-13",
         "slug": "iphone-13",
         "active": true,
         "labels": {
@@ -3167,7 +3167,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:iphone-13-pro",
+        "id": "id:item:v2024.10.01:iphone-13-pro",
         "slug": "iphone-13-pro",
         "active": true,
         "labels": {
@@ -3207,7 +3207,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:iphone-13-pro-max",
+        "id": "id:item:v2024.10.01:iphone-13-pro-max",
         "slug": "iphone-13-pro-max",
         "active": true,
         "labels": {
@@ -3247,7 +3247,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:iphone-12-mini",
+        "id": "id:item:v2024.10.01:iphone-12-mini",
         "slug": "iphone-12-mini",
         "active": true,
         "labels": {
@@ -3287,7 +3287,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:iphone-12",
+        "id": "id:item:v2024.10.01:iphone-12",
         "slug": "iphone-12",
         "active": true,
         "labels": {
@@ -3327,7 +3327,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:iphone-12-pro",
+        "id": "id:item:v2024.10.01:iphone-12-pro",
         "slug": "iphone-12-pro",
         "active": true,
         "labels": {
@@ -3367,7 +3367,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:iphone-12-pro-max",
+        "id": "id:item:v2024.10.01:iphone-12-pro-max",
         "slug": "iphone-12-pro-max",
         "active": true,
         "labels": {
@@ -3407,7 +3407,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:iphone-11",
+        "id": "id:item:v2024.10.01:iphone-11",
         "slug": "iphone-11",
         "active": true,
         "labels": {
@@ -3447,7 +3447,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:iphone-11-pro",
+        "id": "id:item:v2024.10.01:iphone-11-pro",
         "slug": "iphone-11-pro",
         "active": true,
         "labels": {
@@ -3487,7 +3487,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:iphone-11-pro-max",
+        "id": "id:item:v2024.10.01:iphone-11-pro-max",
         "slug": "iphone-11-pro-max",
         "active": true,
         "labels": {
@@ -3527,7 +3527,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:iphone-se-2020",
+        "id": "id:item:v2024.10.01:iphone-se-2020",
         "slug": "iphone-se-2020",
         "active": true,
         "labels": {
@@ -3567,7 +3567,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:iphone-x",
+        "id": "id:item:v2024.10.01:iphone-x",
         "slug": "iphone-x",
         "active": true,
         "labels": {
@@ -3607,7 +3607,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:iphone-xr",
+        "id": "id:item:v2024.10.01:iphone-xr",
         "slug": "iphone-xr",
         "active": true,
         "labels": {
@@ -3647,7 +3647,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:iphone-xs",
+        "id": "id:item:v2024.10.01:iphone-xs",
         "slug": "iphone-xs",
         "active": true,
         "labels": {
@@ -3687,7 +3687,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:iphone-xs-max",
+        "id": "id:item:v2024.10.01:iphone-xs-max",
         "slug": "iphone-xs-max",
         "active": true,
         "labels": {
@@ -3727,7 +3727,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:iphone-8",
+        "id": "id:item:v2024.10.01:iphone-8",
         "slug": "iphone-8",
         "active": true,
         "labels": {
@@ -3767,7 +3767,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:iphone-8-plus",
+        "id": "id:item:v2024.10.01:iphone-8-plus",
         "slug": "iphone-8-plus",
         "active": true,
         "labels": {
@@ -3807,7 +3807,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:iphone-7",
+        "id": "id:item:v2024.10.01:iphone-7",
         "slug": "iphone-7",
         "active": true,
         "labels": {
@@ -3847,7 +3847,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:iphone-7-plus",
+        "id": "id:item:v2024.10.01:iphone-7-plus",
         "slug": "iphone-7-plus",
         "active": true,
         "labels": {
@@ -3887,7 +3887,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:iphone-6s",
+        "id": "id:item:v2024.10.01:iphone-6s",
         "slug": "iphone-6s",
         "active": true,
         "labels": {
@@ -3927,7 +3927,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:iphone-6s-plus",
+        "id": "id:item:v2024.10.01:iphone-6s-plus",
         "slug": "iphone-6s-plus",
         "active": true,
         "labels": {
@@ -3967,7 +3967,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:iphone-se",
+        "id": "id:item:v2024.10.01:iphone-se",
         "slug": "iphone-se",
         "active": true,
         "labels": {
@@ -4007,7 +4007,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:google-pixel-8",
+        "id": "id:item:v2024.10.01:google-pixel-8",
         "slug": "google-pixel-8",
         "active": true,
         "labels": {
@@ -4024,7 +4024,8 @@
             "popularity": 22,
             "icons": [
                 "deviceMobile",
-                "brandGoogle"
+                "brandGoogle",
+                "brandAndroid"
             ],
             "width": 412,
             "height": 915
@@ -4047,7 +4048,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:google-pixel-8-pro",
+        "id": "id:item:v2024.10.01:google-pixel-8-pro",
         "slug": "google-pixel-8-pro",
         "active": true,
         "labels": {
@@ -4064,7 +4065,8 @@
             "popularity": 22,
             "icons": [
                 "deviceMobile",
-                "brandGoogle"
+                "brandGoogle",
+                "brandAndroid"
             ],
             "width": 448,
             "height": 998
@@ -4087,7 +4089,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:google-pixel-7",
+        "id": "id:item:v2024.10.01:google-pixel-7",
         "slug": "google-pixel-7",
         "active": true,
         "labels": {
@@ -4104,7 +4106,8 @@
             "popularity": 22,
             "icons": [
                 "deviceMobile",
-                "brandGoogle"
+                "brandGoogle",
+                "brandAndroid"
             ],
             "width": 412,
             "height": 915
@@ -4127,7 +4130,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:google-pixel-7-pro",
+        "id": "id:item:v2024.10.01:google-pixel-7-pro",
         "slug": "google-pixel-7-pro",
         "active": true,
         "labels": {
@@ -4144,7 +4147,8 @@
             "popularity": 22,
             "icons": [
                 "deviceMobile",
-                "brandGoogle"
+                "brandGoogle",
+                "brandAndroid"
             ],
             "width": 412,
             "height": 892
@@ -4167,7 +4171,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:google-pixel-7a",
+        "id": "id:item:v2024.10.01:google-pixel-7a",
         "slug": "google-pixel-7a",
         "active": true,
         "labels": {
@@ -4184,7 +4188,8 @@
             "popularity": 22,
             "icons": [
                 "deviceMobile",
-                "brandGoogle"
+                "brandGoogle",
+                "brandAndroid"
             ],
             "width": 412,
             "height": 915
@@ -4207,7 +4212,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:google-pixel-6",
+        "id": "id:item:v2024.10.01:google-pixel-6",
         "slug": "google-pixel-6",
         "active": true,
         "labels": {
@@ -4224,7 +4229,8 @@
             "popularity": 22,
             "icons": [
                 "deviceMobile",
-                "brandGoogle"
+                "brandGoogle",
+                "brandAndroid"
             ],
             "width": 412,
             "height": 915
@@ -4247,7 +4253,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:google-pixel-6-pro",
+        "id": "id:item:v2024.10.01:google-pixel-6-pro",
         "slug": "google-pixel-6-pro",
         "active": true,
         "labels": {
@@ -4264,7 +4270,8 @@
             "popularity": 22,
             "icons": [
                 "deviceMobile",
-                "brandGoogle"
+                "brandGoogle",
+                "brandAndroid"
             ],
             "width": 412,
             "height": 892
@@ -4287,7 +4294,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:google-pixel-5",
+        "id": "id:item:v2024.10.01:google-pixel-5",
         "slug": "google-pixel-5",
         "active": true,
         "labels": {
@@ -4304,7 +4311,8 @@
             "popularity": 22,
             "icons": [
                 "deviceMobile",
-                "brandGoogle"
+                "brandGoogle",
+                "brandAndroid"
             ],
             "width": 393,
             "height": 851
@@ -4327,7 +4335,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:google-pixel-4",
+        "id": "id:item:v2024.10.01:google-pixel-4",
         "slug": "google-pixel-4",
         "active": true,
         "labels": {
@@ -4344,7 +4352,8 @@
             "popularity": 22,
             "icons": [
                 "deviceMobile",
-                "brandGoogle"
+                "brandGoogle",
+                "brandAndroid"
             ],
             "width": 393,
             "height": 830
@@ -4367,7 +4376,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:google-pixel-4-xl",
+        "id": "id:item:v2024.10.01:google-pixel-4-xl",
         "slug": "google-pixel-4-xl",
         "active": true,
         "labels": {
@@ -4384,7 +4393,8 @@
             "popularity": 22,
             "icons": [
                 "deviceMobile",
-                "brandGoogle"
+                "brandGoogle",
+                "brandAndroid"
             ],
             "width": 412,
             "height": 869
@@ -4407,7 +4417,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:google-pixel-3",
+        "id": "id:item:v2024.10.01:google-pixel-3",
         "slug": "google-pixel-3",
         "active": true,
         "labels": {
@@ -4424,7 +4434,8 @@
             "popularity": 22,
             "icons": [
                 "deviceMobile",
-                "brandGoogle"
+                "brandGoogle",
+                "brandAndroid"
             ],
             "width": 393,
             "height": 786
@@ -4447,7 +4458,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:google-pixel-3-xl",
+        "id": "id:item:v2024.10.01:google-pixel-3-xl",
         "slug": "google-pixel-3-xl",
         "active": true,
         "labels": {
@@ -4464,7 +4475,8 @@
             "popularity": 22,
             "icons": [
                 "deviceMobile",
-                "brandGoogle"
+                "brandGoogle",
+                "brandAndroid"
             ],
             "width": 412,
             "height": 846
@@ -4487,7 +4499,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:google-pixel-3a",
+        "id": "id:item:v2024.10.01:google-pixel-3a",
         "slug": "google-pixel-3a",
         "active": true,
         "labels": {
@@ -4504,7 +4516,8 @@
             "popularity": 22,
             "icons": [
                 "deviceMobile",
-                "brandGoogle"
+                "brandGoogle",
+                "brandAndroid"
             ],
             "width": 393,
             "height": 808
@@ -4527,7 +4540,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:google-pixel-3a-xl",
+        "id": "id:item:v2024.10.01:google-pixel-3a-xl",
         "slug": "google-pixel-3a-xl",
         "active": true,
         "labels": {
@@ -4544,7 +4557,8 @@
             "popularity": 22,
             "icons": [
                 "deviceMobile",
-                "brandGoogle"
+                "brandGoogle",
+                "brandAndroid"
             ],
             "width": 412,
             "height": 824
@@ -4567,7 +4581,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:google-pixel-2",
+        "id": "id:item:v2024.10.01:google-pixel-2",
         "slug": "google-pixel-2",
         "active": true,
         "labels": {
@@ -4584,7 +4598,8 @@
             "popularity": 22,
             "icons": [
                 "deviceMobile",
-                "brandGoogle"
+                "brandGoogle",
+                "brandAndroid"
             ],
             "width": 412,
             "height": 732
@@ -4607,7 +4622,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:google-pixel-2-xl",
+        "id": "id:item:v2024.10.01:google-pixel-2-xl",
         "slug": "google-pixel-2-xl",
         "active": true,
         "labels": {
@@ -4624,7 +4639,8 @@
             "popularity": 22,
             "icons": [
                 "deviceMobile",
-                "brandGoogle"
+                "brandGoogle",
+                "brandAndroid"
             ],
             "width": 412,
             "height": 824
@@ -4647,7 +4663,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:google-pixel",
+        "id": "id:item:v2024.10.01:google-pixel",
         "slug": "google-pixel",
         "active": true,
         "labels": {
@@ -4664,7 +4680,8 @@
             "popularity": 22,
             "icons": [
                 "deviceMobile",
-                "brandGoogle"
+                "brandGoogle",
+                "brandAndroid"
             ],
             "width": 412,
             "height": 732
@@ -4687,7 +4704,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:google-pixel-xl",
+        "id": "id:item:v2024.10.01:google-pixel-xl",
         "slug": "google-pixel-xl",
         "active": true,
         "labels": {
@@ -4704,7 +4721,8 @@
             "popularity": 22,
             "icons": [
                 "deviceMobile",
-                "brandGoogle"
+                "brandGoogle",
+                "brandAndroid"
             ],
             "width": 412,
             "height": 732
@@ -4727,7 +4745,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:galaxy-s23",
+        "id": "id:item:v2024.10.01:galaxy-s23",
         "slug": "galaxy-s23",
         "active": true,
         "labels": {
@@ -4767,7 +4785,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:galaxy-s23-plus",
+        "id": "id:item:v2024.10.01:galaxy-s23-plus",
         "slug": "galaxy-s23-plus",
         "active": true,
         "labels": {
@@ -4807,7 +4825,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:galaxy-s23-ultra",
+        "id": "id:item:v2024.10.01:galaxy-s23-ultra",
         "slug": "galaxy-s23-ultra",
         "active": true,
         "labels": {
@@ -4847,7 +4865,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:galaxy-s22",
+        "id": "id:item:v2024.10.01:galaxy-s22",
         "slug": "galaxy-s22",
         "active": true,
         "labels": {
@@ -4887,7 +4905,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:galaxy-s22-plus",
+        "id": "id:item:v2024.10.01:galaxy-s22-plus",
         "slug": "galaxy-s22-plus",
         "active": true,
         "labels": {
@@ -4927,7 +4945,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:galaxy-s22-ultra",
+        "id": "id:item:v2024.10.01:galaxy-s22-ultra",
         "slug": "galaxy-s22-ultra",
         "active": true,
         "labels": {
@@ -4967,7 +4985,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:galaxy-s21",
+        "id": "id:item:v2024.10.01:galaxy-s21",
         "slug": "galaxy-s21",
         "active": true,
         "labels": {
@@ -5007,7 +5025,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:galaxy-s21-plus",
+        "id": "id:item:v2024.10.01:galaxy-s21-plus",
         "slug": "galaxy-s21-plus",
         "active": true,
         "labels": {
@@ -5047,7 +5065,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:galaxy-s21-ultra",
+        "id": "id:item:v2024.10.01:galaxy-s21-ultra",
         "slug": "galaxy-s21-ultra",
         "active": true,
         "labels": {
@@ -5087,7 +5105,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:galaxy-s20",
+        "id": "id:item:v2024.10.01:galaxy-s20",
         "slug": "galaxy-s20",
         "active": true,
         "labels": {
@@ -5127,7 +5145,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:galaxy-s20-plus",
+        "id": "id:item:v2024.10.01:galaxy-s20-plus",
         "slug": "galaxy-s20-plus",
         "active": true,
         "labels": {
@@ -5167,7 +5185,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:galaxy-s20-ultra",
+        "id": "id:item:v2024.10.01:galaxy-s20-ultra",
         "slug": "galaxy-s20-ultra",
         "active": true,
         "labels": {
@@ -5207,7 +5225,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:galaxy-s9",
+        "id": "id:item:v2024.10.01:galaxy-s9",
         "slug": "galaxy-s9",
         "active": true,
         "labels": {
@@ -5247,7 +5265,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:galaxy-s9-plus",
+        "id": "id:item:v2024.10.01:galaxy-s9-plus",
         "slug": "galaxy-s9-plus",
         "active": true,
         "labels": {
@@ -5287,7 +5305,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:galaxy-s8",
+        "id": "id:item:v2024.10.01:galaxy-s8",
         "slug": "galaxy-s8",
         "active": true,
         "labels": {
@@ -5327,7 +5345,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:galaxy-s7",
+        "id": "id:item:v2024.10.01:galaxy-s7",
         "slug": "galaxy-s7",
         "active": true,
         "labels": {
@@ -5367,7 +5385,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:galaxy-s6-edge",
+        "id": "id:item:v2024.10.01:galaxy-s6-edge",
         "slug": "galaxy-s6-edge",
         "active": true,
         "labels": {
@@ -5407,7 +5425,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:galaxy-s6",
+        "id": "id:item:v2024.10.01:galaxy-s6",
         "slug": "galaxy-s6",
         "active": true,
         "labels": {
@@ -5447,7 +5465,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:galaxy-note-5",
+        "id": "id:item:v2024.10.01:galaxy-note-5",
         "slug": "galaxy-note-5",
         "active": true,
         "labels": {
@@ -5487,7 +5505,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:galaxy-a13-2022",
+        "id": "id:item:v2024.10.01:galaxy-a13-2022",
         "slug": "galaxy-a13-2022",
         "active": true,
         "labels": {
@@ -5527,7 +5545,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:galaxy-a13-2021",
+        "id": "id:item:v2024.10.01:galaxy-a13-2021",
         "slug": "galaxy-a13-2021",
         "active": true,
         "labels": {
@@ -5567,7 +5585,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:lg-g7-one",
+        "id": "id:item:v2024.10.01:lg-g7-one",
         "slug": "lg-g7-one",
         "active": true,
         "labels": {
@@ -5607,7 +5625,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:lg-g6",
+        "id": "id:item:v2024.10.01:lg-g6",
         "slug": "lg-g6",
         "active": true,
         "labels": {
@@ -5647,7 +5665,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:oneplus-5t",
+        "id": "id:item:v2024.10.01:oneplus-5t",
         "slug": "oneplus-5t",
         "active": true,
         "labels": {
@@ -5687,7 +5705,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:mate-40-pro",
+        "id": "id:item:v2024.10.01:mate-40-pro",
         "slug": "mate-40-pro",
         "active": true,
         "labels": {
@@ -5727,7 +5745,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:mate-40-pro-plus",
+        "id": "id:item:v2024.10.01:mate-40-pro-plus",
         "slug": "mate-40-pro-plus",
         "active": true,
         "labels": {
@@ -5767,7 +5785,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:honor-30-pro-plus",
+        "id": "id:item:v2024.10.01:honor-30-pro-plus",
         "slug": "honor-30-pro-plus",
         "active": true,
         "labels": {
@@ -5807,7 +5825,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:mi-10",
+        "id": "id:item:v2024.10.01:mi-10",
         "slug": "mi-10",
         "active": true,
         "labels": {
@@ -5847,7 +5865,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:mi-10-pro",
+        "id": "id:item:v2024.10.01:mi-10-pro",
         "slug": "mi-10-pro",
         "active": true,
         "labels": {
@@ -5887,7 +5905,7 @@
         }
     },
     {
-        "id": "id:item:v2024.08.30:mi-10t-pro",
+        "id": "id:item:v2024.10.01:mi-10t-pro",
         "slug": "mi-10t-pro",
         "active": true,
         "labels": {
