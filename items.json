@@ -4007,6 +4007,88 @@
         }
     },
     {
+        "id": "id:item:v2024.10.01:google-pixel-9",
+        "slug": "google-pixel-9",
+        "active": true,
+        "labels": {
+            "primary": "Google Pixel 9",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "phone",
+            "google",
+            "mobile",
+            "touch"
+        ],
+        "attributes": {
+            "popularity": 22,
+            "icons": [
+                "deviceMobile",
+                "brandGoogle",
+                "brandAndroid"
+            ],
+            "width": 412,
+            "height": 915
+        },
+        "properties": {
+            "screen": {
+                "width": 1080,
+                "height": 2424
+            },
+            "viewport": {
+                "width": 412,
+                "height": 915
+            },
+            "releaseDate": "2024-08-22",
+            "discontinuedDate": null,
+            "devicePixelRatio": 2.62,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
+        }
+    },
+    {
+        "id": "id:item:v2024.10.01:google-pixel-9-pro-xl",
+        "slug": "google-pixel-9-pro-xl",
+        "active": true,
+        "labels": {
+            "primary": "Google Pixel 9 Pro XL",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "phone",
+            "google",
+            "mobile",
+            "touch"
+        ],
+        "attributes": {
+            "popularity": 22,
+            "icons": [
+                "deviceMobile",
+                "brandGoogle",
+                "brandAndroid"
+            ],
+            "width": 412,
+            "height": 915
+        },
+        "properties": {
+            "screen": {
+                "width": 1344,
+                "height": 2992
+            },
+            "viewport": {
+                "width": 412,
+                "height": 915
+            },
+            "releaseDate": "2024-08-22",
+            "discontinuedDate": null,
+            "devicePixelRatio": 3.26,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Google"
+        }
+    },
+    {
         "id": "id:item:v2024.10.01:google-pixel-8",
         "slug": "google-pixel-8",
         "active": true,
