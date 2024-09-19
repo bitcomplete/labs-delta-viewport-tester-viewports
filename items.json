@@ -1458,7 +1458,7 @@
                 "height": 932
             },
             "releaseDate": "2024-03-08",
-            "discontinuedDate": "N/A",
+            "discontinuedDate": null,
             "devicePixelRatio": 2.0,
             "operatingSystem": "macOS",
             "deviceType": "desktop",
@@ -1496,7 +1496,7 @@
                 "height": 832
             },
             "releaseDate": "2024-03-08",
-            "discontinuedDate": "N/A",
+            "discontinuedDate": null,
             "devicePixelRatio": 2.0,
             "operatingSystem": "macOS",
             "deviceType": "desktop",
@@ -1610,7 +1610,7 @@
                 "height": 1260
             },
             "releaseDate": "2023-11-07",
-            "discontinuedDate": "N/A",
+            "discontinuedDate": null,
             "devicePixelRatio": 2.0,
             "operatingSystem": "macOS",
             "deviceType": "desktop",
@@ -1648,7 +1648,7 @@
                 "height": 1117
             },
             "releaseDate": "2023-11-07",
-            "discontinuedDate": "N/A",
+            "discontinuedDate": null,
             "devicePixelRatio": 2.0,
             "operatingSystem": "macOS",
             "deviceType": "desktop",
@@ -1686,7 +1686,7 @@
                 "height": 982
             },
             "releaseDate": "2023-11-07",
-            "discontinuedDate": "N/A",
+            "discontinuedDate": null,
             "devicePixelRatio": 2.0,
             "operatingSystem": "macOS",
             "deviceType": "desktop",
@@ -1724,7 +1724,7 @@
                 "height": 832
             },
             "releaseDate": "2022-06-06",
-            "discontinuedDate": "N/A",
+            "discontinuedDate": null,
             "devicePixelRatio": 2.0,
             "operatingSystem": "macOS",
             "deviceType": "desktop",
