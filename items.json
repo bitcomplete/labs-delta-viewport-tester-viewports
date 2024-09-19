@@ -1,5 +1,185 @@
 [
     {
+        "id": "id:item:v2024.10.01:desktop-1",
+        "slug": "desktop-1",
+        "active": true,
+        "labels": {
+            "primary": "Desktop #1",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "Desktop #1"
+        ],
+        "attributes": {
+            "popularity": 1,
+            "icons": [
+                "deviceDesktop"
+            ],
+            "width": 1920,
+            "height": 1080
+        },
+        "properties": {
+            "screen": {
+                "width": 1920,
+                "height": 1080
+            },
+            "viewport": {
+                "width": 1920,
+                "height": 1080
+            },
+            "releaseDate": null,
+            "discontinuedDate": null,
+            "devicePixelRatio": null,
+            "operatingSystem": null,
+            "deviceType": "desktop",
+            "brand": null
+        }
+    },
+    {
+        "id": "id:item:v2024.10.01:desktop-2",
+        "slug": "desktop-2",
+        "active": true,
+        "labels": {
+            "primary": "Desktop #2",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "Desktop #2"
+        ],
+        "attributes": {
+            "popularity": 2,
+            "icons": [
+                "deviceDesktop"
+            ],
+            "width": 1366,
+            "height": 768
+        },
+        "properties": {
+            "screen": {
+                "width": 1366,
+                "height": 768
+            },
+            "viewport": {
+                "width": 1366,
+                "height": 768
+            },
+            "releaseDate": null,
+            "discontinuedDate": null,
+            "devicePixelRatio": null,
+            "operatingSystem": null,
+            "deviceType": "desktop",
+            "brand": null
+        }
+    },
+    {
+        "id": "id:item:v2024.10.01:desktop-3",
+        "slug": "desktop-3",
+        "active": true,
+        "labels": {
+            "primary": "Desktop #3",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "Desktop #3"
+        ],
+        "attributes": {
+            "popularity": 3,
+            "icons": [
+                "deviceDesktop"
+            ],
+            "width": 1440,
+            "height": 900
+        },
+        "properties": {
+            "screen": {
+                "width": 1440,
+                "height": 900
+            },
+            "viewport": {
+                "width": 1440,
+                "height": 900
+            },
+            "releaseDate": null,
+            "discontinuedDate": null,
+            "devicePixelRatio": null,
+            "operatingSystem": null,
+            "deviceType": "desktop",
+            "brand": null
+        }
+    },
+    {
+        "id": "id:item:v2024.10.01:desktop-4",
+        "slug": "desktop-4",
+        "active": true,
+        "labels": {
+            "primary": "Desktop #4",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "Desktop #4"
+        ],
+        "attributes": {
+            "popularity": 4,
+            "icons": [
+                "deviceDesktop"
+            ],
+            "width": 1536,
+            "height": 864
+        },
+        "properties": {
+            "screen": {
+                "width": 1536,
+                "height": 864
+            },
+            "viewport": {
+                "width": 1536,
+                "height": 864
+            },
+            "releaseDate": null,
+            "discontinuedDate": null,
+            "devicePixelRatio": null,
+            "operatingSystem": null,
+            "deviceType": "desktop",
+            "brand": null
+        }
+    },
+    {
+        "id": "id:item:v2024.10.01:desktop-5",
+        "slug": "desktop-5",
+        "active": true,
+        "labels": {
+            "primary": "Desktop #5",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "Desktop #5"
+        ],
+        "attributes": {
+            "popularity": 5,
+            "icons": [
+                "deviceDesktop"
+            ],
+            "width": 1600,
+            "height": 900
+        },
+        "properties": {
+            "screen": {
+                "width": 1600,
+                "height": 900
+            },
+            "viewport": {
+                "width": 1600,
+                "height": 900
+            },
+            "releaseDate": null,
+            "discontinuedDate": null,
+            "devicePixelRatio": null,
+            "operatingSystem": null,
+            "deviceType": "desktop",
+            "brand": null
+        }
+    },
+    {
         "id": "id:item:v2024.10.01:ipad-10th-gen",
         "slug": "ipad-10th-gen",
         "active": true,
