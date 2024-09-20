@@ -5007,6 +5007,126 @@
         }
     },
     {
+        "id": "id:item:v2024.10.01:galaxy-s24",
+        "slug": "galaxy-s24",
+        "active": true,
+        "labels": {
+            "primary": "Galaxy S24",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "samsung",
+            "phone",
+            "mobile",
+            "touch"
+        ],
+        "attributes": {
+            "popularity": 31,
+            "icons": [
+                "deviceMobile",
+                "brandAndroid"
+            ],
+            "width": 360,
+            "height": 780
+        },
+        "properties": {
+            "screen": {
+                "width": 1080,
+                "height": 2340
+            },
+            "viewport": {
+                "width": 360,
+                "height": 780
+            },
+            "releaseDate": "2024-01-31",
+            "discontinuedDate": null,
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
+        }
+    },
+    {
+        "id": "id:item:v2024.10.01:galaxy-s24-plus",
+        "slug": "galaxy-s24-plus",
+        "active": true,
+        "labels": {
+            "primary": "Galaxy S24 Plus",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "samsung",
+            "phone",
+            "mobile",
+            "touch"
+        ],
+        "attributes": {
+            "popularity": 31,
+            "icons": [
+                "deviceMobile",
+                "brandAndroid"
+            ],
+            "width": 384,
+            "height": 832
+        },
+        "properties": {
+            "screen": {
+                "width": 1440,
+                "height": 3120
+            },
+            "viewport": {
+                "width": 384,
+                "height": 832
+            },
+            "releaseDate": "2024-01-31",
+            "discontinuedDate": null,
+            "devicePixelRatio": 2.8125,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
+        }
+    },
+    {
+        "id": "id:item:v2024.10.01:galaxy-s24-ultra",
+        "slug": "galaxy-s24-ultra",
+        "active": true,
+        "labels": {
+            "primary": "Galaxy S24 Ultra",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "samsung",
+            "phone",
+            "mobile",
+            "touch"
+        ],
+        "attributes": {
+            "popularity": 31,
+            "icons": [
+                "deviceMobile",
+                "brandAndroid"
+            ],
+            "width": 384,
+            "height": 824
+        },
+        "properties": {
+            "screen": {
+                "width": 1440,
+                "height": 3120
+            },
+            "viewport": {
+                "width": 384,
+                "height": 824
+            },
+            "releaseDate": "2024-01-31",
+            "discontinuedDate": null,
+            "devicePixelRatio": 3.75,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "Samsung"
+        }
+    },
+    {
         "id": "id:item:v2024.10.01:galaxy-s23",
         "slug": "galaxy-s23",
         "active": true,
