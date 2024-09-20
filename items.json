@@ -8,7 +8,7 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "Desktop #1"
+            "desktop"
         ],
         "attributes": {
             "popularity": 1,
@@ -44,7 +44,7 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "Desktop #2"
+            "desktop"
         ],
         "attributes": {
             "popularity": 2,
@@ -80,7 +80,7 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "Desktop #3"
+            "desktop"
         ],
         "attributes": {
             "popularity": 3,
@@ -116,7 +116,7 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "Desktop #4"
+            "desktop"
         ],
         "attributes": {
             "popularity": 4,
@@ -152,7 +152,7 @@
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
-            "Desktop #5"
+            "desktop"
         ],
         "attributes": {
             "popularity": 5,
