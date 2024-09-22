@@ -11,7 +11,10 @@
             "desktop"
         ],
         "attributes": {
-            "popularity": 1,
+            "ranking": {
+                "amongAll": 1,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop"
             ],
@@ -47,7 +50,10 @@
             "desktop"
         ],
         "attributes": {
-            "popularity": 2,
+            "ranking": {
+                "amongAll": 2,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop"
             ],
@@ -83,7 +89,10 @@
             "desktop"
         ],
         "attributes": {
-            "popularity": 3,
+            "ranking": {
+                "amongAll": 3,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop"
             ],
@@ -119,7 +128,10 @@
             "desktop"
         ],
         "attributes": {
-            "popularity": 4,
+            "ranking": {
+                "amongAll": 4,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop"
             ],
@@ -155,7 +167,10 @@
             "desktop"
         ],
         "attributes": {
-            "popularity": 5,
+            "ranking": {
+                "amongAll": 5,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop"
             ],
@@ -194,7 +209,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 68,
+            "ranking": {
+                "amongAll": 68,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceTablet",
                 "brandApple"
@@ -234,7 +252,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 67,
+            "ranking": {
+                "amongAll": 67,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceTablet",
                 "brandApple"
@@ -274,7 +295,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 66,
+            "ranking": {
+                "amongAll": 66,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceTablet",
                 "brandApple"
@@ -314,7 +338,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 65,
+            "ranking": {
+                "amongAll": 65,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceTablet",
                 "brandApple"
@@ -354,7 +381,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 64,
+            "ranking": {
+                "amongAll": 64,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceTablet",
                 "brandApple"
@@ -394,7 +424,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 63,
+            "ranking": {
+                "amongAll": 63,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceTablet",
                 "brandApple"
@@ -434,7 +467,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 62,
+            "ranking": {
+                "amongAll": 62,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceTablet",
                 "brandApple"
@@ -474,7 +510,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 61,
+            "ranking": {
+                "amongAll": 61,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceTablet",
                 "brandApple"
@@ -514,7 +553,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 60,
+            "ranking": {
+                "amongAll": 60,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceTablet",
                 "brandApple"
@@ -554,7 +596,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 59,
+            "ranking": {
+                "amongAll": 59,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceTablet",
                 "brandApple"
@@ -594,7 +639,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 58,
+            "ranking": {
+                "amongAll": 58,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceTablet",
                 "brandApple"
@@ -634,7 +682,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 57,
+            "ranking": {
+                "amongAll": 57,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceTablet",
                 "brandApple"
@@ -674,7 +725,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 56,
+            "ranking": {
+                "amongAll": 56,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceTablet",
                 "brandApple"
@@ -714,7 +768,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 55,
+            "ranking": {
+                "amongAll": 55,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceTablet",
                 "brandApple"
@@ -754,7 +811,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 54,
+            "ranking": {
+                "amongAll": 54,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceTablet",
                 "brandApple"
@@ -794,7 +854,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 53,
+            "ranking": {
+                "amongAll": 53,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceTablet",
                 "brandApple"
@@ -834,7 +897,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 52,
+            "ranking": {
+                "amongAll": 52,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceTablet",
                 "brandApple"
@@ -874,7 +940,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 51,
+            "ranking": {
+                "amongAll": 51,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceTablet",
                 "brandApple"
@@ -914,7 +983,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 50,
+            "ranking": {
+                "amongAll": 50,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceTablet",
                 "brandApple"
@@ -954,7 +1026,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 49,
+            "ranking": {
+                "amongAll": 49,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceTablet",
                 "brandApple"
@@ -994,7 +1069,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 48,
+            "ranking": {
+                "amongAll": 48,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceTablet",
                 "brandApple"
@@ -1034,7 +1112,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 47,
+            "ranking": {
+                "amongAll": 47,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceTablet",
                 "brandApple"
@@ -1074,7 +1155,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 46,
+            "ranking": {
+                "amongAll": 46,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceTablet",
                 "brandApple"
@@ -1114,7 +1198,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 44,
+            "ranking": {
+                "amongAll": 44,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceTablet",
                 "brandAndroid"
@@ -1151,7 +1238,10 @@
             "desktop"
         ],
         "attributes": {
-            "popularity": 95,
+            "ranking": {
+                "amongAll": 95,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop"
             ],
@@ -1187,7 +1277,10 @@
             "desktop"
         ],
         "attributes": {
-            "popularity": 100,
+            "ranking": {
+                "amongAll": 100,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop"
             ],
@@ -1223,7 +1316,10 @@
             "desktop"
         ],
         "attributes": {
-            "popularity": 96,
+            "ranking": {
+                "amongAll": 96,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop"
             ],
@@ -1259,7 +1355,10 @@
             "desktop"
         ],
         "attributes": {
-            "popularity": 94,
+            "ranking": {
+                "amongAll": 94,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop"
             ],
@@ -1295,7 +1394,10 @@
             "desktop"
         ],
         "attributes": {
-            "popularity": 98,
+            "ranking": {
+                "amongAll": 98,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop"
             ],
@@ -1331,7 +1433,10 @@
             "desktop"
         ],
         "attributes": {
-            "popularity": 99,
+            "ranking": {
+                "amongAll": 99,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop"
             ],
@@ -1367,7 +1472,10 @@
             "desktop"
         ],
         "attributes": {
-            "popularity": 93,
+            "ranking": {
+                "amongAll": 93,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop"
             ],
@@ -1403,7 +1511,10 @@
             "desktop"
         ],
         "attributes": {
-            "popularity": 97,
+            "ranking": {
+                "amongAll": 97,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop"
             ],
@@ -1440,7 +1551,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 92,
+            "ranking": {
+                "amongAll": 92,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop",
                 "brandApple"
@@ -1478,7 +1592,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 91,
+            "ranking": {
+                "amongAll": 91,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop",
                 "brandApple"
@@ -1516,7 +1633,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 90,
+            "ranking": {
+                "amongAll": 90,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop",
                 "brandApple"
@@ -1554,7 +1674,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 89,
+            "ranking": {
+                "amongAll": 89,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop",
                 "brandApple"
@@ -1592,7 +1715,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 88,
+            "ranking": {
+                "amongAll": 88,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop",
                 "brandApple"
@@ -1630,7 +1756,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 87,
+            "ranking": {
+                "amongAll": 87,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop",
                 "brandApple"
@@ -1668,7 +1797,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 86,
+            "ranking": {
+                "amongAll": 86,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop",
                 "brandApple"
@@ -1706,7 +1838,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 85,
+            "ranking": {
+                "amongAll": 85,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop",
                 "brandApple"
@@ -1744,7 +1879,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 84,
+            "ranking": {
+                "amongAll": 84,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop",
                 "brandApple"
@@ -1782,7 +1920,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 83,
+            "ranking": {
+                "amongAll": 83,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop",
                 "brandApple"
@@ -1820,7 +1961,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 82,
+            "ranking": {
+                "amongAll": 82,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop",
                 "brandApple"
@@ -1858,7 +2002,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 81,
+            "ranking": {
+                "amongAll": 81,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop",
                 "brandApple"
@@ -1896,7 +2043,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 80,
+            "ranking": {
+                "amongAll": 80,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop",
                 "brandApple"
@@ -1934,7 +2084,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 79,
+            "ranking": {
+                "amongAll": 79,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop",
                 "brandApple"
@@ -1972,7 +2125,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 78,
+            "ranking": {
+                "amongAll": 78,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop",
                 "brandApple"
@@ -2010,7 +2166,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 77,
+            "ranking": {
+                "amongAll": 77,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop",
                 "brandApple"
@@ -2048,7 +2207,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 76,
+            "ranking": {
+                "amongAll": 76,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop",
                 "brandApple"
@@ -2086,7 +2248,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 75,
+            "ranking": {
+                "amongAll": 75,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop",
                 "brandApple"
@@ -2124,7 +2289,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 74,
+            "ranking": {
+                "amongAll": 74,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop",
                 "brandApple"
@@ -2162,7 +2330,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 73,
+            "ranking": {
+                "amongAll": 73,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop",
                 "brandApple"
@@ -2200,7 +2371,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 72,
+            "ranking": {
+                "amongAll": 72,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop",
                 "brandApple"
@@ -2238,7 +2412,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 71,
+            "ranking": {
+                "amongAll": 71,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop",
                 "brandApple"
@@ -2276,7 +2453,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 70,
+            "ranking": {
+                "amongAll": 70,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop",
                 "brandApple"
@@ -2314,7 +2494,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 69,
+            "ranking": {
+                "amongAll": 69,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop",
                 "brandApple"
@@ -2352,7 +2535,10 @@
             "desktop"
         ],
         "attributes": {
-            "popularity": 0,
+            "ranking": {
+                "amongAll": 0,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop"
             ],
@@ -2389,7 +2575,10 @@
             "desktop"
         ],
         "attributes": {
-            "popularity": 0,
+            "ranking": {
+                "amongAll": 0,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop"
             ],
@@ -2426,7 +2615,10 @@
             "desktop"
         ],
         "attributes": {
-            "popularity": 0,
+            "ranking": {
+                "amongAll": 0,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop"
             ],
@@ -2463,7 +2655,10 @@
             "desktop"
         ],
         "attributes": {
-            "popularity": 0,
+            "ranking": {
+                "amongAll": 0,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop"
             ],
@@ -2500,7 +2695,10 @@
             "desktop"
         ],
         "attributes": {
-            "popularity": 0,
+            "ranking": {
+                "amongAll": 0,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop"
             ],
@@ -2537,7 +2735,10 @@
             "desktop"
         ],
         "attributes": {
-            "popularity": 0,
+            "ranking": {
+                "amongAll": 0,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop"
             ],
@@ -2574,7 +2775,10 @@
             "desktop"
         ],
         "attributes": {
-            "popularity": 0,
+            "ranking": {
+                "amongAll": 0,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop"
             ],
@@ -2611,7 +2815,10 @@
             "desktop"
         ],
         "attributes": {
-            "popularity": 0,
+            "ranking": {
+                "amongAll": 0,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop"
             ],
@@ -2648,7 +2855,10 @@
             "desktop"
         ],
         "attributes": {
-            "popularity": 0,
+            "ranking": {
+                "amongAll": 0,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop"
             ],
@@ -2685,7 +2895,10 @@
             "desktop"
         ],
         "attributes": {
-            "popularity": 0,
+            "ranking": {
+                "amongAll": 0,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop"
             ],
@@ -2722,7 +2935,10 @@
             "desktop"
         ],
         "attributes": {
-            "popularity": 0,
+            "ranking": {
+                "amongAll": 0,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceDesktop"
             ],
@@ -2761,7 +2977,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 44,
+            "ranking": {
+                "amongAll": 44,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -2801,7 +3020,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 44,
+            "ranking": {
+                "amongAll": 44,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -2841,7 +3063,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 44,
+            "ranking": {
+                "amongAll": 44,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -2881,7 +3106,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 44,
+            "ranking": {
+                "amongAll": 44,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -2921,7 +3149,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 43,
+            "ranking": {
+                "amongAll": 43,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -2961,7 +3192,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 40,
+            "ranking": {
+                "amongAll": 40,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -3001,7 +3235,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 41,
+            "ranking": {
+                "amongAll": 41,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -3041,7 +3278,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 42,
+            "ranking": {
+                "amongAll": 42,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -3081,7 +3321,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 39,
+            "ranking": {
+                "amongAll": 39,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -3121,7 +3364,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 36,
+            "ranking": {
+                "amongAll": 36,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -3161,7 +3407,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 37,
+            "ranking": {
+                "amongAll": 37,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -3201,7 +3450,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 38,
+            "ranking": {
+                "amongAll": 38,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -3241,7 +3493,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 32,
+            "ranking": {
+                "amongAll": 32,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -3281,7 +3536,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 32,
+            "ranking": {
+                "amongAll": 32,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -3321,7 +3579,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 35,
+            "ranking": {
+                "amongAll": 35,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -3361,7 +3622,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 33,
+            "ranking": {
+                "amongAll": 33,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -3401,7 +3665,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 34,
+            "ranking": {
+                "amongAll": 34,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -3441,7 +3708,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 32,
+            "ranking": {
+                "amongAll": 32,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -3481,7 +3751,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 32,
+            "ranking": {
+                "amongAll": 32,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -3521,7 +3794,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 32,
+            "ranking": {
+                "amongAll": 32,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -3561,7 +3837,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 32,
+            "ranking": {
+                "amongAll": 32,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -3601,7 +3880,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 32,
+            "ranking": {
+                "amongAll": 32,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -3641,7 +3923,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 32,
+            "ranking": {
+                "amongAll": 32,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -3681,7 +3966,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 32,
+            "ranking": {
+                "amongAll": 32,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -3721,7 +4009,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 32,
+            "ranking": {
+                "amongAll": 32,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -3761,7 +4052,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 32,
+            "ranking": {
+                "amongAll": 32,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -3801,7 +4095,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 32,
+            "ranking": {
+                "amongAll": 32,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -3841,7 +4138,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 32,
+            "ranking": {
+                "amongAll": 32,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -3881,7 +4181,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 32,
+            "ranking": {
+                "amongAll": 32,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -3921,7 +4224,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 32,
+            "ranking": {
+                "amongAll": 32,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -3961,7 +4267,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 32,
+            "ranking": {
+                "amongAll": 32,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -4001,7 +4310,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 32,
+            "ranking": {
+                "amongAll": 32,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -4041,7 +4353,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 32,
+            "ranking": {
+                "amongAll": 32,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -4081,7 +4396,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 32,
+            "ranking": {
+                "amongAll": 32,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -4121,7 +4439,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 32,
+            "ranking": {
+                "amongAll": 32,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -4161,7 +4482,10 @@
             "apple"
         ],
         "attributes": {
-            "popularity": 32,
+            "ranking": {
+                "amongAll": 32,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandApple"
@@ -4201,7 +4525,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 22,
+            "ranking": {
+                "amongAll": 22,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandGoogle",
@@ -4242,7 +4569,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 22,
+            "ranking": {
+                "amongAll": 22,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandGoogle",
@@ -4283,7 +4613,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 22,
+            "ranking": {
+                "amongAll": 22,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandGoogle",
@@ -4324,7 +4657,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 22,
+            "ranking": {
+                "amongAll": 22,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandGoogle",
@@ -4365,7 +4701,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 22,
+            "ranking": {
+                "amongAll": 22,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandGoogle",
@@ -4406,7 +4745,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 22,
+            "ranking": {
+                "amongAll": 22,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandGoogle",
@@ -4447,7 +4789,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 22,
+            "ranking": {
+                "amongAll": 22,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandGoogle",
@@ -4488,7 +4833,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 22,
+            "ranking": {
+                "amongAll": 22,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandGoogle",
@@ -4529,7 +4877,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 22,
+            "ranking": {
+                "amongAll": 22,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandGoogle",
@@ -4570,7 +4921,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 22,
+            "ranking": {
+                "amongAll": 22,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandGoogle",
@@ -4611,7 +4965,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 22,
+            "ranking": {
+                "amongAll": 22,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandGoogle",
@@ -4652,7 +5009,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 22,
+            "ranking": {
+                "amongAll": 22,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandGoogle",
@@ -4693,7 +5053,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 22,
+            "ranking": {
+                "amongAll": 22,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandGoogle",
@@ -4734,7 +5097,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 22,
+            "ranking": {
+                "amongAll": 22,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandGoogle",
@@ -4775,7 +5141,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 22,
+            "ranking": {
+                "amongAll": 22,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandGoogle",
@@ -4816,7 +5185,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 22,
+            "ranking": {
+                "amongAll": 22,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandGoogle",
@@ -4857,7 +5229,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 22,
+            "ranking": {
+                "amongAll": 22,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandGoogle",
@@ -4898,7 +5273,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 22,
+            "ranking": {
+                "amongAll": 22,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandGoogle",
@@ -4939,7 +5317,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 22,
+            "ranking": {
+                "amongAll": 22,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandGoogle",
@@ -4980,7 +5361,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 22,
+            "ranking": {
+                "amongAll": 22,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandGoogle",
@@ -5021,7 +5405,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 31,
+            "ranking": {
+                "amongAll": 31,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
@@ -5061,7 +5448,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 31,
+            "ranking": {
+                "amongAll": 31,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
@@ -5101,7 +5491,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 31,
+            "ranking": {
+                "amongAll": 31,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
@@ -5141,7 +5534,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 30,
+            "ranking": {
+                "amongAll": 30,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
@@ -5181,7 +5577,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 23,
+            "ranking": {
+                "amongAll": 23,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
@@ -5221,7 +5620,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 31,
+            "ranking": {
+                "amongAll": 31,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
@@ -5261,7 +5663,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 23,
+            "ranking": {
+                "amongAll": 23,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
@@ -5301,7 +5706,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 23,
+            "ranking": {
+                "amongAll": 23,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
@@ -5341,7 +5749,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 29,
+            "ranking": {
+                "amongAll": 29,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
@@ -5381,7 +5792,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 23,
+            "ranking": {
+                "amongAll": 23,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
@@ -5421,7 +5835,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 23,
+            "ranking": {
+                "amongAll": 23,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
@@ -5461,7 +5878,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 23,
+            "ranking": {
+                "amongAll": 23,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
@@ -5501,7 +5921,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 23,
+            "ranking": {
+                "amongAll": 23,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
@@ -5541,7 +5964,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 23,
+            "ranking": {
+                "amongAll": 23,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
@@ -5581,7 +6007,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 23,
+            "ranking": {
+                "amongAll": 23,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
@@ -5621,7 +6050,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 23,
+            "ranking": {
+                "amongAll": 23,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
@@ -5661,7 +6093,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 23,
+            "ranking": {
+                "amongAll": 23,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
@@ -5701,7 +6136,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 23,
+            "ranking": {
+                "amongAll": 23,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
@@ -5741,7 +6179,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 23,
+            "ranking": {
+                "amongAll": 23,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
@@ -5781,7 +6222,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 23,
+            "ranking": {
+                "amongAll": 23,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
@@ -5821,7 +6265,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 23,
+            "ranking": {
+                "amongAll": 23,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
@@ -5861,7 +6308,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 23,
+            "ranking": {
+                "amongAll": 23,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
@@ -5901,7 +6351,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 23,
+            "ranking": {
+                "amongAll": 23,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
@@ -5941,7 +6394,10 @@
             "touch"
         ],
         "attributes": {
-            "popularity": 24,
+            "ranking": {
+                "amongAll": 24,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
@@ -5981,7 +6437,10 @@
             "lg"
         ],
         "attributes": {
-            "popularity": 21,
+            "ranking": {
+                "amongAll": 21,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
@@ -6021,7 +6480,10 @@
             "lg"
         ],
         "attributes": {
-            "popularity": 21,
+            "ranking": {
+                "amongAll": 21,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
@@ -6061,7 +6523,10 @@
             "mobile"
         ],
         "attributes": {
-            "popularity": 20,
+            "ranking": {
+                "amongAll": 20,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
@@ -6101,7 +6566,10 @@
             "huawei"
         ],
         "attributes": {
-            "popularity": 19,
+            "ranking": {
+                "amongAll": 19,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
@@ -6141,7 +6609,10 @@
             "huawei"
         ],
         "attributes": {
-            "popularity": 19,
+            "ranking": {
+                "amongAll": 19,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
@@ -6181,7 +6652,10 @@
             "huawei"
         ],
         "attributes": {
-            "popularity": 19,
+            "ranking": {
+                "amongAll": 19,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
@@ -6221,7 +6695,10 @@
             "xiaomi"
         ],
         "attributes": {
-            "popularity": 18,
+            "ranking": {
+                "amongAll": 18,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
@@ -6261,7 +6738,10 @@
             "xiaomi"
         ],
         "attributes": {
-            "popularity": 18,
+            "ranking": {
+                "amongAll": 18,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
@@ -6301,7 +6781,10 @@
             "xiaomi"
         ],
         "attributes": {
-            "popularity": 18,
+            "ranking": {
+                "amongAll": 18,
+                "amongBrand": 0
+            },
             "icons": [
                 "deviceMobile",
                 "brandAndroid"
