@@ -6509,6 +6509,92 @@
         }
     },
     {
+        "id": "id:item:v2024.10.01:oneplus-ace-3-pro",
+        "slug": "oneplus-ace-3-pro",
+        "active": true,
+        "labels": {
+            "primary": "OnePlus Ace 3 Pro",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "touch",
+            "phone",
+            "oneplus",
+            "mobile"
+        ],
+        "attributes": {
+            "ranking": {
+                "amongAll": 0,
+                "amongBrand": 2
+            },
+            "icons": [
+                "deviceMobile",
+                "brandAndroid"
+            ],
+            "width": 422,
+            "height": 927
+        },
+        "properties": {
+            "screen": {
+                "width": 1264,
+                "height": 2780
+            },
+            "viewport": {
+                "width": 422,
+                "height": 927
+            },
+            "releaseDate": "2024-07-03",
+            "discontinuedDate": null,
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "OnePlus"
+        }
+    },
+    {
+        "id": "id:item:v2024.10.01:oneplus-ace-3v",
+        "slug": "oneplus-ace-3v",
+        "active": true,
+        "labels": {
+            "primary": "OnePlus Ace 3V",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "touch",
+            "phone",
+            "oneplus",
+            "mobile"
+        ],
+        "attributes": {
+            "ranking": {
+                "amongAll": 0,
+                "amongBrand": 3
+            },
+            "icons": [
+                "deviceMobile",
+                "brandAndroid"
+            ],
+            "width": 414,
+            "height": 924
+        },
+        "properties": {
+            "screen": {
+                "width": 1240,
+                "height": 2772
+            },
+            "viewport": {
+                "width": 414,
+                "height": 924
+            },
+            "releaseDate": "2024-03-25",
+            "discontinuedDate": null,
+            "devicePixelRatio": 3.0,
+            "operatingSystem": "Android",
+            "deviceType": "phone",
+            "brand": "OnePlus"
+        }
+    },
+    {
         "id": "id:item:v2024.10.01:oneplus-5t",
         "slug": "oneplus-5t",
         "active": true,
@@ -6524,8 +6610,8 @@
         ],
         "attributes": {
             "ranking": {
-                "amongAll": 20,
-                "amongBrand": 0
+                "amongAll": 0,
+                "amongBrand": 1
             },
             "icons": [
                 "deviceMobile",
