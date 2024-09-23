@@ -12,7 +12,7 @@
         ],
         "attributes": {
             "ranking": {
-                "amongAll": 20,
+                "amongAll": 16,
                 "amongBrand": 13
             },
             "icons": [
@@ -51,8 +51,8 @@
         ],
         "attributes": {
             "ranking": {
-                "amongAll": 19,
-                "amongBrand": 12
+                "amongAll": 0,
+                "amongBrand": 11
             },
             "icons": [
                 "deviceDesktop"
@@ -90,8 +90,8 @@
         ],
         "attributes": {
             "ranking": {
-                "amongAll": 18,
-                "amongBrand": 11
+                "amongAll": 0,
+                "amongBrand": 6
             },
             "icons": [
                 "deviceDesktop"
@@ -129,8 +129,8 @@
         ],
         "attributes": {
             "ranking": {
-                "amongAll": 17,
-                "amongBrand": 10
+                "amongAll": 0,
+                "amongBrand": 9
             },
             "icons": [
                 "deviceDesktop"
@@ -168,8 +168,8 @@
         ],
         "attributes": {
             "ranking": {
-                "amongAll": 16,
-                "amongBrand": 9
+                "amongAll": 0,
+                "amongBrand": 1
             },
             "icons": [
                 "deviceDesktop"
@@ -1450,7 +1450,7 @@
         "attributes": {
             "ranking": {
                 "amongAll": 0,
-                "amongBrand": 3
+                "amongBrand": 4
             },
             "icons": [
                 "deviceDesktop"
@@ -1489,7 +1489,7 @@
         "attributes": {
             "ranking": {
                 "amongAll": 0,
-                "amongBrand": 8
+                "amongBrand": 12
             },
             "icons": [
                 "deviceDesktop"
@@ -1528,7 +1528,7 @@
         "attributes": {
             "ranking": {
                 "amongAll": 0,
-                "amongBrand": 4
+                "amongBrand": 5
             },
             "icons": [
                 "deviceDesktop"
@@ -1567,7 +1567,7 @@
         "attributes": {
             "ranking": {
                 "amongAll": 0,
-                "amongBrand": 2
+                "amongBrand": 3
             },
             "icons": [
                 "deviceDesktop"
@@ -1606,7 +1606,7 @@
         "attributes": {
             "ranking": {
                 "amongAll": 0,
-                "amongBrand": 6
+                "amongBrand": 8
             },
             "icons": [
                 "deviceDesktop"
@@ -1645,7 +1645,7 @@
         "attributes": {
             "ranking": {
                 "amongAll": 0,
-                "amongBrand": 7
+                "amongBrand": 10
             },
             "icons": [
                 "deviceDesktop"
@@ -1684,7 +1684,7 @@
         "attributes": {
             "ranking": {
                 "amongAll": 0,
-                "amongBrand": 1
+                "amongBrand": 2
             },
             "icons": [
                 "deviceDesktop"
@@ -1723,7 +1723,7 @@
         "attributes": {
             "ranking": {
                 "amongAll": 0,
-                "amongBrand": 5
+                "amongBrand": 7
             },
             "icons": [
                 "deviceDesktop"
