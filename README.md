@@ -13,7 +13,7 @@ please submit a PR so we can maintain this JSON database of viewports.
 ## Share your ideas/feedback
 You can reach us at
 [hello@viewport-tester.com](mailto:hello@viewport-tester.com) with any ideas,
-issues you've noticed, or you problems that you'd prefer not to post on our
+questions, or issues you've noticed that you'd prefer not to post on our
 [issues](https://github.com/bitcomplete/labs-delta-viewport-tester-viewports/issues)
 page.
 
