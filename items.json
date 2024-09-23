@@ -1199,8 +1199,8 @@
         ],
         "attributes": {
             "ranking": {
-                "amongAll": 44,
-                "amongBrand": 0
+                "amongAll": 0,
+                "amongBrand": 1
             },
             "icons": [
                 "deviceTablet",
