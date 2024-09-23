@@ -6903,8 +6903,8 @@
         ],
         "attributes": {
             "ranking": {
-                "amongAll": 19,
-                "amongBrand": 0
+                "amongAll": 0,
+                "amongBrand": 12
             },
             "icons": [
                 "deviceMobile",
@@ -6946,8 +6946,8 @@
         ],
         "attributes": {
             "ranking": {
-                "amongAll": 19,
-                "amongBrand": 0
+                "amongAll": 0,
+                "amongBrand": 9
             },
             "icons": [
                 "deviceMobile",
@@ -6989,8 +6989,8 @@
         ],
         "attributes": {
             "ranking": {
-                "amongAll": 19,
-                "amongBrand": 0
+                "amongAll": 0,
+                "amongBrand": 4
             },
             "icons": [
                 "deviceMobile",
@@ -7011,6 +7011,522 @@
             "releaseDate": "2020-04-22",
             "discontinuedDate": null,
             "devicePixelRatio": 3.0,
+            "operatingSystem": "HarmonyOS",
+            "deviceType": "phone",
+            "brand": "Huawei"
+        }
+    },
+    {
+        "id": "id:item:v2024.10.01:mate-x5",
+        "slug": "mate-x5",
+        "active": true,
+        "labels": {
+            "primary": "Mate X5",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "touch",
+            "phone",
+            "mobile",
+            "huawei"
+        ],
+        "attributes": {
+            "ranking": {
+                "amongAll": 0,
+                "amongBrand": 11
+            },
+            "icons": [
+                "deviceMobile",
+                "brandAndroid"
+            ],
+            "width": 659,
+            "height": 740
+        },
+        "properties": {
+            "screen": {
+                "width": 2224,
+                "height": 2496
+            },
+            "viewport": {
+                "width": 659,
+                "height": 740
+            },
+            "releaseDate": "2023-09-16",
+            "discontinuedDate": null,
+            "devicePixelRatio": 3.375,
+            "operatingSystem": "HarmonyOS",
+            "deviceType": "phone",
+            "brand": "Huawei"
+        }
+    },
+    {
+        "id": "id:item:v2024.10.01:pocket-2",
+        "slug": "pocket-2",
+        "active": true,
+        "labels": {
+            "primary": "Pocket 2",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "touch",
+            "phone",
+            "mobile",
+            "huawei"
+        ],
+        "attributes": {
+            "ranking": {
+                "amongAll": 0,
+                "amongBrand": 6
+            },
+            "icons": [
+                "deviceMobile",
+                "brandAndroid"
+            ],
+            "width": 364,
+            "height": 861
+        },
+        "properties": {
+            "screen": {
+                "width": 1136,
+                "height": 2690
+            },
+            "viewport": {
+                "width": 364,
+                "height": 861
+            },
+            "releaseDate": "2024-02-22",
+            "discontinuedDate": null,
+            "devicePixelRatio": 3.125,
+            "operatingSystem": "HarmonyOS",
+            "deviceType": "phone",
+            "brand": "Huawei"
+        }
+    },
+    {
+        "id": "id:item:v2024.10.01:mate-60-pro-plus",
+        "slug": "mate-60-pro-plus",
+        "active": true,
+        "labels": {
+            "primary": "Mate 60 Pro Plus",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "touch",
+            "phone",
+            "mobile",
+            "huawei"
+        ],
+        "attributes": {
+            "ranking": {
+                "amongAll": 0,
+                "amongBrand": 14
+            },
+            "icons": [
+                "deviceMobile",
+                "brandAndroid"
+            ],
+            "width": 388,
+            "height": 837
+        },
+        "properties": {
+            "screen": {
+                "width": 1260,
+                "height": 2720
+            },
+            "viewport": {
+                "width": 388,
+                "height": 837
+            },
+            "releaseDate": "2023-09-27",
+            "discontinuedDate": null,
+            "devicePixelRatio": 3.25,
+            "operatingSystem": "HarmonyOS",
+            "deviceType": "phone",
+            "brand": "Huawei"
+        }
+    },
+    {
+        "id": "id:item:v2024.10.01:mate-60-pro",
+        "slug": "mate-60-pro",
+        "active": true,
+        "labels": {
+            "primary": "Mate 60 Pro",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "touch",
+            "phone",
+            "mobile",
+            "huawei"
+        ],
+        "attributes": {
+            "ranking": {
+                "amongAll": 0,
+                "amongBrand": 15
+            },
+            "icons": [
+                "deviceMobile",
+                "brandAndroid"
+            ],
+            "width": 388,
+            "height": 837
+        },
+        "properties": {
+            "screen": {
+                "width": 1260,
+                "height": 2720
+            },
+            "viewport": {
+                "width": 388,
+                "height": 837
+            },
+            "releaseDate": "2023-08-29",
+            "discontinuedDate": null,
+            "devicePixelRatio": 3.25,
+            "operatingSystem": "HarmonyOS",
+            "deviceType": "phone",
+            "brand": "Huawei"
+        }
+    },
+    {
+        "id": "id:item:v2024.10.01:mate-60",
+        "slug": "mate-60",
+        "active": true,
+        "labels": {
+            "primary": "Mate 60",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "touch",
+            "phone",
+            "mobile",
+            "huawei"
+        ],
+        "attributes": {
+            "ranking": {
+                "amongAll": 0,
+                "amongBrand": 13
+            },
+            "icons": [
+                "deviceMobile",
+                "brandAndroid"
+            ],
+            "width": 375,
+            "height": 827
+        },
+        "properties": {
+            "screen": {
+                "width": 1216,
+                "height": 2688
+            },
+            "viewport": {
+                "width": 375,
+                "height": 827
+            },
+            "releaseDate": "2023-09-10",
+            "discontinuedDate": null,
+            "devicePixelRatio": 3.25,
+            "operatingSystem": "HarmonyOS",
+            "deviceType": "phone",
+            "brand": "Huawei"
+        }
+    },
+    {
+        "id": "id:item:v2024.10.01:pura-70-pro-plus",
+        "slug": "pura-70-pro-plus",
+        "active": true,
+        "labels": {
+            "primary": "Pura 70 Pro Plus",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "touch",
+            "phone",
+            "mobile",
+            "huawei"
+        ],
+        "attributes": {
+            "ranking": {
+                "amongAll": 0,
+                "amongBrand": 3
+            },
+            "icons": [
+                "deviceMobile",
+                "brandAndroid"
+            ],
+            "width": 374,
+            "height": 843
+        },
+        "properties": {
+            "screen": {
+                "width": 1260,
+                "height": 2844
+            },
+            "viewport": {
+                "width": 374,
+                "height": 843
+            },
+            "releaseDate": "2024-04-29",
+            "discontinuedDate": null,
+            "devicePixelRatio": 3.375,
+            "operatingSystem": "HarmonyOS",
+            "deviceType": "phone",
+            "brand": "Huawei"
+        }
+    },
+    {
+        "id": "id:item:v2024.10.01:pura-70-pro",
+        "slug": "pura-70-pro",
+        "active": true,
+        "labels": {
+            "primary": "Pura 70 Pro",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "touch",
+            "phone",
+            "mobile",
+            "huawei"
+        ],
+        "attributes": {
+            "ranking": {
+                "amongAll": 0,
+                "amongBrand": 2
+            },
+            "icons": [
+                "deviceMobile",
+                "brandAndroid"
+            ],
+            "width": 374,
+            "height": 843
+        },
+        "properties": {
+            "screen": {
+                "width": 1260,
+                "height": 2844
+            },
+            "viewport": {
+                "width": 374,
+                "height": 843
+            },
+            "releaseDate": "2024-04-29",
+            "discontinuedDate": null,
+            "devicePixelRatio": 3.375,
+            "operatingSystem": "HarmonyOS",
+            "deviceType": "phone",
+            "brand": "Huawei"
+        }
+    },
+    {
+        "id": "id:item:v2024.10.01:pura-70",
+        "slug": "pura-70",
+        "active": true,
+        "labels": {
+            "primary": "Pura 70",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "touch",
+            "phone",
+            "mobile",
+            "huawei"
+        ],
+        "attributes": {
+            "ranking": {
+                "amongAll": 0,
+                "amongBrand": 1
+            },
+            "icons": [
+                "deviceMobile",
+                "brandAndroid"
+            ],
+            "width": 373,
+            "height": 818
+        },
+        "properties": {
+            "screen": {
+                "width": 1256,
+                "height": 2760
+            },
+            "viewport": {
+                "width": 373,
+                "height": 818
+            },
+            "releaseDate": "2024-05-06",
+            "discontinuedDate": null,
+            "devicePixelRatio": 3.375,
+            "operatingSystem": "HarmonyOS",
+            "deviceType": "phone",
+            "brand": "Huawei"
+        }
+    },
+    {
+        "id": "id:item:v2024.10.01:pura-70-ultra",
+        "slug": "pura-70-ultra",
+        "active": true,
+        "labels": {
+            "primary": "Pura 70 Ultra",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "touch",
+            "phone",
+            "mobile",
+            "huawei"
+        ],
+        "attributes": {
+            "ranking": {
+                "amongAll": 0,
+                "amongBrand": 5
+            },
+            "icons": [
+                "deviceMobile",
+                "brandAndroid"
+            ],
+            "width": 374,
+            "height": 843
+        },
+        "properties": {
+            "screen": {
+                "width": 1260,
+                "height": 2844
+            },
+            "viewport": {
+                "width": 374,
+                "height": 843
+            },
+            "releaseDate": "2024-04-29",
+            "discontinuedDate": null,
+            "devicePixelRatio": 3.375,
+            "operatingSystem": "HarmonyOS",
+            "deviceType": "phone",
+            "brand": "Huawei"
+        }
+    },
+    {
+        "id": "id:item:v2024.10.01:nova-flip",
+        "slug": "nova-flip",
+        "active": true,
+        "labels": {
+            "primary": "nova Flip",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "touch",
+            "phone",
+            "mobile",
+            "huawei"
+        ],
+        "attributes": {
+            "ranking": {
+                "amongAll": 0,
+                "amongBrand": 10
+            },
+            "icons": [
+                "deviceMobile",
+                "brandAndroid"
+            ],
+            "width": 364,
+            "height": 861
+        },
+        "properties": {
+            "screen": {
+                "width": 1136,
+                "height": 2690
+            },
+            "viewport": {
+                "width": 364,
+                "height": 861
+            },
+            "releaseDate": "2024-08-10",
+            "discontinuedDate": null,
+            "devicePixelRatio": 3.125,
+            "operatingSystem": "HarmonyOS",
+            "deviceType": "phone",
+            "brand": "Huawei"
+        }
+    },
+    {
+        "id": "id:item:v2024.10.01:nova-12-ultra",
+        "slug": "nova-12-ultra",
+        "active": true,
+        "labels": {
+            "primary": "nova 12 Ultra",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "touch",
+            "phone",
+            "mobile",
+            "huawei"
+        ],
+        "attributes": {
+            "ranking": {
+                "amongAll": 0,
+                "amongBrand": 8
+            },
+            "icons": [
+                "deviceMobile",
+                "brandAndroid"
+            ],
+            "width": 414,
+            "height": 939
+        },
+        "properties": {
+            "screen": {
+                "width": 1224,
+                "height": 2776
+            },
+            "viewport": {
+                "width": 414,
+                "height": 939
+            },
+            "releaseDate": "2024-01-12",
+            "discontinuedDate": null,
+            "devicePixelRatio": 2.956,
+            "operatingSystem": "HarmonyOS",
+            "deviceType": "phone",
+            "brand": "Huawei"
+        }
+    },
+    {
+        "id": "id:item:v2024.10.01:nova-12-pro",
+        "slug": "nova-12-pro",
+        "active": true,
+        "labels": {
+            "primary": "nova 12 Pro",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "touch",
+            "phone",
+            "mobile",
+            "huawei"
+        ],
+        "attributes": {
+            "ranking": {
+                "amongAll": 0,
+                "amongBrand": 7
+            },
+            "icons": [
+                "deviceMobile",
+                "brandAndroid"
+            ],
+            "width": 414,
+            "height": 939
+        },
+        "properties": {
+            "screen": {
+                "width": 1224,
+                "height": 2776
+            },
+            "viewport": {
+                "width": 414,
+                "height": 939
+            },
+            "releaseDate": "2024-01-05",
+            "discontinuedDate": null,
+            "devicePixelRatio": 2.956,
             "operatingSystem": "HarmonyOS",
             "deviceType": "phone",
             "brand": "Huawei"
