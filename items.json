@@ -6696,8 +6696,8 @@
         ],
         "attributes": {
             "ranking": {
-                "amongAll": 18,
-                "amongBrand": 0
+                "amongAll": 0,
+                "amongBrand": 1
             },
             "icons": [
                 "deviceMobile",
@@ -6739,8 +6739,8 @@
         ],
         "attributes": {
             "ranking": {
-                "amongAll": 18,
-                "amongBrand": 0
+                "amongAll": 0,
+                "amongBrand": 2
             },
             "icons": [
                 "deviceMobile",
@@ -6782,8 +6782,8 @@
         ],
         "attributes": {
             "ranking": {
-                "amongAll": 18,
-                "amongBrand": 0
+                "amongAll": 0,
+                "amongBrand": 3
             },
             "icons": [
                 "deviceMobile",
