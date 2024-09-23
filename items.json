@@ -1227,6 +1227,216 @@
         }
     },
     {
+        "id": "id:item:v2024.10.01:matepad-pro-13-2",
+        "slug": "matepad-pro-13-2",
+        "active": true,
+        "labels": {
+            "primary": "MatePad Pro 13.2\"",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "tablet",
+            "touch",
+            "mobile",
+            "huawei"
+        ],
+        "attributes": {
+            "ranking": {
+                "amongAll": 0,
+                "amongBrand": 3
+            },
+            "icons": [
+                "deviceTablet"
+            ],
+            "width": 960,
+            "height": 1440
+        },
+        "properties": {
+            "screen": {
+                "width": 1920,
+                "height": 2880
+            },
+            "viewport": {
+                "width": 960,
+                "height": 1440
+            },
+            "releaseDate": "2023-09-26",
+            "discontinuedDate": null,
+            "devicePixelRatio": 2.0,
+            "operatingSystem": "HarmonyOS",
+            "deviceType": "tablet",
+            "brand": "Huawei"
+        }
+    },
+    {
+        "id": "id:item:v2024.10.01:matepad-pro-11",
+        "slug": "matepad-pro-11",
+        "active": true,
+        "labels": {
+            "primary": "MatePad Pro 11\"",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "tablet",
+            "touch",
+            "mobile",
+            "huawei"
+        ],
+        "attributes": {
+            "ranking": {
+                "amongAll": 0,
+                "amongBrand": 5
+            },
+            "icons": [
+                "deviceTablet"
+            ],
+            "width": 640,
+            "height": 1024
+        },
+        "properties": {
+            "screen": {
+                "width": 1600,
+                "height": 2560
+            },
+            "viewport": {
+                "width": 640,
+                "height": 1024
+            },
+            "releaseDate": "2023-12-18",
+            "discontinuedDate": null,
+            "devicePixelRatio": 2.5,
+            "operatingSystem": "HarmonyOS",
+            "deviceType": "tablet",
+            "brand": "Huawei"
+        }
+    },
+    {
+        "id": "id:item:v2024.10.01:matepad-11-5-s",
+        "slug": "matepad-11-5-s",
+        "active": true,
+        "labels": {
+            "primary": "MatePad 11.5\" S",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "tablet",
+            "touch",
+            "mobile",
+            "huawei"
+        ],
+        "attributes": {
+            "ranking": {
+                "amongAll": 0,
+                "amongBrand": 2
+            },
+            "icons": [
+                "deviceTablet"
+            ],
+            "width": 736,
+            "height": 1120
+        },
+        "properties": {
+            "screen": {
+                "width": 1840,
+                "height": 2800
+            },
+            "viewport": {
+                "width": 736,
+                "height": 1120
+            },
+            "releaseDate": "2024-05-08",
+            "discontinuedDate": null,
+            "devicePixelRatio": 2.5,
+            "operatingSystem": "HarmonyOS",
+            "deviceType": "tablet",
+            "brand": "Huawei"
+        }
+    },
+    {
+        "id": "id:item:v2024.10.01:matepad-air",
+        "slug": "matepad-air",
+        "active": true,
+        "labels": {
+            "primary": "MatePad Air",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "tablet",
+            "touch",
+            "mobile",
+            "huawei"
+        ],
+        "attributes": {
+            "ranking": {
+                "amongAll": 0,
+                "amongBrand": 1
+            },
+            "icons": [
+                "deviceTablet"
+            ],
+            "width": 818,
+            "height": 1245
+        },
+        "properties": {
+            "screen": {
+                "width": 1840,
+                "height": 2800
+            },
+            "viewport": {
+                "width": 818,
+                "height": 1245
+            },
+            "releaseDate": "2024-08-13",
+            "discontinuedDate": null,
+            "devicePixelRatio": 2.25,
+            "operatingSystem": "HarmonyOS",
+            "deviceType": "tablet",
+            "brand": "Huawei"
+        }
+    },
+    {
+        "id": "id:item:v2024.10.01:matepad-pro-12-2",
+        "slug": "matepad-pro-12-2",
+        "active": true,
+        "labels": {
+            "primary": "MatePad Pro 12.2\"",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "tablet",
+            "touch",
+            "mobile",
+            "huawei"
+        ],
+        "attributes": {
+            "ranking": {
+                "amongAll": 0,
+                "amongBrand": 4
+            },
+            "icons": [
+                "deviceTablet"
+            ],
+            "width": 818,
+            "height": 1245
+        },
+        "properties": {
+            "screen": {
+                "width": 1840,
+                "height": 2800
+            },
+            "viewport": {
+                "width": 818,
+                "height": 1245
+            },
+            "releaseDate": "2024-08-13",
+            "discontinuedDate": null,
+            "devicePixelRatio": 2.25,
+            "operatingSystem": "HarmonyOS",
+            "deviceType": "tablet",
+            "brand": "Huawei"
+        }
+    },
+    {
         "id": "id:item:v2024.10.01:desktop-hidpi-xl",
         "slug": "desktop-hidpi-xl",
         "active": true,
