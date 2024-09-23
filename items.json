@@ -2963,6 +2963,46 @@
         }
     },
     {
+        "id": "id:item:v2024.10.01:matebook-d16",
+        "slug": "matebook-d16",
+        "active": true,
+        "labels": {
+            "primary": "MateBook D16",
+            "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
+        },
+        "tags": [
+            "desktop",
+            "huawei"
+        ],
+        "attributes": {
+            "ranking": {
+                "amongAll": 0,
+                "amongBrand": 1
+            },
+            "icons": [
+                "deviceDesktop"
+            ],
+            "width": 1352,
+            "height": 845
+        },
+        "properties": {
+            "screen": {
+                "width": 1920,
+                "height": 1200
+            },
+            "viewport": {
+                "width": 1352,
+                "height": 845
+            },
+            "releaseDate": "2022-05-23",
+            "discontinuedDate": null,
+            "devicePixelRatio": 1.42,
+            "operatingSystem": "Windows",
+            "deviceType": "desktop",
+            "brand": "Huawei"
+        }
+    },
+    {
         "id": "id:item:v2024.10.01:iphone-16",
         "slug": "iphone-16",
         "active": true,
