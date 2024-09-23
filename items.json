@@ -797,11 +797,11 @@
         }
     },
     {
-        "id": "id:item:v2024.10.01:ipad-pro-12-9-3th-gen-2018",
-        "slug": "ipad-pro-12-9-3th-gen-2018",
+        "id": "id:item:v2024.10.01:ipad-pro-12-9-3rd-gen-2018",
+        "slug": "ipad-pro-12-9-3rd-gen-2018",
         "active": true,
         "labels": {
-            "primary": "iPad Pro 12.9\" (3th gen, 2018)",
+            "primary": "iPad Pro 12.9\" (3rd gen, 2018)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
@@ -812,8 +812,8 @@
         ],
         "attributes": {
             "ranking": {
-                "amongAll": 54,
-                "amongBrand": 0
+                "amongAll": 0,
+                "amongBrand": 7
             },
             "icons": [
                 "deviceTablet",
@@ -840,11 +840,11 @@
         }
     },
     {
-        "id": "id:item:v2024.10.01:ipad-pro-11-3th-gen-2018",
-        "slug": "ipad-pro-11-3th-gen-2018",
+        "id": "id:item:v2024.10.01:ipad-pro-11-3rd-gen-2018",
+        "slug": "ipad-pro-11-3rd-gen-2018",
         "active": true,
         "labels": {
-            "primary": "iPad Pro 11\" (3th gen, 2018)",
+            "primary": "iPad Pro 11\" (3rd gen, 2018)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
@@ -855,8 +855,8 @@
         ],
         "attributes": {
             "ranking": {
-                "amongAll": 53,
-                "amongBrand": 0
+                "amongAll": 0,
+                "amongBrand": 6
             },
             "icons": [
                 "deviceTablet",
@@ -1055,11 +1055,11 @@
         }
     },
     {
-        "id": "id:item:v2024.10.01:ipad-air-3th-gen-2019",
-        "slug": "ipad-air-3th-gen-2019",
+        "id": "id:item:v2024.10.01:ipad-air-3rd-gen-2019",
+        "slug": "ipad-air-3rd-gen-2019",
         "active": true,
         "labels": {
-            "primary": "iPad Air (3th gen, 2019)",
+            "primary": "iPad Air (3rd gen, 2019)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
@@ -1070,8 +1070,8 @@
         ],
         "attributes": {
             "ranking": {
-                "amongAll": 48,
-                "amongBrand": 0
+                "amongAll": 0,
+                "amongBrand": 10
             },
             "icons": [
                 "deviceTablet",
