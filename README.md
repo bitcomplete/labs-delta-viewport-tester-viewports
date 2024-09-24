@@ -45,12 +45,12 @@ consideration).
 ## Icons Used
 Below are links to the open source icons used by Viewport Tester:
 - [Carbon Icons](https://github.com/carbon-design-system/carbon)
-- [Denali Icon Library](Denali Icon Library)
+- [Denali Icon Library](https://github.com/denali-design/denali-icons)
 - [Eva Icons](https://github.com/akveo/eva-icons)
 - [Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons)
 - [Font Awesome Icons](https://github.com/FortAwesome/Font-Awesome)
 - [Google Material Design Icons](https://github.com/google/material-design-icons)
-- [Iconoir Icon Library](Iconoir Icon Library)
+- [Iconoir Icon Library](https://github.com/iconoir-icons/iconoir)
 - [Open Iconic Icon Set](https://github.com/iconic/open-iconic)
 - [Radix Icons](https://github.com/modulz/radix-icons)
 - [Tabler Icons](https://github.com/tabler/tabler-icons)
