@@ -1917,7 +1917,7 @@
         "slug": "imac-4-5k-24-m3-2023",
         "active": true,
         "labels": {
-            "primary": "iMac 4.5K 24\u2033 (M3, 2023)",
+            "primary": "iMac 4.5K 24\" (M3, 2023)",
             "secondary": "{{item.attributes.width}}x{{item.attributes.height}}"
         },
         "tags": [
