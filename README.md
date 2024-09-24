@@ -37,7 +37,9 @@ devices). This has to do with how scrollbars are represented within iframes,
 versus native devices. Specifically, within iframes scrollbars are allocated
 width, whereas most mobile devices overlay the scrollbar over top of the
 content. This will also be addressed in future versions of the data set, whereby
-we specify the scrollbar overlay behaviour.
+we specify the scrollbar overlay behaviour (and we'll adjust the allocated space
+within [Viewport Tester](https://viewport-tester.com/) to take this into
+consideration).
 
 
 ## Preview
