@@ -20,15 +20,15 @@ page.
 
 
 ## Caveats
-- Viewport Tester works similar to how the Chrome Inspector Device Inspector
+- Viewport Tester works similar to how the Chrome Inspector's Device Inspector
 works: it sets the frame dimensions to the exact width and height. An issue with
 this is that almost all devices, by default, include a header (e.g. tabs, URL
-input, etc). Because of this, the viewport dimensions you are see are not
-exactly represenatative of the real-world. Generally, it represents the correct
-width (which is the most important part viewport/breakpoint testing), but what
-you see within the viewport is often more than what a real-world scenario would
-showcase. We plan on addressing this with properties that reflect the header
-offset heights for different devices in the furue.
+input, etc). Because of this, the viewport dimensions you see are not exactly
+representative of the real-world. Generally, it represents the correct width
+(which is the most important part viewport/breakpoint testing), but what you see
+within the viewport is often more than what a real-world scenario would
+showcase. We plan on addressing this in future, with properties that reflect the
+header offset heights for different devices.
 
 
 ## Preview
