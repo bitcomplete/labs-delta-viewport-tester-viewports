@@ -42,6 +42,23 @@ within [Viewport Tester](https://viewport-tester.com/) to take this into
 consideration).
 
 
+## Icons Used
+Below are links to the open source icons used by Viewport Tester:
+- [Carbon Icons](https://github.com/carbon-design-system/carbon)
+- [Denali Icon Library](Denali Icon Library)
+- [Eva Icons](https://github.com/akveo/eva-icons)
+- [Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons)
+- [Font Awesome Icons](https://github.com/FortAwesome/Font-Awesome)
+- [Google Material Design Icons](https://github.com/google/material-design-icons)
+- [Iconoir Icon Library](Iconoir Icon Library)
+- [Open Iconic Icon Set](https://github.com/iconic/open-iconic)
+- [Radix Icons](https://github.com/modulz/radix-icons)
+- [Tabler Icons](https://github.com/tabler/tabler-icons)
+- [Unicons Icon Set](https://github.com/Iconscout/unicons)
+- [Vaadin Icons](https://github.com/vaadin/vaadin-icons)
+- [Yandex UI Icons](https://github.com/bem/yandex-ui-icons)
+
+
 ## Preview
 Preview of how this data is used in
 [Viewport Tester](https://viewport-tester.com):
