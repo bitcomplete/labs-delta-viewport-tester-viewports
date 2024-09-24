@@ -10,12 +10,26 @@ submit a PR to this `README.md` file so we can link to your project).
 Additionally, we're sure our list of devices / viewports is missing some. If so,
 please submit a PR so we can maintain this JSON database of viewports.
 
+
 ## Share your ideas/feedback
 You can reach us at
 [hello@viewport-tester.com](mailto:hello@viewport-tester.com) with any ideas,
 questions, or issues you've noticed that you'd prefer not to post on our
 [issues](https://github.com/bitcomplete/labs-delta-viewport-tester-viewports/issues)
 page.
+
+
+## Caveats
+- Viewport Tester works similar to how the Chrome Inspector Device Inspector
+works: it sets the frame dimensions to the exact width and height. An issue with
+this is that almost all devices, by default, include a header (e.g. tabs, URL
+input, etc). Because of this, the viewport dimensions you are see are not
+exactly represenatative of the real-world. Generally, it represents the correct
+width (which is the most important part viewport/breakpoint testing), but what
+you see within the viewport is often more than what a real-world scenario would
+showcase. We plan on addressing this with properties that reflect the header
+offset heights for different devices in the furue.
+
 
 ## Preview
 Preview of how this data is used in
