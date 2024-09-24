@@ -30,13 +30,14 @@ viewport/breakpoint testing), but what you see within the viewport is often more
 than what a real-world scenario would showcase. We plan on addressing this in
 future, with properties that reflect the header offset heights for different
 devices.
-- There is a small width pixel difference between what's represented in
-[Viewport Tester](https://viewport-tester.com/), and real world scenarios. This
-has to do with how scrollbars are represented within iframes, versus native
-devices. Specifically, within iframes scrollbars are allocated width, whereas
-most mobile devices overlay the scrollbar over top of the content. This will
-also be addressed in future versions of the data set, whereby we specify the
-scrollbar overlay behaviour.
+- There is sometimes a small width pixel difference between what's represented
+in [Viewport Tester](https://viewport-tester.com/), and real world scenarios
+(primarily limited to mobile and table devices, but sometimes also desktop
+devices). This has to do with how scrollbars are represented within iframes,
+versus native devices. Specifically, within iframes scrollbars are allocated
+width, whereas most mobile devices overlay the scrollbar over top of the
+content. This will also be addressed in future versions of the data set, whereby
+we specify the scrollbar overlay behaviour.
 
 
 ## Preview
