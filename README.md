@@ -20,21 +20,23 @@ page.
 
 
 ## Caveats
-- Viewport Tester works similar to how the Chrome Inspector's Device Inspector
-works: it sets the frame dimensions to the exact width and height. An issue with
-this is that almost all devices, by default, include a header (e.g. tabs, URL
-input, etc). Because of this, the viewport dimensions you see are not exactly
-representative of the real-world. Generally, it represents the correct width
-(which is the most important part viewport/breakpoint testing), but what you see
-within the viewport is often more than what a real-world scenario would
-showcase. We plan on addressing this in future, with properties that reflect the
-header offset heights for different devices.
+- [Viewport Tester](https://viewport-tester.com/) works similar to how the
+Chrome Inspector's Device Inspector works: it sets the frame dimensions to the
+exact width and height. An issue with this is that almost all devices, by
+default, include a header (e.g. tabs, URL input, etc). Because of this, the
+viewport dimensions you see are not exactly representative of the real-world.
+Generally, it represents the correct width (which is the most important part
+viewport/breakpoint testing), but what you see within the viewport is often more
+than what a real-world scenario would showcase. We plan on addressing this in
+future, with properties that reflect the header offset heights for different
+devices.
 - There is a small width pixel difference between what's represented in
-Viewport Tester, and real world scenarios. This has to do with how scrollbars
-are represented within iframes, versus native devices. Specifically, within
-iframes scrollbars are allocated width, whereas most mobile devices overlay the
-scrollbar over top of the content. This will also be addressed in future
-versions of the data set, whereby we specify the scrollbar overlay behaviour.
+[Viewport Tester](https://viewport-tester.com/), and real world scenarios. This
+has to do with how scrollbars are represented within iframes, versus native
+devices. Specifically, within iframes scrollbars are allocated width, whereas
+most mobile devices overlay the scrollbar over top of the content. This will
+also be addressed in future versions of the data set, whereby we specify the
+scrollbar overlay behaviour.
 
 
 ## Preview
