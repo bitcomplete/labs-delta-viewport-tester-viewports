@@ -53,6 +53,7 @@ Below are links to the open source icons used by Viewport Tester:
 - [Iconoir Icon Library](https://github.com/iconoir-icons/iconoir)
 - [Open Iconic Icon Set](https://github.com/iconic/open-iconic)
 - [Radix Icons](https://github.com/modulz/radix-icons)
+- [Remix Icon Set](https://github.com/Remix-Design/RemixIcon)
 - [Tabler Icons](https://github.com/tabler/tabler-icons)
 - [Unicons Icon Set](https://github.com/Iconscout/unicons)
 - [Vaadin Icons](https://github.com/vaadin/vaadin-icons)
