@@ -20,7 +20,7 @@ page.
 
 
 ## Caveats
-- [Viewport Tester](https://viewport-tester.com/) works similar to how the
+1. [Viewport Tester](https://viewport-tester.com/) works similar to how the
 Chrome Inspector's Device Inspector works: it sets the frame dimensions to the
 exact width and height. An issue with this is that almost all devices, by
 default, include a header (e.g. tabs, URL input, etc). Because of this, the
@@ -30,7 +30,7 @@ viewport/breakpoint testing), but what you see within the viewport is often more
 than what a real-world scenario would showcase. We plan on addressing this in
 future, with properties that reflect the header offset heights for different
 devices.
-- There is sometimes a small width pixel difference between what's represented
+2. There is sometimes a small width pixel difference between what's represented
 in [Viewport Tester](https://viewport-tester.com/), and real world scenarios
 (primarily limited to mobile and table devices, but sometimes also desktop
 devices). This has to do with how scrollbars are represented within iframes,
